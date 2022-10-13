@@ -1,0 +1,875 @@
+[2022-10-12T11:17:48.379+0600] {processor.py:156} INFO - Started process (PID=13121) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:17:48.382+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:17:48.383+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:17:48.382+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:17:48.455+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:17:48.510+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:17:48.509+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:17:48.546+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:17:48.546+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:17:48.602+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.228 seconds
+[2022-10-12T11:30:37.147+0600] {processor.py:156} INFO - Started process (PID=13422) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:30:37.149+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:30:37.149+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:37.149+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:30:37.186+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:30:37.210+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:37.210+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:30:37.223+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:37.223+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:30:37.251+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.109 seconds
+[2022-10-12T11:31:59.307+0600] {processor.py:156} INFO - Started process (PID=13493) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:31:59.308+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:31:59.309+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:59.308+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:31:59.339+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:31:59.363+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:59.363+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:31:59.377+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:59.377+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:31:59.409+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2022-10-12T11:33:13.814+0600] {processor.py:156} INFO - Started process (PID=13561) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:33:13.816+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:33:13.817+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:33:13.816+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:33:13.855+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:33:13.878+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:33:13.878+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:33:13.892+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:33:13.892+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:33:13.920+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.114 seconds
+[2022-10-12T11:34:33.742+0600] {processor.py:156} INFO - Started process (PID=13631) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:34:33.743+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:34:33.743+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:33.743+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:34:33.777+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:34:33.804+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:33.804+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:34:33.821+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:33.821+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:34:33.847+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.108 seconds
+[2022-10-12T11:35:50.638+0600] {processor.py:156} INFO - Started process (PID=13702) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:35:50.640+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:35:50.641+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:50.641+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:35:50.678+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:35:50.702+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:50.702+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:35:50.715+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:50.715+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:35:50.746+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.116 seconds
+[2022-10-12T11:37:10.140+0600] {processor.py:156} INFO - Started process (PID=13773) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:37:10.141+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:37:10.142+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:37:10.142+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:37:10.174+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:37:10.197+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:37:10.197+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:37:10.211+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:37:10.211+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:37:10.242+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.106 seconds
+[2022-10-12T11:38:30.026+0600] {processor.py:156} INFO - Started process (PID=13844) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:38:30.027+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:38:30.027+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:38:30.027+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:38:30.060+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:38:30.085+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:38:30.085+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:38:30.099+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:38:30.099+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:38:30.129+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.107 seconds
+[2022-10-12T11:39:51.184+0600] {processor.py:156} INFO - Started process (PID=13917) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:39:51.187+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:39:51.188+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:51.188+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:39:51.232+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:39:51.256+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:51.256+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:39:51.269+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:51.269+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:39:51.298+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.124 seconds
+[2022-10-12T11:41:08.027+0600] {processor.py:156} INFO - Started process (PID=13986) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:41:08.028+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:41:08.029+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:41:08.029+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:41:08.066+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:41:08.093+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:41:08.093+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:41:08.107+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:41:08.106+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:41:08.136+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.120 seconds
+[2022-10-12T11:42:24.469+0600] {processor.py:156} INFO - Started process (PID=14057) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:42:24.470+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:42:24.471+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:42:24.470+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:42:24.501+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:42:24.525+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:42:24.524+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:42:24.538+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:42:24.538+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:42:24.570+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.106 seconds
+[2022-10-12T11:43:42.429+0600] {processor.py:156} INFO - Started process (PID=14127) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:43:42.432+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:43:42.433+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:42.433+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:43:42.479+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:43:42.505+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:42.505+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:43:42.518+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:42.518+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:43:42.569+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.150 seconds
+[2022-10-12T11:45:02.555+0600] {processor.py:156} INFO - Started process (PID=14200) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:45:02.556+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:45:02.556+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:45:02.556+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:45:02.587+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:45:02.610+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:45:02.610+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:45:02.624+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:45:02.624+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:45:02.664+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.113 seconds
+[2022-10-12T11:46:20.958+0600] {processor.py:156} INFO - Started process (PID=14271) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:46:20.959+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:46:20.960+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:46:20.960+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:46:20.997+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:46:21.021+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:46:21.021+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:46:21.037+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:46:21.037+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:46:21.071+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.116 seconds
+[2022-10-12T11:47:37.742+0600] {processor.py:156} INFO - Started process (PID=14341) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:47:37.743+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:47:37.743+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:37.743+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:47:37.776+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:47:37.802+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:37.802+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:47:37.816+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:37.815+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:47:37.846+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.109 seconds
+[2022-10-12T11:48:56.291+0600] {processor.py:156} INFO - Started process (PID=14412) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:48:56.292+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:48:56.292+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:56.292+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:48:56.324+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:48:56.348+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:56.348+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:48:56.362+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:56.362+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:48:56.391+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2022-10-12T11:50:13.238+0600] {processor.py:156} INFO - Started process (PID=14482) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:50:13.239+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:50:13.240+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:50:13.240+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:50:13.275+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:50:13.298+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:50:13.298+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:50:13.313+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:50:13.313+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:50:13.344+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.116 seconds
+[2022-10-12T11:51:32.215+0600] {processor.py:156} INFO - Started process (PID=14553) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:51:32.216+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:51:32.216+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:32.216+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:51:32.247+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:51:32.270+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:32.270+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:51:32.285+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:32.285+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:51:32.316+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2022-10-12T11:52:52.093+0600] {processor.py:156} INFO - Started process (PID=14624) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:52:52.094+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:52:52.095+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:52.095+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:52:52.127+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:52:52.150+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:52.150+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:52:52.164+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:52.163+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:52:52.197+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.108 seconds
+[2022-10-12T11:54:08.572+0600] {processor.py:156} INFO - Started process (PID=14694) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:54:08.573+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:54:08.574+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:54:08.574+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:54:08.618+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:54:08.658+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:54:08.657+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:54:08.680+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:54:08.680+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:54:08.724+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.158 seconds
+[2022-10-12T11:55:25.634+0600] {processor.py:156} INFO - Started process (PID=14764) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:55:25.634+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:55:25.635+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:55:25.635+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:55:25.664+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:55:25.688+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:55:25.688+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:55:25.704+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:55:25.704+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:55:25.735+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2022-10-12T11:56:50.386+0600] {processor.py:156} INFO - Started process (PID=14837) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:56:50.388+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:56:50.389+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:50.389+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:56:50.433+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:56:50.459+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:50.459+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:56:50.473+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:50.473+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:56:50.502+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.126 seconds
+[2022-10-12T11:58:12.715+0600] {processor.py:156} INFO - Started process (PID=14909) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:58:12.716+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:58:12.716+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:58:12.716+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:58:12.747+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:58:12.771+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:58:12.771+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:58:12.785+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:58:12.784+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:58:12.816+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.103 seconds
+[2022-10-12T11:59:32.014+0600] {processor.py:156} INFO - Started process (PID=14980) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:59:32.015+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T11:59:32.015+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:32.015+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:59:32.047+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T11:59:32.070+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:32.070+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:59:32.084+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:32.084+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:59:32.133+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.123 seconds
+[2022-10-12T12:00:48.891+0600] {processor.py:156} INFO - Started process (PID=15049) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:00:48.892+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:00:48.893+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:48.893+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:00:48.926+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:00:48.949+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:48.949+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:00:48.962+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:48.962+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:00:48.992+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.106 seconds
+[2022-10-12T12:02:06.224+0600] {processor.py:156} INFO - Started process (PID=15120) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:02:06.225+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:02:06.225+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:02:06.225+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:02:06.255+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:02:06.278+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:02:06.278+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:02:06.292+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:02:06.292+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:02:06.322+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.101 seconds
+[2022-10-12T12:03:25.966+0600] {processor.py:156} INFO - Started process (PID=15190) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:03:25.967+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:03:25.967+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:03:25.967+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:03:25.997+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:03:26.021+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:03:26.021+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:03:26.035+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:03:26.035+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:03:26.066+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.103 seconds
+[2022-10-12T12:04:45.301+0600] {processor.py:156} INFO - Started process (PID=15261) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:04:45.302+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:04:45.302+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:45.302+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:04:45.332+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:04:45.355+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:45.355+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:04:45.368+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:45.368+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:04:45.537+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.240 seconds
+[2022-10-12T12:06:07.300+0600] {processor.py:156} INFO - Started process (PID=15333) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:06:07.301+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:06:07.302+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:06:07.302+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:06:07.333+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:06:07.357+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:06:07.357+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:06:07.372+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:06:07.372+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:06:07.404+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.106 seconds
+[2022-10-12T12:07:29.964+0600] {processor.py:156} INFO - Started process (PID=15406) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:07:29.965+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:07:29.965+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:07:29.965+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:07:29.995+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:07:30.018+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:07:30.017+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:07:30.032+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:07:30.032+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:07:30.061+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.101 seconds
+[2022-10-12T12:08:50.902+0600] {processor.py:156} INFO - Started process (PID=15478) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:08:50.904+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:08:50.905+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:50.905+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:08:50.940+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:08:50.964+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:50.964+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:08:50.977+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:50.977+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:08:51.008+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.113 seconds
+[2022-10-12T12:10:07.498+0600] {processor.py:156} INFO - Started process (PID=15549) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:10:07.499+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:10:07.499+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:10:07.499+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:10:07.534+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:10:07.557+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:10:07.557+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:10:07.571+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:10:07.571+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:10:07.601+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.108 seconds
+[2022-10-12T12:11:30.185+0600] {processor.py:156} INFO - Started process (PID=15621) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:11:30.186+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:11:30.187+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:11:30.187+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:11:30.218+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:11:30.242+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:11:30.242+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:11:30.256+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:11:30.256+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:11:30.321+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.141 seconds
+[2022-10-12T12:12:47.305+0600] {processor.py:156} INFO - Started process (PID=15691) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:12:47.306+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:12:47.307+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:47.307+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:12:47.338+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:12:47.361+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:47.361+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:12:47.375+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:47.375+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:12:47.428+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.130 seconds
+[2022-10-12T12:14:04.788+0600] {processor.py:156} INFO - Started process (PID=15761) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:14:04.791+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:14:04.792+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:14:04.792+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:14:04.845+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:14:04.873+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:14:04.873+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:14:04.887+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:14:04.887+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:14:04.917+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.137 seconds
+[2022-10-12T12:15:22.919+0600] {processor.py:156} INFO - Started process (PID=15832) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:15:22.920+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:15:22.920+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:15:22.920+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:15:22.951+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:15:22.976+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:15:22.976+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:15:22.989+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:15:22.989+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:15:23.020+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2022-10-12T12:16:39.848+0600] {processor.py:156} INFO - Started process (PID=15901) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:16:39.850+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:16:39.851+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:39.850+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:16:39.886+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:16:39.910+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:39.910+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:16:39.924+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:39.924+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:16:39.955+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.112 seconds
+[2022-10-12T12:18:05.962+0600] {processor.py:156} INFO - Started process (PID=15974) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:18:05.964+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:18:05.965+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:18:05.965+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:18:06.011+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:18:06.036+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:18:06.036+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:18:06.049+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:18:06.049+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:18:06.080+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.126 seconds
+[2022-10-12T12:19:20.225+0600] {processor.py:156} INFO - Started process (PID=16043) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:19:20.226+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:19:20.226+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:19:20.226+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:19:20.257+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:19:20.281+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:19:20.281+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:19:20.294+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:19:20.294+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:19:20.325+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.103 seconds
+[2022-10-12T12:20:41.668+0600] {processor.py:156} INFO - Started process (PID=16114) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:20:41.669+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:20:41.670+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:41.670+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:20:41.702+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:20:41.726+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:41.726+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:20:41.739+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:41.739+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:20:41.769+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.105 seconds
+[2022-10-12T12:21:56.936+0600] {processor.py:156} INFO - Started process (PID=16184) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:21:56.937+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:21:56.938+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:56.938+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:21:56.970+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:21:56.993+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:56.993+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:21:57.007+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:57.007+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:21:57.036+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.103 seconds
+[2022-10-12T12:23:20.068+0600] {processor.py:156} INFO - Started process (PID=16257) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:23:20.070+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:23:20.071+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:23:20.071+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:23:20.111+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:23:20.135+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:23:20.134+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:23:20.148+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:23:20.148+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:23:20.176+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.116 seconds
+[2022-10-12T12:24:40.359+0600] {processor.py:156} INFO - Started process (PID=16328) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:24:40.361+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:24:40.362+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:40.361+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:24:40.399+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:24:40.422+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:40.422+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:24:40.435+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:40.435+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:24:40.476+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.134 seconds
+[2022-10-12T12:25:58.729+0600] {processor.py:156} INFO - Started process (PID=16400) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:25:58.730+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:25:58.731+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:58.731+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:25:58.777+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:25:58.813+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:58.813+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:25:58.828+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:58.828+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:25:58.859+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.136 seconds
+[2022-10-12T12:27:21.480+0600] {processor.py:156} INFO - Started process (PID=16472) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:27:21.481+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:27:21.481+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:27:21.481+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:27:21.515+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:27:21.538+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:27:21.538+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:27:21.552+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:27:21.551+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:27:21.582+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.108 seconds
+[2022-10-12T12:37:20.716+0600] {processor.py:156} INFO - Started process (PID=16542) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:37:20.717+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:37:20.718+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:20.717+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:37:20.752+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:37:20.776+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:20.776+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:37:20.789+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:20.789+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:37:20.818+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.105 seconds
+[2022-10-12T12:38:42.643+0600] {processor.py:156} INFO - Started process (PID=16614) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:38:42.644+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:38:42.644+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:42.644+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:38:42.676+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:38:42.699+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:42.698+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:38:42.712+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:42.711+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:38:42.742+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2022-10-12T12:40:01.426+0600] {processor.py:156} INFO - Started process (PID=16686) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:40:01.427+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:40:01.428+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:40:01.428+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:40:01.464+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:40:01.487+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:40:01.487+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:40:01.500+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:40:01.500+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:40:01.531+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.112 seconds
+[2022-10-12T12:41:18.957+0600] {processor.py:156} INFO - Started process (PID=16756) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:41:18.958+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:41:18.958+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:18.958+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:41:18.992+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:41:19.015+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:19.015+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:41:19.028+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:19.028+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:41:19.057+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.106 seconds
+[2022-10-12T12:42:37.716+0600] {processor.py:156} INFO - Started process (PID=16826) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:42:37.717+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:42:37.717+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:42:37.717+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:42:37.749+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:42:37.773+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:42:37.773+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:42:37.786+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:42:37.786+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:42:37.816+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.105 seconds
+[2022-10-12T12:43:59.483+0600] {processor.py:156} INFO - Started process (PID=16898) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:43:59.484+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:43:59.485+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:59.485+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:43:59.518+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:43:59.541+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:59.541+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:43:59.554+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:59.554+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:43:59.585+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.107 seconds
+[2022-10-12T12:45:24.980+0600] {processor.py:156} INFO - Started process (PID=16969) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:45:24.980+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:45:24.981+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:24.981+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:45:25.011+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:45:25.034+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:25.034+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:45:25.049+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:25.049+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:45:25.085+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.109 seconds
+[2022-10-12T12:46:45.016+0600] {processor.py:156} INFO - Started process (PID=17041) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:46:45.017+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:46:45.018+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:46:45.017+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:46:45.059+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:46:45.084+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:46:45.084+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:46:45.098+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:46:45.098+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:46:45.130+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.119 seconds
+[2022-10-12T12:48:01.647+0600] {processor.py:156} INFO - Started process (PID=17112) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:48:01.648+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:48:01.649+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:48:01.649+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:48:01.683+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:48:01.709+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:48:01.709+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:48:01.723+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:48:01.723+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:48:01.754+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.112 seconds
+[2022-10-12T12:49:20.102+0600] {processor.py:156} INFO - Started process (PID=17182) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:49:20.103+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:49:20.103+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:20.103+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:49:20.141+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:49:20.168+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:20.167+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:49:20.183+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:20.183+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:49:20.212+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.114 seconds
+[2022-10-12T12:50:40.859+0600] {processor.py:156} INFO - Started process (PID=17253) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:50:40.860+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:50:40.862+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:50:40.861+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:50:40.912+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:50:40.936+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:50:40.936+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:50:40.950+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:50:40.950+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:50:40.980+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.129 seconds
+[2022-10-12T12:52:01.010+0600] {processor.py:156} INFO - Started process (PID=17324) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:52:01.011+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:52:01.011+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:52:01.011+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:52:01.043+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:52:01.069+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:52:01.069+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:52:01.083+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:52:01.083+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:52:01.113+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.106 seconds
+[2022-10-12T12:53:20.445+0600] {processor.py:156} INFO - Started process (PID=17395) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:53:20.447+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:53:20.447+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:20.447+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:53:20.482+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:53:20.507+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:20.507+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:53:20.520+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:20.520+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:53:20.551+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.111 seconds
+[2022-10-12T12:54:40.385+0600] {processor.py:156} INFO - Started process (PID=17466) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:54:40.385+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:54:40.386+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:54:40.386+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:54:40.417+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:54:40.443+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:54:40.443+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:54:40.458+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:54:40.458+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:54:40.490+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.108 seconds
+[2022-10-12T12:55:57.143+0600] {processor.py:156} INFO - Started process (PID=17535) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:55:57.145+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:55:57.147+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:57.146+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:55:57.197+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:55:57.222+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:57.222+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:55:57.236+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:57.236+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:55:57.273+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.138 seconds
+[2022-10-12T12:57:21.225+0600] {processor.py:156} INFO - Started process (PID=17608) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:57:21.226+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:57:21.227+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:21.227+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:57:21.267+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:57:21.293+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:21.293+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:57:21.307+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:21.307+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:57:21.455+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.235 seconds
+[2022-10-12T12:58:42.602+0600] {processor.py:156} INFO - Started process (PID=17681) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:58:42.603+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T12:58:42.604+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:58:42.603+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:58:42.638+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T12:58:42.662+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:58:42.662+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:58:42.677+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:58:42.676+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:58:42.705+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.108 seconds
+[2022-10-12T13:00:02.048+0600] {processor.py:156} INFO - Started process (PID=17751) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:00:02.050+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:00:02.051+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:00:02.051+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:00:02.096+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:00:02.121+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:00:02.121+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:00:02.136+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:00:02.136+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:00:02.166+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.126 seconds
+[2022-10-12T13:01:18.569+0600] {processor.py:156} INFO - Started process (PID=17822) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:01:18.569+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:01:18.570+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:18.570+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:01:18.602+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:01:18.628+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:18.627+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:01:18.643+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:18.643+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:01:18.674+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.109 seconds
+[2022-10-12T13:02:38.468+0600] {processor.py:156} INFO - Started process (PID=17892) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:02:38.469+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:02:38.469+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:02:38.469+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:02:38.502+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:02:38.528+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:02:38.527+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:02:38.541+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:02:38.541+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:02:38.572+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.109 seconds
+[2022-10-12T13:04:03.313+0600] {processor.py:156} INFO - Started process (PID=17966) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:04:03.314+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:04:03.315+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:04:03.314+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:04:03.349+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:04:03.373+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:04:03.373+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:04:03.387+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:04:03.387+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:04:03.416+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.109 seconds
+[2022-10-12T13:05:28.526+0600] {processor.py:156} INFO - Started process (PID=18039) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:05:28.527+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:05:28.527+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:05:28.527+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:05:28.558+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:05:28.583+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:05:28.583+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:05:28.597+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:05:28.597+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:05:28.629+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.106 seconds
+[2022-10-12T13:06:49.136+0600] {processor.py:156} INFO - Started process (PID=18112) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:06:49.137+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:06:49.137+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:49.137+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:06:49.169+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:06:49.196+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:49.195+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:06:49.210+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:49.209+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:06:49.247+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.114 seconds
+[2022-10-12T13:08:04.664+0600] {processor.py:156} INFO - Started process (PID=18181) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:08:04.666+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:08:04.668+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:08:04.667+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:08:04.744+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:08:04.776+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:08:04.776+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:08:04.789+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:08:04.789+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:08:04.819+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.164 seconds
+[2022-10-12T13:09:23.089+0600] {processor.py:156} INFO - Started process (PID=18252) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:09:23.090+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:09:23.090+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:23.090+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:09:23.120+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:09:23.144+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:23.144+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:09:23.158+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:23.158+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:09:23.188+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.111 seconds
+[2022-10-12T13:10:45.378+0600] {processor.py:156} INFO - Started process (PID=18323) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:10:45.379+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:10:45.379+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:10:45.379+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:10:45.410+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:10:45.435+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:10:45.435+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:10:45.449+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:10:45.449+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:10:45.480+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.105 seconds
+[2022-10-12T13:12:03.750+0600] {processor.py:156} INFO - Started process (PID=18393) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:12:03.750+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:12:03.751+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:12:03.751+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:12:03.778+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:12:03.805+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:12:03.804+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:12:03.820+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:12:03.820+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:12:03.858+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.113 seconds
+[2022-10-12T13:13:24.986+0600] {processor.py:156} INFO - Started process (PID=18465) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:13:24.987+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:13:24.987+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:24.987+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:13:25.018+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:13:25.044+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:25.044+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:13:25.057+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:25.057+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:13:25.087+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.107 seconds
+[2022-10-12T13:14:43.972+0600] {processor.py:156} INFO - Started process (PID=18536) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:14:43.975+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:14:43.976+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:14:43.976+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:14:44.018+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:14:44.042+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:14:44.042+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:14:44.056+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:14:44.056+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:14:44.088+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.125 seconds
+[2022-10-12T13:16:00.028+0600] {processor.py:156} INFO - Started process (PID=18606) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:16:00.030+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:16:00.031+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:16:00.031+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:16:00.069+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:16:00.093+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:16:00.093+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:16:00.108+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:16:00.108+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:16:00.140+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.120 seconds
+[2022-10-12T13:17:14.614+0600] {processor.py:156} INFO - Started process (PID=18675) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:17:14.615+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:17:14.616+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:14.615+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:17:14.650+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:17:14.677+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:14.677+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:17:14.690+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:14.690+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:17:14.721+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.112 seconds
+[2022-10-12T13:18:36.456+0600] {processor.py:156} INFO - Started process (PID=18747) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:18:36.458+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:18:36.459+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:18:36.459+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:18:36.507+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:18:36.532+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:18:36.532+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:18:36.545+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:18:36.545+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:18:36.582+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.134 seconds
+[2022-10-12T13:19:56.122+0600] {processor.py:156} INFO - Started process (PID=18817) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:19:56.123+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T13:19:56.124+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:56.123+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:19:56.155+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T13:19:56.180+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:56.180+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:19:56.194+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:56.194+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:19:56.302+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.183 seconds
+[2022-10-12T15:08:41.648+0600] {processor.py:156} INFO - Started process (PID=18908) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:08:41.649+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:08:41.650+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:41.649+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:08:41.684+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:08:41.709+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:41.709+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:08:41.723+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:41.723+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:08:41.753+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.108 seconds
+[2022-10-12T15:09:56.533+0600] {processor.py:156} INFO - Started process (PID=18977) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:09:56.534+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:09:56.534+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:56.534+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:09:56.573+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:09:56.601+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:56.601+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:09:56.616+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:56.616+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:09:56.645+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.115 seconds
+[2022-10-12T15:11:17.304+0600] {processor.py:156} INFO - Started process (PID=19047) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:11:17.305+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:11:17.306+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:11:17.306+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:11:17.338+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:11:17.362+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:11:17.362+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:11:17.375+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:11:17.375+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:11:17.405+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.106 seconds
+[2022-10-12T15:12:41.108+0600] {processor.py:156} INFO - Started process (PID=19120) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:12:41.109+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:12:41.110+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:41.109+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:12:41.139+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:12:41.163+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:41.163+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:12:41.178+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:41.178+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:12:41.206+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.101 seconds
+[2022-10-12T15:14:02.043+0600] {processor.py:156} INFO - Started process (PID=19192) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:14:02.045+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:14:02.047+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:14:02.046+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:14:02.097+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:14:02.122+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:14:02.122+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:14:02.136+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:14:02.136+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:14:02.165+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.130 seconds
+[2022-10-12T15:15:22.153+0600] {processor.py:156} INFO - Started process (PID=19263) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:15:22.154+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:15:22.154+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:22.154+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:15:22.185+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:15:22.208+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:22.208+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:15:22.221+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:22.221+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:15:22.252+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.103 seconds
+[2022-10-12T15:16:43.472+0600] {processor.py:156} INFO - Started process (PID=19335) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:16:43.473+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:16:43.473+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:16:43.473+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:16:43.503+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:16:43.527+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:16:43.526+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:16:43.541+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:16:43.541+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:16:43.573+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2022-10-12T15:18:01.695+0600] {processor.py:156} INFO - Started process (PID=19406) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:18:01.696+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:18:01.696+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:18:01.696+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:18:01.726+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:18:01.750+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:18:01.750+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:18:01.764+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:18:01.764+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:18:01.816+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.124 seconds
+[2022-10-12T15:19:20.646+0600] {processor.py:156} INFO - Started process (PID=19477) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:19:20.647+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:19:20.648+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:20.648+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:19:20.678+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:19:20.703+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:20.703+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:19:20.716+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:20.716+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:19:20.746+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2022-10-12T15:20:39.676+0600] {processor.py:156} INFO - Started process (PID=19548) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:20:39.678+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:20:39.679+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:20:39.679+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:20:39.726+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:20:39.758+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:20:39.758+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:20:39.772+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:20:39.772+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:20:39.831+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.163 seconds
+[2022-10-12T15:21:57.781+0600] {processor.py:156} INFO - Started process (PID=19619) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:21:57.783+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:21:57.784+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:57.784+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:21:57.824+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:21:57.848+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:57.848+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:21:57.862+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:57.862+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:21:57.977+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.206 seconds
+[2022-10-12T15:23:14.483+0600] {processor.py:156} INFO - Started process (PID=19689) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:23:14.484+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:23:14.485+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:14.485+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:23:14.515+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:23:14.539+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:14.539+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:23:14.553+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:14.553+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:23:14.583+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.102 seconds
+[2022-10-12T15:24:30.541+0600] {processor.py:156} INFO - Started process (PID=19758) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:24:30.543+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:24:30.544+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:24:30.544+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:24:30.597+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:24:30.623+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:24:30.623+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:24:30.637+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:24:30.637+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:24:30.666+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.133 seconds
+[2022-10-12T15:25:50.963+0600] {processor.py:156} INFO - Started process (PID=19829) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:25:50.964+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:25:50.964+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:50.964+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:25:50.995+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:25:51.018+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:51.018+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:25:51.031+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:51.031+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:25:51.063+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2022-10-12T15:27:17.206+0600] {processor.py:156} INFO - Started process (PID=19903) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:27:17.206+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:27:17.207+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:17.207+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:27:17.235+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:27:17.259+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:17.258+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:27:17.272+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:17.272+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:27:17.379+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.178 seconds
+[2022-10-12T15:28:36.041+0600] {processor.py:156} INFO - Started process (PID=19974) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:28:36.043+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:28:36.044+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:28:36.044+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:28:36.085+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:28:36.109+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:28:36.108+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:28:36.123+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:28:36.122+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:28:36.152+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.118 seconds
+[2022-10-12T15:30:00.499+0600] {processor.py:156} INFO - Started process (PID=20047) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:30:00.500+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:30:00.501+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:30:00.501+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:30:00.532+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:30:00.555+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:30:00.555+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:30:00.569+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:30:00.569+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:30:00.597+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.102 seconds
+[2022-10-12T15:31:19.666+0600] {processor.py:156} INFO - Started process (PID=20118) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:31:19.667+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:31:19.668+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:19.668+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:31:19.701+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:31:19.724+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:19.724+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:31:19.737+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:19.737+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:31:19.764+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.103 seconds
+[2022-10-12T15:32:46.850+0600] {processor.py:156} INFO - Started process (PID=20192) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:32:46.852+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:32:46.854+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:32:46.853+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:32:46.892+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:32:46.918+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:32:46.918+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:32:47.008+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:32:47.008+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:32:47.059+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.217 seconds
+[2022-10-12T15:34:07.434+0600] {processor.py:156} INFO - Started process (PID=20265) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:34:07.436+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:34:07.438+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:34:07.437+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:34:07.475+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:34:07.500+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:34:07.499+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:34:07.513+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:34:07.513+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:34:07.542+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.116 seconds
+[2022-10-12T15:35:22.125+0600] {processor.py:156} INFO - Started process (PID=20333) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:35:22.127+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:35:22.127+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:22.127+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:35:22.161+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:35:22.186+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:22.186+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:35:22.199+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:22.199+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:35:22.230+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.110 seconds
+[2022-10-12T15:36:43.240+0600] {processor.py:156} INFO - Started process (PID=20405) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:36:43.241+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:36:43.241+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:36:43.241+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:36:43.275+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:36:43.298+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:36:43.298+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:36:43.311+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:36:43.311+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:36:43.342+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.108 seconds
+[2022-10-12T15:38:00.835+0600] {processor.py:156} INFO - Started process (PID=20476) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:38:00.836+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:38:00.837+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:38:00.836+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:38:00.878+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:38:00.910+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:38:00.910+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:38:01.014+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:38:01.013+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:38:01.044+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.214 seconds
+[2022-10-12T15:39:24.949+0600] {processor.py:156} INFO - Started process (PID=20548) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:39:24.950+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:39:24.951+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:24.950+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:39:24.981+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:39:25.006+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:25.006+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:39:25.019+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:25.019+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:39:25.048+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.102 seconds
+[2022-10-12T15:40:48.996+0600] {processor.py:156} INFO - Started process (PID=20621) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:40:48.997+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:40:48.997+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:40:48.997+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:40:49.030+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:40:49.056+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:40:49.056+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:40:49.072+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:40:49.072+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:40:49.102+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.109 seconds
+[2022-10-12T15:42:09.601+0600] {processor.py:156} INFO - Started process (PID=20693) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:42:09.602+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:42:09.603+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:09.603+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:42:09.637+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:42:09.661+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:09.661+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:42:09.675+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:09.675+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:42:09.704+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.108 seconds
+[2022-10-12T15:43:30.688+0600] {processor.py:156} INFO - Started process (PID=20765) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:43:30.689+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:43:30.689+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:43:30.689+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:43:30.718+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:43:30.743+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:43:30.742+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:43:30.833+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:43:30.833+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:43:30.863+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.179 seconds
+[2022-10-12T15:44:48.171+0600] {processor.py:156} INFO - Started process (PID=20835) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:44:48.172+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:44:48.173+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:48.173+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:44:48.205+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:44:48.231+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:48.231+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:44:48.247+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:48.247+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:44:48.279+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.112 seconds
+[2022-10-12T15:46:11.125+0600] {processor.py:156} INFO - Started process (PID=20908) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:46:11.127+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:46:11.127+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:11.127+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:46:11.162+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:46:11.186+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:11.186+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:46:11.202+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:11.202+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:46:11.229+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.109 seconds
+[2022-10-12T15:47:36.182+0600] {processor.py:156} INFO - Started process (PID=20982) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:47:36.185+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:47:36.187+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:47:36.186+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:47:36.227+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:47:36.250+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:47:36.250+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:47:36.264+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:47:36.264+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:47:36.372+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.201 seconds
+[2022-10-12T15:48:59.295+0600] {processor.py:156} INFO - Started process (PID=21054) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:48:59.298+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:48:59.299+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:59.299+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:48:59.332+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:48:59.356+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:59.356+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:48:59.370+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:59.370+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:48:59.401+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.115 seconds
+[2022-10-12T15:50:19.166+0600] {processor.py:156} INFO - Started process (PID=21125) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:50:19.168+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:50:19.169+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:19.169+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:50:19.208+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:50:19.233+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:19.233+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:50:19.246+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:19.246+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:50:19.274+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.118 seconds
+[2022-10-12T15:51:45.550+0600] {processor.py:156} INFO - Started process (PID=21198) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:51:45.550+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:51:45.551+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:51:45.551+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:51:45.583+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:51:45.607+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:51:45.607+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:51:45.622+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:51:45.622+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:51:45.653+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.106 seconds
+[2022-10-12T15:53:08.469+0600] {processor.py:156} INFO - Started process (PID=21270) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:53:08.470+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:53:08.471+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:53:08.471+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:53:08.507+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:53:08.530+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:53:08.530+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:53:08.619+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:53:08.619+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:53:08.650+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.189 seconds
+[2022-10-12T15:54:32.901+0600] {processor.py:156} INFO - Started process (PID=21343) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:54:32.901+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:54:32.902+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:54:32.902+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:54:32.932+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:54:32.957+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:54:32.957+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:54:32.972+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:54:32.972+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:54:33.001+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds
+[2022-10-12T15:56:04.152+0600] {processor.py:156} INFO - Started process (PID=21419) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:56:04.154+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:56:04.154+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:56:04.154+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:56:04.190+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:56:04.214+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:56:04.213+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:56:04.227+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:56:04.227+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:56:04.257+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.110 seconds
+[2022-10-12T15:57:26.690+0600] {processor.py:156} INFO - Started process (PID=21491) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:57:26.692+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:57:26.694+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:26.693+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:57:26.739+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:57:26.763+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:26.763+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:57:26.777+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:26.776+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:57:26.888+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.206 seconds
+[2022-10-12T15:58:52.594+0600] {processor.py:156} INFO - Started process (PID=21565) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:58:52.667+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T15:58:52.669+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:58:52.669+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:58:52.777+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T15:58:52.811+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:58:52.811+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:58:52.901+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:58:52.901+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:58:53.047+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.461 seconds
+[2022-10-12T16:00:16.721+0600] {processor.py:156} INFO - Started process (PID=21637) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:00:16.722+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T16:00:16.723+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:16.723+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:00:16.760+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:00:16.785+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:16.785+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:00:16.799+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:16.799+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:00:16.829+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.112 seconds
+[2022-10-12T16:01:39.712+0600] {processor.py:156} INFO - Started process (PID=21710) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:01:39.713+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T16:01:39.714+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:01:39.714+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:01:39.745+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:01:39.771+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:01:39.771+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:01:39.786+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:01:39.786+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:01:39.817+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.108 seconds
+[2022-10-12T16:02:55.707+0600] {processor.py:156} INFO - Started process (PID=21780) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:02:55.708+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T16:02:55.708+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:55.708+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:02:55.739+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:02:55.762+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:55.762+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:02:55.852+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:55.852+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:02:55.882+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.178 seconds
+[2022-10-12T16:04:17.184+0600] {processor.py:156} INFO - Started process (PID=21853) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:04:17.185+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T16:04:17.186+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:17.186+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:04:17.231+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:04:17.258+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:17.258+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:04:17.350+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:17.350+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:04:17.379+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.202 seconds
+[2022-10-12T16:05:32.340+0600] {processor.py:156} INFO - Started process (PID=21922) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:05:32.341+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T16:05:32.341+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:32.341+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:05:32.371+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:05:32.395+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:32.395+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:05:32.409+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:32.408+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:05:32.436+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.099 seconds
+[2022-10-12T16:06:48.405+0600] {processor.py:156} INFO - Started process (PID=21991) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:06:48.406+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T16:06:48.406+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:06:48.406+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:06:48.439+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:06:48.464+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:06:48.463+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:06:48.477+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:06:48.477+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:06:48.508+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.107 seconds
+[2022-10-12T16:08:10.143+0600] {processor.py:156} INFO - Started process (PID=22062) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:08:10.145+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T16:08:10.146+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:10.146+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:08:10.201+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:08:10.236+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:10.236+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:08:10.330+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:10.329+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:08:10.371+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.238 seconds
+[2022-10-12T16:09:31.230+0600] {processor.py:156} INFO - Started process (PID=22132) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:09:31.231+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T16:09:31.232+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:09:31.232+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:09:31.266+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:09:31.368+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:09:31.368+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:09:31.383+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:09:31.383+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:09:31.409+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.186 seconds
+[2022-10-12T16:10:52.217+0600] {processor.py:156} INFO - Started process (PID=22204) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:10:52.218+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-10-12T16:10:52.219+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:52.218+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:10:52.250+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-10-12T16:10:52.275+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:52.274+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:10:52.288+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:52.288+0600] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:10:52.316+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.102 seconds

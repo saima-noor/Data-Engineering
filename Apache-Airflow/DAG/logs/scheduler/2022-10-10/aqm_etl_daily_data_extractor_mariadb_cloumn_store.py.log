@@ -1,0 +1,203 @@
+[2022-10-10T15:55:40.501+0600] {processor.py:156} INFO - Started process (PID=431) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:55:40.501+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py for tasks to queue
+[2022-10-10T15:55:40.502+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:55:40.502+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:55:40.523+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:55:40.521+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:55:40.523+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:55:40.545+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py took 0.048 seconds
+[2022-10-10T15:56:11.753+0600] {processor.py:156} INFO - Started process (PID=455) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:56:11.754+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py for tasks to queue
+[2022-10-10T15:56:11.755+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:11.754+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:56:11.775+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:11.773+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:56:11.776+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:56:11.798+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py took 0.052 seconds
+[2022-10-10T15:56:42.122+0600] {processor.py:156} INFO - Started process (PID=479) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:56:42.124+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py for tasks to queue
+[2022-10-10T15:56:42.125+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:42.125+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:56:42.154+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:42.151+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:56:42.154+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:56:42.177+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py took 0.063 seconds
+[2022-10-10T15:57:13.526+0600] {processor.py:156} INFO - Started process (PID=503) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:57:13.527+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py for tasks to queue
+[2022-10-10T15:57:13.528+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:13.528+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:57:13.554+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:13.551+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:57:13.555+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:57:13.586+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py took 0.065 seconds
+[2022-10-10T15:57:43.912+0600] {processor.py:156} INFO - Started process (PID=527) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:57:43.913+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py for tasks to queue
+[2022-10-10T15:57:43.914+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:43.914+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:57:43.935+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:43.932+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:57:43.935+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:57:43.958+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py took 0.051 seconds
+[2022-10-10T15:58:14.224+0600] {processor.py:156} INFO - Started process (PID=551) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:58:14.225+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py for tasks to queue
+[2022-10-10T15:58:14.226+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:14.226+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:58:14.244+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:14.242+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:58:14.245+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:58:14.269+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py took 0.048 seconds
+[2022-10-10T15:58:45.632+0600] {processor.py:156} INFO - Started process (PID=575) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:58:45.633+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py for tasks to queue
+[2022-10-10T15:58:45.634+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:45.634+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:58:45.653+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:45.651+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:58:45.654+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py
+[2022-10-10T15:58:45.676+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_daily_data_extractor_mariadb_cloumn_store.py took 0.048 seconds

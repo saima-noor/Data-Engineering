@@ -1,0 +1,924 @@
+[2022-10-11T16:17:11.615+0600] {processor.py:156} INFO - Started process (PID=3803) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:17:11.617+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:17:11.618+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:17:11.618+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:17:11.688+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:17:11.751+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:17:11.751+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:17:11.771+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:17:11.771+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:17:11.805+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.198 seconds
+[2022-10-11T16:18:49.178+0600] {processor.py:156} INFO - Started process (PID=3880) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:18:49.179+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:18:49.180+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:18:49.180+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:18:49.210+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:18:49.322+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:18:49.322+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:18:49.336+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:18:49.336+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:18:49.373+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.199 seconds
+[2022-10-11T16:20:33.579+0600] {processor.py:156} INFO - Started process (PID=3958) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:20:33.581+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:20:33.582+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:20:33.582+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:20:33.651+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:20:33.707+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:20:33.707+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:20:33.733+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:20:33.733+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:20:33.771+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.202 seconds
+[2022-10-11T16:22:18.455+0600] {processor.py:156} INFO - Started process (PID=4035) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:22:18.456+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:22:18.457+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:22:18.457+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:22:18.511+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:22:18.596+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:22:18.596+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:22:18.610+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:22:18.610+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:22:18.649+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.202 seconds
+[2022-10-11T16:24:00.363+0600] {processor.py:156} INFO - Started process (PID=4110) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:24:00.367+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:24:00.369+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:24:00.368+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:24:00.508+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:24:00.622+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:24:00.622+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:24:00.667+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:24:00.667+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:24:00.760+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.413 seconds
+[2022-10-11T16:25:56.744+0600] {processor.py:156} INFO - Started process (PID=4189) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:25:56.748+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:25:56.750+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:25:56.749+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:25:56.840+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:25:56.960+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:25:56.960+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:25:56.974+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:25:56.974+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:25:57.013+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.285 seconds
+[2022-10-11T16:27:50.235+0600] {processor.py:156} INFO - Started process (PID=4268) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:27:50.239+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:27:50.241+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:27:50.241+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:27:50.378+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:27:50.452+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:27:50.452+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:27:50.481+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:27:50.481+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:27:50.523+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.303 seconds
+[2022-10-11T16:29:38.572+0600] {processor.py:156} INFO - Started process (PID=4345) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:29:38.575+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:29:38.576+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:29:38.576+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:29:38.638+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:29:38.693+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:29:38.693+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:29:38.708+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:29:38.708+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:29:38.746+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.186 seconds
+[2022-10-11T16:31:25.989+0600] {processor.py:156} INFO - Started process (PID=4423) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:31:25.993+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:31:25.995+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:31:25.995+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:31:26.072+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:31:26.119+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:31:26.118+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:31:26.136+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:31:26.136+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:31:26.180+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.206 seconds
+[2022-10-11T16:33:10.289+0600] {processor.py:156} INFO - Started process (PID=4499) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:33:10.291+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:33:10.292+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:33:10.291+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:33:10.357+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:33:10.449+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:33:10.449+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:33:10.464+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:33:10.463+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:33:10.509+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.226 seconds
+[2022-10-11T16:34:55.051+0600] {processor.py:156} INFO - Started process (PID=4577) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:34:55.054+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:34:55.057+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:34:55.056+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:34:55.196+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:34:55.322+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:34:55.321+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:34:55.379+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:34:55.379+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:34:55.428+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.386 seconds
+[2022-10-11T16:36:49.105+0600] {processor.py:156} INFO - Started process (PID=4656) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:36:49.107+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:36:49.109+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:36:49.108+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:36:49.170+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:36:49.336+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:36:49.336+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:36:49.351+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:36:49.351+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:36:49.401+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.307 seconds
+[2022-10-11T16:38:42.515+0600] {processor.py:156} INFO - Started process (PID=4735) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:38:42.519+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:38:42.522+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:38:42.522+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:38:42.652+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:38:42.760+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:38:42.759+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:38:42.796+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:38:42.796+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:38:42.834+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.336 seconds
+[2022-10-11T16:40:31.745+0600] {processor.py:156} INFO - Started process (PID=4815) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:40:31.747+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:40:31.749+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:40:31.749+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:40:31.854+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:40:32.051+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:40:32.050+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:40:32.068+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:40:32.068+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:40:32.107+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.376 seconds
+[2022-10-11T16:42:20.175+0600] {processor.py:156} INFO - Started process (PID=4891) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:42:20.178+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:42:20.179+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:42:20.179+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:42:20.252+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:42:20.300+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:42:20.300+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:42:20.318+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:42:20.318+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:42:20.359+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.192 seconds
+[2022-10-11T16:44:08.926+0600] {processor.py:156} INFO - Started process (PID=4969) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:44:08.929+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:44:08.930+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:44:08.930+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:44:09.058+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:44:09.180+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:44:09.179+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:44:09.195+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:44:09.195+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:44:09.234+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.317 seconds
+[2022-10-11T16:45:54.345+0600] {processor.py:156} INFO - Started process (PID=5047) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:45:54.347+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:45:54.348+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:45:54.348+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:45:54.413+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:45:54.468+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:45:54.468+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:45:54.497+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:45:54.497+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:45:54.537+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.201 seconds
+[2022-10-11T16:47:34.744+0600] {processor.py:156} INFO - Started process (PID=5122) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:47:34.747+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:47:34.748+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:47:34.748+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:47:34.842+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:47:34.971+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:47:34.970+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:47:34.985+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:47:34.985+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:47:35.047+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.313 seconds
+[2022-10-11T16:49:04.509+0600] {processor.py:156} INFO - Started process (PID=5197) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:49:04.510+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:49:04.511+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:49:04.510+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:49:04.542+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:49:04.567+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:49:04.566+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:49:04.579+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:49:04.579+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:49:04.609+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.107 seconds
+[2022-10-11T16:50:20.412+0600] {processor.py:156} INFO - Started process (PID=5266) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:50:20.414+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:50:20.415+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:50:20.415+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:50:20.458+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:50:20.499+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:50:20.499+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:50:20.510+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:50:20.510+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:50:20.540+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.135 seconds
+[2022-10-11T16:51:34.098+0600] {processor.py:156} INFO - Started process (PID=5334) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:51:34.100+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:51:34.101+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:51:34.101+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:51:34.132+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:51:34.157+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:51:34.157+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:51:34.172+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:51:34.172+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:51:34.202+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.109 seconds
+[2022-10-11T16:52:50.685+0600] {processor.py:156} INFO - Started process (PID=5402) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:52:50.686+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:52:50.687+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:52:50.687+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:52:50.718+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:52:50.763+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:52:50.763+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:52:50.776+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:52:50.776+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:52:50.807+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.125 seconds
+[2022-10-11T16:54:08.493+0600] {processor.py:156} INFO - Started process (PID=5472) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:54:08.495+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:54:08.497+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:54:08.496+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:54:08.544+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:54:08.569+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:54:08.568+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:54:08.584+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:54:08.584+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:54:08.615+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.130 seconds
+[2022-10-11T16:55:22.215+0600] {processor.py:156} INFO - Started process (PID=5539) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:55:22.216+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:55:22.216+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:55:22.216+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:55:22.239+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:55:22.280+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:55:22.280+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:55:22.296+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:55:22.296+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:55:22.327+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.115 seconds
+[2022-10-11T16:56:38.850+0600] {processor.py:156} INFO - Started process (PID=5608) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:56:38.851+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:56:38.851+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:56:38.851+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:56:38.880+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:56:38.903+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:56:38.903+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:56:38.918+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:56:38.918+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:56:38.948+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.101 seconds
+[2022-10-11T16:57:56.237+0600] {processor.py:156} INFO - Started process (PID=5677) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:57:56.238+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:57:56.239+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:57:56.239+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:57:56.267+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:57:56.314+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:57:56.314+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:57:56.327+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:57:56.327+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:57:56.357+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.124 seconds
+[2022-10-11T16:59:11.109+0600] {processor.py:156} INFO - Started process (PID=5746) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:59:11.110+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T16:59:11.110+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:59:11.110+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:59:11.139+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T16:59:11.167+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:59:11.166+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T16:59:11.182+0600] {logging_mixin.py:117} INFO - [2022-10-11T16:59:11.182+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T16:59:11.214+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.108 seconds
+[2022-10-11T17:00:24.725+0600] {processor.py:156} INFO - Started process (PID=5814) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:00:24.726+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:00:24.727+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:00:24.727+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:00:24.763+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:00:24.806+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:00:24.806+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:00:24.816+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:00:24.816+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:00:24.867+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.150 seconds
+[2022-10-11T17:01:40.227+0600] {processor.py:156} INFO - Started process (PID=5882) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:01:40.229+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:01:40.230+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:01:40.230+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:01:40.270+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:01:40.296+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:01:40.296+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:01:40.309+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:01:40.309+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:01:40.339+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.120 seconds
+[2022-10-11T17:02:56.429+0600] {processor.py:156} INFO - Started process (PID=5951) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:02:56.432+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:02:56.433+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:02:56.433+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:02:56.513+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:02:56.556+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:02:56.556+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:02:56.566+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:02:56.566+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:02:56.598+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.179 seconds
+[2022-10-11T17:04:18.393+0600] {processor.py:156} INFO - Started process (PID=6022) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:04:18.394+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:04:18.394+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:04:18.394+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:04:18.421+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:04:18.445+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:04:18.445+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:04:18.459+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:04:18.459+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:04:18.492+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.103 seconds
+[2022-10-11T17:05:38.751+0600] {processor.py:156} INFO - Started process (PID=6093) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:05:38.752+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:05:38.753+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:05:38.752+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:05:38.783+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:05:38.825+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:05:38.825+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:05:38.837+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:05:38.836+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:05:38.868+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.122 seconds
+[2022-10-11T17:06:56.187+0600] {processor.py:156} INFO - Started process (PID=6162) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:06:56.189+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:06:56.189+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:06:56.189+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:06:56.233+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:06:56.259+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:06:56.259+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:06:56.272+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:06:56.271+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:06:56.335+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.154 seconds
+[2022-10-11T17:08:11.639+0600] {processor.py:156} INFO - Started process (PID=6230) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:08:11.641+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:08:11.643+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:08:11.642+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:08:11.680+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:08:11.721+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:08:11.721+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:08:11.732+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:08:11.732+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:08:11.764+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.134 seconds
+[2022-10-11T17:09:31.875+0600] {processor.py:156} INFO - Started process (PID=6301) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:09:31.877+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:09:31.877+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:09:31.877+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:09:31.909+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:09:31.932+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:09:31.932+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:09:31.945+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:09:31.945+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:09:31.975+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.105 seconds
+[2022-10-11T17:10:49.734+0600] {processor.py:156} INFO - Started process (PID=6370) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:10:49.735+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:10:49.736+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:10:49.736+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:10:49.767+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:10:49.820+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:10:49.819+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:10:49.834+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:10:49.834+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:10:49.872+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.142 seconds
+[2022-10-11T17:12:02.436+0600] {processor.py:156} INFO - Started process (PID=6438) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:12:02.436+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:12:02.437+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:12:02.437+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:12:02.465+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:12:02.489+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:12:02.489+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:12:02.502+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:12:02.502+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:12:02.532+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.100 seconds
+[2022-10-11T17:13:13.791+0600] {processor.py:156} INFO - Started process (PID=6504) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:13:13.792+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:13:13.792+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:13:13.792+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:13:13.824+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:13:13.869+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:13:13.869+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:13:13.881+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:13:13.881+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:13:13.911+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.123 seconds
+[2022-10-11T17:14:27.700+0600] {processor.py:156} INFO - Started process (PID=6573) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:14:27.701+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:14:27.701+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:14:27.701+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:14:27.731+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:14:27.754+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:14:27.754+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:14:27.767+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:14:27.767+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:14:27.797+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.101 seconds
+[2022-10-11T17:15:45.134+0600] {processor.py:156} INFO - Started process (PID=6642) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:15:45.135+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:15:45.136+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:15:45.136+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:15:45.164+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:15:45.205+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:15:45.205+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:15:45.216+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:15:45.216+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:15:45.248+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.117 seconds
+[2022-10-11T17:16:59.840+0600] {processor.py:156} INFO - Started process (PID=6711) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:16:59.842+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:16:59.843+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:16:59.843+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:16:59.882+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:16:59.907+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:16:59.907+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:16:59.921+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:16:59.921+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:16:59.959+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.127 seconds
+[2022-10-11T17:18:17.829+0600] {processor.py:156} INFO - Started process (PID=6779) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:18:17.830+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:18:17.830+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:18:17.830+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:18:17.857+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:18:17.906+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:18:17.906+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:18:17.920+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:18:17.920+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:18:17.952+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.126 seconds
+[2022-10-11T17:19:35.650+0600] {processor.py:156} INFO - Started process (PID=6850) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:19:35.653+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:19:35.654+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:19:35.654+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:19:35.699+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:19:35.722+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:19:35.722+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:19:35.735+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:19:35.735+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:19:35.765+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.124 seconds
+[2022-10-11T17:20:51.550+0600] {processor.py:156} INFO - Started process (PID=6918) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:20:51.551+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:20:51.551+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:20:51.551+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:20:51.581+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:20:51.623+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:20:51.623+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:20:51.633+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:20:51.633+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:20:51.666+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.121 seconds
+[2022-10-11T17:22:08.970+0600] {processor.py:156} INFO - Started process (PID=6987) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:22:08.972+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:22:08.972+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:22:08.972+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:22:09.005+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:22:09.028+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:22:09.028+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:22:09.041+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:22:09.041+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:22:09.070+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.105 seconds
+[2022-10-11T17:23:29.533+0600] {processor.py:156} INFO - Started process (PID=7057) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:23:29.534+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:23:29.534+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:23:29.534+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:23:29.566+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:23:29.607+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:23:29.607+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:23:29.618+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:23:29.618+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:23:29.650+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.122 seconds
+[2022-10-11T17:24:48.965+0600] {processor.py:156} INFO - Started process (PID=7127) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:24:48.966+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:24:48.967+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:24:48.967+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:24:48.998+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:24:49.022+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:24:49.022+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:24:49.035+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:24:49.035+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:24:49.065+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.106 seconds
+[2022-10-11T17:26:09.179+0600] {processor.py:156} INFO - Started process (PID=7197) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:26:09.180+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:26:09.180+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:26:09.180+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:26:09.207+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:26:09.248+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:26:09.248+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:26:09.260+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:26:09.259+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:26:09.405+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.229 seconds
+[2022-10-11T17:27:26.288+0600] {processor.py:156} INFO - Started process (PID=7267) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:27:26.289+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:27:26.289+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:27:26.289+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:27:26.319+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:27:26.342+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:27:26.342+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:27:26.354+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:27:26.354+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:27:26.384+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.101 seconds
+[2022-10-11T17:28:38.398+0600] {processor.py:156} INFO - Started process (PID=7335) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:28:38.399+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:28:38.400+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:28:38.400+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:28:38.432+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:28:38.472+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:28:38.472+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:28:38.484+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:28:38.484+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:28:38.516+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.123 seconds
+[2022-10-11T17:29:59.596+0600] {processor.py:156} INFO - Started process (PID=7405) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:29:59.598+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:29:59.599+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:29:59.599+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:29:59.638+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:29:59.662+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:29:59.661+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:29:59.674+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:29:59.674+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:29:59.850+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.261 seconds
+[2022-10-11T17:31:15.903+0600] {processor.py:156} INFO - Started process (PID=7473) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:31:15.904+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:31:15.905+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:31:15.904+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:31:15.935+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:31:15.977+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:31:15.976+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:31:15.987+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:31:15.987+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:31:16.101+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.204 seconds
+[2022-10-11T17:32:32.321+0600] {processor.py:156} INFO - Started process (PID=7541) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:32:32.323+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:32:32.325+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:32:32.324+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:32:32.368+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:32:32.391+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:32:32.391+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:32:32.403+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:32:32.403+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:32:32.435+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.124 seconds
+[2022-10-11T17:33:54.974+0600] {processor.py:156} INFO - Started process (PID=7613) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:33:54.975+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:33:54.976+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:33:54.976+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:33:55.035+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:33:55.081+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:33:55.081+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:33:55.092+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:33:55.092+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:33:55.124+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.154 seconds
+[2022-10-11T17:35:11.355+0600] {processor.py:156} INFO - Started process (PID=7681) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:35:11.356+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:35:11.356+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:35:11.356+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:35:11.385+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:35:11.408+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:35:11.408+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:35:11.420+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:35:11.420+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:35:11.450+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.099 seconds
+[2022-10-11T17:36:28.937+0600] {processor.py:156} INFO - Started process (PID=7750) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:36:28.938+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:36:28.938+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:36:28.938+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:36:28.966+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:36:29.007+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:36:29.006+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:36:29.019+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:36:29.018+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:36:29.130+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.197 seconds
+[2022-10-11T17:37:45.712+0600] {processor.py:156} INFO - Started process (PID=7819) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:37:45.716+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:37:45.719+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:37:45.718+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:37:45.758+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:37:45.785+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:37:45.785+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:37:45.798+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:37:45.798+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:37:45.829+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.132 seconds
+[2022-10-11T17:39:02.001+0600] {processor.py:156} INFO - Started process (PID=7887) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:39:02.002+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:39:02.003+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:39:02.003+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:39:02.032+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:39:02.073+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:39:02.073+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:39:02.084+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:39:02.084+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:39:02.116+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.119 seconds
+[2022-10-11T17:40:17.197+0600] {processor.py:156} INFO - Started process (PID=7956) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:40:17.198+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:40:17.198+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:40:17.198+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:40:17.225+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:40:17.250+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:40:17.250+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:40:17.262+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:40:17.262+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:40:17.441+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.248 seconds
+[2022-10-11T17:41:34.721+0600] {processor.py:156} INFO - Started process (PID=8025) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:41:34.722+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:41:34.722+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:41:34.722+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:41:34.750+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:41:34.791+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:41:34.790+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:41:34.803+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:41:34.803+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:41:34.918+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.200 seconds
+[2022-10-11T17:42:51.472+0600] {processor.py:156} INFO - Started process (PID=8093) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:42:51.473+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:42:51.474+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:42:51.474+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:42:51.523+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:42:51.547+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:42:51.547+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:42:51.561+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:42:51.561+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:42:51.593+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.127 seconds
+[2022-10-11T17:44:03.934+0600] {processor.py:156} INFO - Started process (PID=8160) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:44:03.936+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:44:03.937+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:44:03.936+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:44:03.988+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:44:04.094+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:44:04.094+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:44:04.129+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:44:04.128+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:44:04.182+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.253 seconds
+[2022-10-11T17:45:17.839+0600] {processor.py:156} INFO - Started process (PID=8228) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:45:17.839+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:45:17.840+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:45:17.840+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:45:17.869+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:45:17.894+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:45:17.893+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:45:17.907+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:45:17.907+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:45:17.938+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.102 seconds
+[2022-10-11T17:46:38.691+0600] {processor.py:156} INFO - Started process (PID=8300) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:46:38.692+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:46:38.693+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:46:38.693+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:46:38.723+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:46:38.765+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:46:38.765+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:46:38.778+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:46:38.778+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:46:38.893+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.205 seconds
+[2022-10-11T17:47:54.083+0600] {processor.py:156} INFO - Started process (PID=8368) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:47:54.084+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:47:54.084+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:47:54.084+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:47:54.113+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:47:54.137+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:47:54.137+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:47:54.152+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:47:54.152+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:47:54.181+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.101 seconds
+[2022-10-11T17:49:15.292+0600] {processor.py:156} INFO - Started process (PID=8438) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:49:15.293+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:49:15.293+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:49:15.293+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:49:15.322+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:49:15.362+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:49:15.362+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:49:15.373+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:49:15.372+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:49:15.495+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.207 seconds
+[2022-10-11T17:50:29.454+0600] {processor.py:156} INFO - Started process (PID=8507) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:50:29.455+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:50:29.457+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:50:29.456+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:50:29.486+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:50:29.511+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:50:29.511+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:50:29.526+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:50:29.526+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:50:29.555+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.104 seconds
+[2022-10-11T17:51:44.825+0600] {processor.py:156} INFO - Started process (PID=8574) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:51:44.826+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:51:44.827+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:51:44.827+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:51:44.862+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:51:44.903+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:51:44.902+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:51:44.914+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:51:44.914+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:51:45.028+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.213 seconds
+[2022-10-11T17:53:04.133+0600] {processor.py:156} INFO - Started process (PID=8644) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:53:04.134+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:53:04.134+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:53:04.134+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:53:04.164+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:53:04.189+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:53:04.189+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:53:04.201+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:53:04.201+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:53:04.311+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.183 seconds
+[2022-10-11T17:54:22.886+0600] {processor.py:156} INFO - Started process (PID=8712) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:54:22.887+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:54:22.888+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:54:22.888+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:54:22.916+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:54:22.960+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:54:22.960+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:54:22.972+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:54:22.972+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:54:23.003+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.119 seconds
+[2022-10-11T17:55:43.971+0600] {processor.py:156} INFO - Started process (PID=8783) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:55:43.972+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:55:43.973+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:55:43.972+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:55:44.002+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:55:44.026+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:55:44.026+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:55:44.039+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:55:44.039+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:55:44.069+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.102 seconds
+[2022-10-11T17:56:58.379+0600] {processor.py:156} INFO - Started process (PID=8851) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:56:58.380+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:56:58.380+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:56:58.380+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:56:58.413+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:56:58.463+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:56:58.462+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:56:58.566+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:56:58.566+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:56:58.657+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.281 seconds
+[2022-10-11T17:58:21.132+0600] {processor.py:156} INFO - Started process (PID=8922) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:58:21.133+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:58:21.133+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:58:21.133+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:58:21.161+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:58:21.184+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:58:21.184+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:58:21.199+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:58:21.199+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:58:21.313+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.185 seconds
+[2022-10-11T17:59:36.654+0600] {processor.py:156} INFO - Started process (PID=8992) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:59:36.655+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T17:59:36.655+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:59:36.655+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:59:36.705+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T17:59:36.750+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:59:36.750+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T17:59:36.764+0600] {logging_mixin.py:117} INFO - [2022-10-11T17:59:36.764+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T17:59:36.798+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.147 seconds
+[2022-10-11T18:00:54.374+0600] {processor.py:156} INFO - Started process (PID=9061) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:00:54.375+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:00:54.376+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:00:54.376+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:00:54.406+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:00:54.430+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:00:54.430+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:00:54.445+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:00:54.445+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:00:54.475+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.106 seconds
+[2022-10-11T18:02:08.808+0600] {processor.py:156} INFO - Started process (PID=9129) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:02:08.809+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:02:08.810+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:02:08.810+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:02:08.845+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:02:08.885+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:02:08.885+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:02:08.971+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:02:08.971+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:02:09.000+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.199 seconds
+[2022-10-11T18:03:26.595+0600] {processor.py:156} INFO - Started process (PID=9198) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:03:26.596+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:03:26.597+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:03:26.597+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:03:26.629+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:03:26.652+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:03:26.652+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:03:26.665+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:03:26.665+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:03:26.695+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.105 seconds
+[2022-10-11T18:04:47.494+0600] {processor.py:156} INFO - Started process (PID=9270) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:04:47.496+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:04:47.498+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:04:47.497+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:04:47.542+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:04:47.582+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:04:47.581+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:04:47.593+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:04:47.593+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:04:47.620+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.137 seconds
+[2022-10-11T18:06:04.910+0600] {processor.py:156} INFO - Started process (PID=9339) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:06:04.911+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:06:04.911+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:06:04.911+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:06:04.940+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:06:04.963+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:06:04.963+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:06:04.976+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:06:04.975+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:06:05.005+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.100 seconds
+[2022-10-11T18:07:23.007+0600] {processor.py:156} INFO - Started process (PID=9408) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:07:23.008+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:07:23.009+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:07:23.009+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:07:23.037+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:07:23.077+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:07:23.077+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:07:23.166+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:07:23.166+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:07:23.196+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.193 seconds
+[2022-10-11T18:08:40.667+0600] {processor.py:156} INFO - Started process (PID=9479) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:08:40.668+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:08:40.669+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:08:40.669+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:08:40.705+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:08:40.732+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:08:40.732+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:08:40.746+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:08:40.746+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:08:40.775+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.111 seconds
+[2022-10-11T18:10:01.114+0600] {processor.py:156} INFO - Started process (PID=9549) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:10:01.115+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:10:01.116+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:10:01.116+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:10:01.143+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:10:01.187+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:10:01.187+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:10:01.202+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:10:01.201+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:10:01.233+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.122 seconds
+[2022-10-11T18:11:11.514+0600] {processor.py:156} INFO - Started process (PID=9615) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:11:11.515+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:11:11.515+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:11:11.515+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:11:11.544+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:11:11.569+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:11:11.569+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:11:11.584+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:11:11.584+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:11:11.615+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.105 seconds
+[2022-10-11T18:12:30.040+0600] {processor.py:156} INFO - Started process (PID=9685) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:12:30.041+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:12:30.042+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:12:30.042+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:12:30.067+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:12:30.141+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:12:30.141+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:12:30.238+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:12:30.238+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:12:30.267+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.230 seconds
+[2022-10-11T18:14:14.234+0600] {processor.py:156} INFO - Started process (PID=9782) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:14:14.235+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:14:14.235+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:14:14.235+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:14:14.266+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:14:14.280+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:14:14.280+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:14:14.293+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:14:14.293+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:14:14.321+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.089 seconds
+[2022-10-11T18:50:21.653+0600] {processor.py:156} INFO - Started process (PID=9897) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:50:21.654+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:50:21.654+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:50:21.654+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:50:21.690+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:50:21.720+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:50:21.720+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:50:21.737+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:50:21.737+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:50:21.773+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.126 seconds
+[2022-10-11T18:51:40.920+0600] {processor.py:156} INFO - Started process (PID=9967) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:51:40.922+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:51:40.923+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:51:40.923+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:51:41.029+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:51:41.087+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:51:41.087+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:51:41.099+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:51:41.099+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:51:41.131+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.218 seconds
+[2022-10-11T18:52:55.484+0600] {processor.py:156} INFO - Started process (PID=10035) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:52:55.485+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:52:55.486+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:52:55.486+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:52:55.517+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:52:55.543+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:52:55.542+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:52:55.557+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:52:55.557+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:52:55.587+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.107 seconds
+[2022-10-11T18:54:15.288+0600] {processor.py:156} INFO - Started process (PID=10104) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:54:15.290+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:54:15.290+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:54:15.290+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:54:15.324+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:54:15.388+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:54:15.388+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:54:15.399+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:54:15.399+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:54:15.434+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.150 seconds
+[2022-10-11T18:55:56.061+0600] {processor.py:156} INFO - Started process (PID=10179) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:55:56.062+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:55:56.063+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:55:56.062+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:55:56.114+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:55:56.153+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:55:56.153+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:55:56.166+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:55:56.166+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:55:56.197+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.139 seconds
+[2022-10-11T18:57:18.766+0600] {processor.py:156} INFO - Started process (PID=10255) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:57:18.768+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:57:18.768+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:57:18.768+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:57:18.818+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:57:18.873+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:57:18.873+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:57:18.885+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:57:18.885+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:57:18.915+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.154 seconds
+[2022-10-11T18:58:32.501+0600] {processor.py:156} INFO - Started process (PID=10322) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:58:32.502+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:58:32.502+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:58:32.502+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:58:32.532+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:58:32.558+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:58:32.558+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:58:32.570+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:58:32.570+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:58:32.600+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.102 seconds
+[2022-10-11T18:59:44.948+0600] {processor.py:156} INFO - Started process (PID=10389) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:59:44.949+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T18:59:44.949+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:59:44.949+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:59:44.979+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T18:59:45.021+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:59:45.021+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T18:59:45.034+0600] {logging_mixin.py:117} INFO - [2022-10-11T18:59:45.034+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T18:59:45.064+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.119 seconds
+[2022-10-11T19:01:02.552+0600] {processor.py:156} INFO - Started process (PID=10459) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:01:02.553+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:01:02.554+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:01:02.554+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:01:02.586+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:01:02.610+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:01:02.610+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:01:02.624+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:01:02.623+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:01:02.653+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.106 seconds
+[2022-10-11T19:02:14.488+0600] {processor.py:156} INFO - Started process (PID=10526) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:02:14.489+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:02:14.490+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:02:14.489+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:02:14.520+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:02:14.563+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:02:14.563+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:02:14.574+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:02:14.574+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:02:14.605+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.122 seconds
+[2022-10-11T19:03:31.766+0600] {processor.py:156} INFO - Started process (PID=10594) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:03:31.768+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:03:31.769+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:03:31.769+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:03:31.818+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:03:31.845+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:03:31.845+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:03:31.857+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:03:31.857+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:03:31.888+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.129 seconds
+[2022-10-11T19:04:48.388+0600] {processor.py:156} INFO - Started process (PID=10663) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:04:48.389+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:04:48.389+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:04:48.389+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:04:48.417+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:04:48.459+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:04:48.459+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:04:48.470+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:04:48.470+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:04:48.502+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.119 seconds
+[2022-10-11T19:06:06.082+0600] {processor.py:156} INFO - Started process (PID=10733) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:06:06.083+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:06:06.084+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:06:06.084+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:06:06.116+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:06:06.142+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:06:06.141+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:06:06.155+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:06:06.154+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:06:06.187+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.110 seconds
+[2022-10-11T19:07:20.060+0600] {processor.py:156} INFO - Started process (PID=10801) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:07:20.061+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:07:20.061+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:07:20.061+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:07:20.091+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:07:20.133+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:07:20.133+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:07:20.144+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:07:20.144+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:07:20.178+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.121 seconds
+[2022-10-11T19:08:41.287+0600] {processor.py:156} INFO - Started process (PID=10871) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:08:41.287+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:08:41.288+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:08:41.288+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:08:41.317+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:08:41.342+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:08:41.342+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:08:41.355+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:08:41.355+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:08:41.557+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.275 seconds
+[2022-10-11T19:09:56.162+0600] {processor.py:156} INFO - Started process (PID=10939) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:09:56.163+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:09:56.164+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:09:56.163+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:09:56.194+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:09:56.236+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:09:56.236+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:09:56.247+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:09:56.247+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:09:56.279+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.120 seconds
+[2022-10-11T19:11:09.606+0600] {processor.py:156} INFO - Started process (PID=11007) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:11:09.607+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:11:09.608+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:11:09.607+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:11:09.638+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:11:09.663+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:11:09.663+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:11:09.677+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:11:09.677+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:11:09.707+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.105 seconds
+[2022-10-11T19:12:23.906+0600] {processor.py:156} INFO - Started process (PID=11074) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:12:23.907+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:12:23.907+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:12:23.907+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:12:23.936+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:12:23.979+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:12:23.978+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:12:23.989+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:12:23.989+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:12:24.021+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.119 seconds
+[2022-10-11T19:13:43.034+0600] {processor.py:156} INFO - Started process (PID=11145) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:13:43.036+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:13:43.036+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:13:43.036+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:13:43.068+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:13:43.093+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:13:43.093+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:13:43.106+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:13:43.105+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:13:43.136+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.107 seconds
+[2022-10-11T19:15:01.803+0600] {processor.py:156} INFO - Started process (PID=11214) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:15:01.804+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:15:01.804+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:15:01.804+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:15:01.833+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:15:01.876+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:15:01.876+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:15:01.891+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:15:01.891+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:15:01.921+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.121 seconds
+[2022-10-11T19:16:18.294+0600] {processor.py:156} INFO - Started process (PID=11283) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:16:18.295+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:16:18.296+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:16:18.296+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:16:18.328+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:16:18.352+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:16:18.351+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:16:18.365+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:16:18.365+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:16:18.397+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.109 seconds
+[2022-10-11T19:17:34.851+0600] {processor.py:156} INFO - Started process (PID=11352) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:17:34.852+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:17:34.853+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:17:34.853+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:17:34.884+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:17:34.927+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:17:34.927+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:17:34.939+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:17:34.939+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:17:34.972+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.124 seconds
+[2022-10-11T19:18:48.558+0600] {processor.py:156} INFO - Started process (PID=11419) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:18:48.559+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:18:48.559+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:18:48.559+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:18:48.589+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:18:48.615+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:18:48.615+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:18:48.627+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:18:48.627+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:18:48.658+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.104 seconds
+[2022-10-11T19:20:02.032+0600] {processor.py:156} INFO - Started process (PID=11487) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:20:02.033+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:20:02.034+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:20:02.034+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:20:02.064+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:20:02.106+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:20:02.106+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:20:02.119+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:20:02.118+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:20:02.151+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.123 seconds
+[2022-10-11T19:21:17.002+0600] {processor.py:156} INFO - Started process (PID=11554) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:21:17.003+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:21:17.004+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:21:17.004+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:21:17.034+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:21:17.058+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:21:17.058+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:21:17.072+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:21:17.072+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:21:17.107+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.110 seconds
+[2022-10-11T19:22:34.428+0600] {processor.py:156} INFO - Started process (PID=11624) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:22:34.429+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:22:34.430+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:22:34.430+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:22:34.459+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:22:34.500+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:22:34.500+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:22:34.511+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:22:34.511+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:22:34.543+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.119 seconds
+[2022-10-11T19:23:52.102+0600] {processor.py:156} INFO - Started process (PID=11693) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:23:52.103+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:23:52.103+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:23:52.103+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:23:52.134+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:23:52.158+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:23:52.158+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:23:52.171+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:23:52.171+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:23:52.202+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.103 seconds
+[2022-10-11T19:25:15.309+0600] {processor.py:156} INFO - Started process (PID=11765) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:25:15.310+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:25:15.311+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:25:15.310+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:25:15.341+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:25:15.382+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:25:15.382+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:25:15.394+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:25:15.394+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:25:15.427+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.122 seconds
+[2022-10-11T19:26:30.254+0600] {processor.py:156} INFO - Started process (PID=11834) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:26:30.255+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:26:30.256+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:26:30.256+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:26:30.285+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:26:30.310+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:26:30.310+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:26:30.326+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:26:30.326+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:26:30.355+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.103 seconds
+[2022-10-11T19:27:44.292+0600] {processor.py:156} INFO - Started process (PID=11902) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:27:44.293+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:27:44.293+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:27:44.293+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:27:44.323+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:27:44.367+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:27:44.367+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:27:44.378+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:27:44.377+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:27:44.410+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.121 seconds
+[2022-10-11T19:29:00.181+0600] {processor.py:156} INFO - Started process (PID=11970) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:29:00.182+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:29:00.183+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:29:00.183+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:29:00.212+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:29:00.238+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:29:00.238+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:29:00.253+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:29:00.253+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:29:00.290+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.112 seconds
+[2022-10-11T19:30:17.999+0600] {processor.py:156} INFO - Started process (PID=12039) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:30:18.000+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:30:18.001+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:30:18.001+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:30:18.030+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:30:18.072+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:30:18.072+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:30:18.083+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:30:18.083+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:30:18.117+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.120 seconds
+[2022-10-11T19:31:35.522+0600] {processor.py:156} INFO - Started process (PID=12110) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:31:35.523+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:31:35.523+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:31:35.523+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:31:35.553+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:31:35.577+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:31:35.576+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:31:35.591+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:31:35.591+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:31:35.621+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.102 seconds
+[2022-10-11T19:32:49.741+0600] {processor.py:156} INFO - Started process (PID=12178) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:32:49.743+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:32:49.744+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:32:49.744+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:32:49.788+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:32:49.830+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:32:49.830+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:32:49.841+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:32:49.841+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:32:49.885+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.152 seconds
+[2022-10-11T19:34:10.046+0600] {processor.py:156} INFO - Started process (PID=12248) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:34:10.047+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:34:10.048+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:34:10.048+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:34:10.079+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:34:10.106+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:34:10.106+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:34:10.120+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:34:10.120+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:34:10.150+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.107 seconds
+[2022-10-11T19:35:20.956+0600] {processor.py:156} INFO - Started process (PID=12314) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:35:20.957+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:35:20.957+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:35:20.957+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:35:20.987+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:35:21.033+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:35:21.033+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:35:21.046+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:35:21.046+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:35:21.076+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.124 seconds
+[2022-10-11T19:36:34.530+0600] {processor.py:156} INFO - Started process (PID=12382) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:36:34.530+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:36:34.531+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:36:34.531+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:36:34.561+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:36:34.586+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:36:34.586+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:36:34.601+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:36:34.600+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:36:34.631+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.104 seconds
+[2022-10-11T19:37:53.701+0600] {processor.py:156} INFO - Started process (PID=12451) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:37:53.702+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:37:53.702+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:37:53.702+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:37:53.732+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:37:53.775+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:37:53.775+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:37:53.785+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:37:53.785+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:37:53.817+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.120 seconds
+[2022-10-11T19:39:05.219+0600] {processor.py:156} INFO - Started process (PID=12518) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:39:05.221+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:39:05.222+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:39:05.222+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:39:05.269+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:39:05.295+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:39:05.295+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:39:05.312+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:39:05.312+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:39:05.356+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.145 seconds
+[2022-10-11T19:40:19.973+0600] {processor.py:156} INFO - Started process (PID=12585) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:40:19.973+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:40:19.974+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:40:19.974+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:40:20.006+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:40:20.052+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:40:20.052+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:40:20.066+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:40:20.066+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:40:20.097+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.128 seconds
+[2022-10-11T19:41:34.907+0600] {processor.py:156} INFO - Started process (PID=12656) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:41:34.909+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:41:34.910+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:41:34.910+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:41:34.953+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:41:34.978+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:41:34.978+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:41:34.992+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:41:34.992+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:41:35.021+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.121 seconds
+[2022-10-11T19:42:46.189+0600] {processor.py:156} INFO - Started process (PID=12722) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:42:46.190+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:42:46.190+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:42:46.190+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:42:46.220+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:42:46.262+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:42:46.261+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:42:46.273+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:42:46.273+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:42:46.306+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.121 seconds
+[2022-10-11T19:43:58.700+0600] {processor.py:156} INFO - Started process (PID=12789) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:43:58.701+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:43:58.702+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:43:58.702+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:43:58.737+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:43:58.763+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:43:58.763+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:43:58.776+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:43:58.776+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:43:58.806+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.111 seconds
+[2022-10-11T19:45:15.121+0600] {processor.py:156} INFO - Started process (PID=12859) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:45:15.123+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:45:15.125+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:45:15.125+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:45:15.168+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:45:15.213+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:45:15.213+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:45:15.223+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:45:15.223+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:45:15.256+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.145 seconds
+[2022-10-11T19:46:30.540+0600] {processor.py:156} INFO - Started process (PID=12927) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:46:30.541+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:46:30.541+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:46:30.541+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:46:30.569+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:46:30.593+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:46:30.593+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:46:30.609+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:46:30.609+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:46:30.637+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.100 seconds
+[2022-10-11T19:47:45.540+0600] {processor.py:156} INFO - Started process (PID=12995) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:47:45.541+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:47:45.542+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:47:45.542+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:47:45.572+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:47:45.614+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:47:45.614+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:47:45.626+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:47:45.626+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:47:45.656+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.124 seconds
+[2022-10-11T19:49:02.204+0600] {processor.py:156} INFO - Started process (PID=13065) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:49:02.205+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py for tasks to queue
+[2022-10-11T19:49:02.205+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:49:02.205+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:49:02.235+0600] {processor.py:768} INFO - DAG(s) dict_keys(['core_concepts']) retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py
+[2022-10-11T19:49:02.260+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:49:02.260+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-11T19:49:02.274+0600] {logging_mixin.py:117} INFO - [2022-10-11T19:49:02.274+0600] {dag.py:3324} INFO - Setting next_dagrun for core_concepts to None, run_after=None
+[2022-10-11T19:49:02.304+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/core_concepts - Copy.py took 0.103 seconds

@@ -1,0 +1,203 @@
+[2022-10-10T15:55:44.871+0600] {processor.py:156} INFO - Started process (PID=435) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:55:44.872+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py for tasks to queue
+[2022-10-10T15:55:44.873+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:55:44.872+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:55:44.893+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:55:44.891+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:55:44.894+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:55:44.914+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py took 0.049 seconds
+[2022-10-10T15:56:16.513+0600] {processor.py:156} INFO - Started process (PID=459) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:56:16.515+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py for tasks to queue
+[2022-10-10T15:56:16.516+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:16.515+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:56:16.538+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:16.536+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:56:16.539+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:56:16.567+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py took 0.067 seconds
+[2022-10-10T15:56:47.033+0600] {processor.py:156} INFO - Started process (PID=483) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:56:47.034+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py for tasks to queue
+[2022-10-10T15:56:47.035+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:47.035+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:56:47.064+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:47.057+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:56:47.065+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:56:47.125+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py took 0.097 seconds
+[2022-10-10T15:57:17.462+0600] {processor.py:156} INFO - Started process (PID=507) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:57:17.464+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py for tasks to queue
+[2022-10-10T15:57:17.465+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:17.465+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:57:17.491+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:17.489+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:57:17.491+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:57:17.515+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py took 0.060 seconds
+[2022-10-10T15:57:48.441+0600] {processor.py:156} INFO - Started process (PID=531) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:57:48.444+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py for tasks to queue
+[2022-10-10T15:57:48.446+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:48.445+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:57:48.477+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:48.475+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:57:48.477+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:57:48.502+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py took 0.072 seconds
+[2022-10-10T15:58:18.963+0600] {processor.py:156} INFO - Started process (PID=555) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:58:18.964+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py for tasks to queue
+[2022-10-10T15:58:18.965+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:18.965+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:58:18.984+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:18.982+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:58:18.984+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:58:19.008+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py took 0.049 seconds
+[2022-10-10T15:58:49.896+0600] {processor.py:156} INFO - Started process (PID=579) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:58:49.900+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py for tasks to queue
+[2022-10-10T15:58:49.901+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:49.901+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:58:49.941+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:49.936+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py", line 9, in <module>
+    from airflow.operators.mysql_operator import MySqlOperator
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/utils/deprecation_tools.py", line 36, in getattr_with_deprecation
+    return getattr(importlib.import_module(new_module), new_class_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'airflow.providers.mysql'
+[2022-10-10T15:58:49.941+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py
+[2022-10-10T15:58:49.980+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/aqm_etl_dimension.py took 0.100 seconds

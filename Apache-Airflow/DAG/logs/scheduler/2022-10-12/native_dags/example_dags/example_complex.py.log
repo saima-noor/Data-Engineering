@@ -1,0 +1,875 @@
+[2022-10-12T11:17:39.602+0600] {processor.py:156} INFO - Started process (PID=13114) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:17:39.603+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:17:39.603+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:17:39.603+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:17:39.639+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:17:39.667+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:17:39.667+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:17:39.681+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:17:39.681+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:17:39.710+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.112 seconds
+[2022-10-12T11:30:29.120+0600] {processor.py:156} INFO - Started process (PID=13415) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:30:29.124+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:30:29.126+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:29.125+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:30:29.167+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:30:29.192+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:29.192+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:30:29.204+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:29.204+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:30:29.231+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.123 seconds
+[2022-10-12T11:31:39.517+0600] {processor.py:156} INFO - Started process (PID=13476) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:31:39.518+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:31:39.518+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:39.518+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:31:39.549+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:31:39.577+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:39.577+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:31:39.591+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:39.591+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:31:39.622+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2022-10-12T11:32:58.466+0600] {processor.py:156} INFO - Started process (PID=13547) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:32:58.468+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:32:58.469+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:32:58.469+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:32:58.517+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:32:58.542+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:32:58.542+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:32:58.556+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:32:58.556+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:32:58.586+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.129 seconds
+[2022-10-12T11:34:15.099+0600] {processor.py:156} INFO - Started process (PID=13615) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:34:15.100+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:34:15.100+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:15.100+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:34:15.130+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:34:15.156+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:15.155+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:34:15.168+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:15.168+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:34:15.197+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2022-10-12T11:35:33.520+0600] {processor.py:156} INFO - Started process (PID=13687) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:35:33.520+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:35:33.521+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:33.521+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:35:33.555+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:35:33.588+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:33.588+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:35:33.605+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:33.605+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:35:33.640+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.124 seconds
+[2022-10-12T11:36:51.514+0600] {processor.py:156} INFO - Started process (PID=13756) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:36:51.515+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:36:51.515+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:36:51.515+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:36:51.544+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:36:51.574+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:36:51.574+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:36:51.588+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:36:51.588+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:36:51.618+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.109 seconds
+[2022-10-12T11:38:09.230+0600] {processor.py:156} INFO - Started process (PID=13827) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:38:09.231+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:38:09.231+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:38:09.231+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:38:09.260+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:38:09.285+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:38:09.285+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:38:09.298+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:38:09.298+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:38:09.327+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2022-10-12T11:39:32.824+0600] {processor.py:156} INFO - Started process (PID=13899) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:39:32.826+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:39:32.827+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:32.827+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:39:32.870+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:39:32.896+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:32.896+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:39:32.908+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:32.908+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:39:32.954+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.141 seconds
+[2022-10-12T11:40:48.043+0600] {processor.py:156} INFO - Started process (PID=13969) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:40:48.044+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:40:48.045+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:40:48.045+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:40:48.079+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:40:48.105+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:40:48.105+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:40:48.120+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:40:48.120+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:40:48.152+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2022-10-12T11:42:07.871+0600] {processor.py:156} INFO - Started process (PID=14041) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:42:07.873+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:42:07.874+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:42:07.874+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:42:07.915+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:42:07.941+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:42:07.941+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:42:07.954+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:42:07.954+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:42:07.996+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.133 seconds
+[2022-10-12T11:43:24.414+0600] {processor.py:156} INFO - Started process (PID=14111) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:43:24.416+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:43:24.417+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:24.417+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:43:24.459+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:43:24.486+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:24.486+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:43:24.498+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:24.498+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:43:24.527+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.120 seconds
+[2022-10-12T11:44:44.060+0600] {processor.py:156} INFO - Started process (PID=14182) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:44:44.061+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:44:44.062+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:44:44.062+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:44:44.095+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:44:44.121+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:44:44.121+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:44:44.133+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:44:44.132+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:44:44.163+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.109 seconds
+[2022-10-12T11:46:00.433+0600] {processor.py:156} INFO - Started process (PID=14254) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:46:00.434+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:46:00.435+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:46:00.434+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:46:00.464+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:46:00.490+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:46:00.489+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:46:00.502+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:46:00.502+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:46:00.534+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-10-12T11:47:20.539+0600] {processor.py:156} INFO - Started process (PID=14325) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:47:20.540+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:47:20.541+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:20.541+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:47:20.573+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:47:20.599+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:20.599+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:47:20.612+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:20.612+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:47:20.642+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2022-10-12T11:48:37.221+0600] {processor.py:156} INFO - Started process (PID=14395) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:48:37.223+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:48:37.224+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:37.224+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:48:37.271+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:48:37.303+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:37.303+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:48:37.316+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:37.315+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:48:37.348+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.136 seconds
+[2022-10-12T11:49:55.831+0600] {processor.py:156} INFO - Started process (PID=14466) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:49:55.832+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:49:55.833+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:49:55.833+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:49:55.862+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:49:55.887+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:49:55.887+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:49:55.900+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:49:55.900+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:49:56.023+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.195 seconds
+[2022-10-12T11:51:13.864+0600] {processor.py:156} INFO - Started process (PID=14536) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:51:13.867+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:51:13.868+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:13.868+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:51:13.906+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:51:13.934+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:13.934+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:51:13.946+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:13.946+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:51:13.977+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.122 seconds
+[2022-10-12T11:52:32.774+0600] {processor.py:156} INFO - Started process (PID=14607) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:52:32.776+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:52:32.777+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:32.777+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:52:32.825+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:52:32.851+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:32.851+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:52:32.864+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:32.864+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:52:32.891+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.127 seconds
+[2022-10-12T11:53:50.846+0600] {processor.py:156} INFO - Started process (PID=14678) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:53:50.847+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:53:50.847+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:53:50.847+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:53:50.882+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:53:50.919+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:53:50.919+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:53:50.941+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:53:50.940+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:53:50.982+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.140 seconds
+[2022-10-12T11:55:07.046+0600] {processor.py:156} INFO - Started process (PID=14748) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:55:07.047+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:55:07.047+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:55:07.047+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:55:07.076+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:55:07.102+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:55:07.102+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:55:07.114+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:55:07.114+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:55:07.144+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2022-10-12T11:56:28.423+0600] {processor.py:156} INFO - Started process (PID=14819) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:56:28.424+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:56:28.425+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:28.425+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:56:28.453+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:56:28.478+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:28.478+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:56:28.491+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:28.491+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:56:28.521+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2022-10-12T11:57:52.619+0600] {processor.py:156} INFO - Started process (PID=14892) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:57:52.621+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:57:52.622+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:57:52.622+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:57:52.674+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:57:52.702+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:57:52.702+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:57:52.715+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:57:52.714+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:57:52.746+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.134 seconds
+[2022-10-12T11:59:13.232+0600] {processor.py:156} INFO - Started process (PID=14964) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:59:13.233+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T11:59:13.234+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:13.234+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:59:13.265+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T11:59:13.293+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:13.293+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:59:13.305+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:13.305+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T11:59:13.336+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.109 seconds
+[2022-10-12T12:00:27.816+0600] {processor.py:156} INFO - Started process (PID=15033) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:00:27.817+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:00:27.818+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:27.818+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:00:27.853+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:00:27.879+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:27.879+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:00:27.891+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:27.891+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:00:27.921+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.113 seconds
+[2022-10-12T12:01:48.869+0600] {processor.py:156} INFO - Started process (PID=15103) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:01:48.870+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:01:48.871+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:01:48.871+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:01:48.904+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:01:48.929+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:01:48.929+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:01:48.942+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:01:48.942+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:01:48.971+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-10-12T12:03:04.699+0600] {processor.py:156} INFO - Started process (PID=15172) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:03:04.699+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:03:04.700+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:03:04.700+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:03:04.733+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:03:04.760+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:03:04.760+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:03:04.773+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:03:04.772+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:03:04.803+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-10-12T12:04:26.617+0600] {processor.py:156} INFO - Started process (PID=15244) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:04:26.618+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:04:26.619+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:26.618+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:04:26.648+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:04:26.674+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:26.674+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:04:26.686+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:26.686+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:04:26.717+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2022-10-12T12:05:44.611+0600] {processor.py:156} INFO - Started process (PID=15314) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:05:44.612+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:05:44.613+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:05:44.613+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:05:44.643+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:05:44.669+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:05:44.669+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:05:44.681+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:05:44.681+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:05:44.711+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-10-12T12:07:07.558+0600] {processor.py:156} INFO - Started process (PID=15387) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:07:07.560+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:07:07.562+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:07:07.561+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:07:07.628+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:07:07.655+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:07:07.655+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:07:07.668+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:07:07.668+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:07:07.698+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.147 seconds
+[2022-10-12T12:08:30.733+0600] {processor.py:156} INFO - Started process (PID=15460) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:08:30.734+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:08:30.735+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:30.735+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:08:30.772+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:08:30.799+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:30.799+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:08:30.811+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:30.811+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:08:30.841+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2022-10-12T12:09:50.118+0600] {processor.py:156} INFO - Started process (PID=15532) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:09:50.119+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:09:50.119+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:09:50.119+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:09:50.149+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:09:50.176+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:09:50.176+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:09:50.190+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:09:50.190+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:09:50.266+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.151 seconds
+[2022-10-12T12:11:08.853+0600] {processor.py:156} INFO - Started process (PID=15603) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:11:08.854+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:11:08.855+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:11:08.855+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:11:08.886+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:11:08.913+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:11:08.913+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:11:08.925+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:11:08.925+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:11:08.956+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-10-12T12:12:28.272+0600] {processor.py:156} INFO - Started process (PID=15674) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:12:28.273+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:12:28.273+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:28.273+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:12:28.302+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:12:28.329+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:28.329+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:12:28.344+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:28.344+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:12:28.382+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.114 seconds
+[2022-10-12T12:13:43.936+0600] {processor.py:156} INFO - Started process (PID=15744) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:13:43.937+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:13:43.938+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:13:43.938+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:13:43.970+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:13:43.996+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:13:43.996+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:13:44.009+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:13:44.008+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:13:44.040+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.109 seconds
+[2022-10-12T12:15:03.681+0600] {processor.py:156} INFO - Started process (PID=15815) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:15:03.683+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:15:03.683+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:15:03.683+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:15:03.721+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:15:03.747+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:15:03.747+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:15:03.760+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:15:03.760+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:15:03.791+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2022-10-12T12:16:21.464+0600] {processor.py:156} INFO - Started process (PID=15886) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:16:21.465+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:16:21.465+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:21.465+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:16:21.495+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:16:21.523+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:21.523+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:16:21.536+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:21.536+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:16:21.571+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.109 seconds
+[2022-10-12T12:17:44.448+0600] {processor.py:156} INFO - Started process (PID=15956) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:17:44.449+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:17:44.450+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:17:44.450+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:17:44.482+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:17:44.508+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:17:44.508+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:17:44.521+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:17:44.520+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:17:44.548+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-10-12T12:19:02.335+0600] {processor.py:156} INFO - Started process (PID=16027) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:19:02.336+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:19:02.337+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:19:02.336+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:19:02.367+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:19:02.393+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:19:02.393+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:19:02.406+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:19:02.406+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:19:02.436+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-10-12T12:20:20.082+0600] {processor.py:156} INFO - Started process (PID=16096) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:20:20.083+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:20:20.084+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:20.084+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:20:20.115+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:20:20.141+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:20.141+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:20:20.154+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:20.154+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:20:20.182+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-10-12T12:21:39.655+0600] {processor.py:156} INFO - Started process (PID=16167) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:21:39.656+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:21:39.656+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:39.656+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:21:39.692+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:21:39.722+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:39.722+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:21:39.736+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:39.736+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:21:39.766+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.117 seconds
+[2022-10-12T12:23:00.261+0600] {processor.py:156} INFO - Started process (PID=16239) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:23:00.262+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:23:00.263+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:23:00.263+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:23:00.294+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:23:00.321+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:23:00.321+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:23:00.333+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:23:00.333+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:23:00.364+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-10-12T12:24:18.580+0600] {processor.py:156} INFO - Started process (PID=16311) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:24:18.581+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:24:18.581+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:18.581+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:24:18.611+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:24:18.638+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:18.638+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:24:18.650+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:18.650+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:24:18.681+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-10-12T12:25:37.653+0600] {processor.py:156} INFO - Started process (PID=16381) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:25:37.654+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:25:37.655+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:37.654+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:25:37.683+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:25:37.710+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:37.710+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:25:37.722+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:37.722+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:25:37.753+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-10-12T12:26:58.453+0600] {processor.py:156} INFO - Started process (PID=16453) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:26:58.454+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:26:58.455+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:26:58.455+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:26:58.486+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:26:58.513+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:26:58.513+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:26:58.526+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:26:58.526+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:26:58.555+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-10-12T12:37:11.618+0600] {processor.py:156} INFO - Started process (PID=16535) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:37:11.620+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:37:11.621+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:11.621+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:37:11.691+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:37:11.756+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:11.756+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:37:11.786+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:11.786+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:37:11.837+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.226 seconds
+[2022-10-12T12:38:33.660+0600] {processor.py:156} INFO - Started process (PID=16607) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:38:33.661+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:38:33.662+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:33.662+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:38:33.699+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:38:33.724+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:33.724+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:38:33.736+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:33.736+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:38:33.782+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.127 seconds
+[2022-10-12T12:39:53.771+0600] {processor.py:156} INFO - Started process (PID=16679) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:39:53.772+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:39:53.772+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:39:53.772+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:39:53.802+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:39:53.828+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:39:53.827+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:39:53.840+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:39:53.840+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:39:53.870+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2022-10-12T12:41:11.267+0600] {processor.py:156} INFO - Started process (PID=16749) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:41:11.268+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:41:11.268+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:11.268+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:41:11.297+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:41:11.323+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:11.323+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:41:11.336+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:11.336+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:41:11.367+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2022-10-12T12:42:28.711+0600] {processor.py:156} INFO - Started process (PID=16819) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:42:28.712+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:42:28.713+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:42:28.713+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:42:28.743+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:42:28.769+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:42:28.769+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:42:28.781+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:42:28.781+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:42:28.815+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2022-10-12T12:43:50.490+0600] {processor.py:156} INFO - Started process (PID=16891) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:43:50.491+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:43:50.492+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:50.492+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:43:50.526+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:43:50.553+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:50.553+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:43:50.565+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:50.565+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:43:50.595+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.110 seconds
+[2022-10-12T12:45:18.150+0600] {processor.py:156} INFO - Started process (PID=16962) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:45:18.150+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:45:18.151+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:18.151+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:45:18.174+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:45:18.198+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:18.198+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:45:18.211+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:18.211+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:45:18.240+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2022-10-12T12:46:36.014+0600] {processor.py:156} INFO - Started process (PID=17034) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:46:36.015+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:46:36.015+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:46:36.015+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:46:36.046+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:46:36.077+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:46:36.077+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:46:36.094+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:46:36.093+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:46:36.114+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-10-12T12:47:52.996+0600] {processor.py:156} INFO - Started process (PID=17105) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:47:52.997+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:47:52.997+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:47:52.997+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:47:53.031+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:47:53.059+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:47:53.059+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:47:53.071+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:47:53.071+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:47:53.102+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.109 seconds
+[2022-10-12T12:49:12.414+0600] {processor.py:156} INFO - Started process (PID=17175) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:49:12.415+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:49:12.416+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:12.416+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:49:12.449+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:49:12.476+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:12.476+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:49:12.489+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:12.489+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:49:12.518+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.109 seconds
+[2022-10-12T12:50:32.883+0600] {processor.py:156} INFO - Started process (PID=17246) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:50:32.884+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:50:32.885+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:50:32.885+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:50:32.919+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:50:32.944+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:50:32.944+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:50:32.957+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:50:32.957+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:50:32.987+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.110 seconds
+[2022-10-12T12:51:51.747+0600] {processor.py:156} INFO - Started process (PID=17317) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:51:51.748+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:51:51.748+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:51:51.748+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:51:51.778+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:51:51.805+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:51:51.805+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:51:51.817+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:51:51.817+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:51:51.848+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-10-12T12:53:11.527+0600] {processor.py:156} INFO - Started process (PID=17388) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:53:11.529+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:53:11.530+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:11.530+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:53:11.560+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:53:11.587+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:11.587+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:53:11.599+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:11.599+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:53:11.631+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.111 seconds
+[2022-10-12T12:54:32.451+0600] {processor.py:156} INFO - Started process (PID=17459) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:54:32.452+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:54:32.453+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:54:32.452+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:54:32.483+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:54:32.510+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:54:32.510+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:54:32.522+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:54:32.522+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:54:32.555+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2022-10-12T12:55:48.212+0600] {processor.py:156} INFO - Started process (PID=17528) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:55:48.214+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:55:48.215+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:48.215+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:55:48.261+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:55:48.293+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:48.293+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:55:48.306+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:48.306+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:55:48.337+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.134 seconds
+[2022-10-12T12:57:13.168+0600] {processor.py:156} INFO - Started process (PID=17601) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:57:13.170+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:57:13.171+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:13.171+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:57:13.218+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:57:13.246+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:13.246+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:57:13.258+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:13.258+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:57:13.296+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.136 seconds
+[2022-10-12T12:58:36.007+0600] {processor.py:156} INFO - Started process (PID=17674) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:58:36.008+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:58:36.008+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:58:36.008+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:58:36.041+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:58:36.070+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:58:36.069+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:58:36.082+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:58:36.082+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:58:36.114+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.112 seconds
+[2022-10-12T12:59:52.665+0600] {processor.py:156} INFO - Started process (PID=17744) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:59:52.666+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T12:59:52.667+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:59:52.667+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:59:52.707+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T12:59:52.734+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:59:52.734+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:59:52.747+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:59:52.746+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T12:59:52.779+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.120 seconds
+[2022-10-12T13:01:11.206+0600] {processor.py:156} INFO - Started process (PID=17815) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:01:11.208+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:01:11.209+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:11.209+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:01:11.256+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:01:11.285+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:11.285+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:01:11.298+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:11.298+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:01:11.336+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.136 seconds
+[2022-10-12T13:02:29.346+0600] {processor.py:156} INFO - Started process (PID=17885) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:02:29.347+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:02:29.347+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:02:29.347+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:02:29.379+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:02:29.406+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:02:29.406+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:02:29.419+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:02:29.419+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:02:29.529+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.188 seconds
+[2022-10-12T13:03:54.971+0600] {processor.py:156} INFO - Started process (PID=17959) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:03:54.973+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:03:54.973+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:03:54.973+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:03:55.006+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:03:55.032+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:03:55.032+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:03:55.045+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:03:55.045+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:03:55.075+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.110 seconds
+[2022-10-12T13:05:19.638+0600] {processor.py:156} INFO - Started process (PID=18032) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:05:19.639+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:05:19.639+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:05:19.639+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:05:19.670+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:05:19.697+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:05:19.697+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:05:19.710+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:05:19.710+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:05:19.741+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-10-12T13:06:41.414+0600] {processor.py:156} INFO - Started process (PID=18105) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:06:41.415+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:06:41.415+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:41.415+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:06:41.447+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:06:41.475+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:41.474+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:06:41.487+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:41.487+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:06:41.518+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-10-12T13:07:55.418+0600] {processor.py:156} INFO - Started process (PID=18174) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:07:55.419+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:07:55.420+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:07:55.420+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:07:55.452+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:07:55.480+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:07:55.480+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:07:55.493+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:07:55.493+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:07:55.533+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.119 seconds
+[2022-10-12T13:09:15.030+0600] {processor.py:156} INFO - Started process (PID=18245) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:09:15.031+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:09:15.031+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:15.031+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:09:15.063+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:09:15.090+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:15.090+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:09:15.102+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:15.102+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:09:15.132+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-10-12T13:10:37.648+0600] {processor.py:156} INFO - Started process (PID=18316) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:10:37.649+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:10:37.650+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:10:37.650+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:10:37.682+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:10:37.710+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:10:37.710+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:10:37.723+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:10:37.723+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:10:37.756+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.112 seconds
+[2022-10-12T13:11:54.999+0600] {processor.py:156} INFO - Started process (PID=18386) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:11:55.000+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:11:55.000+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:11:55.000+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:11:55.031+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:11:55.059+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:11:55.059+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:11:55.072+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:11:55.072+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:11:55.251+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.256 seconds
+[2022-10-12T13:13:16.935+0600] {processor.py:156} INFO - Started process (PID=18458) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:13:16.936+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:13:16.937+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:16.937+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:13:16.968+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:13:16.996+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:16.996+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:13:17.009+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:17.009+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:13:17.038+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-10-12T13:14:36.237+0600] {processor.py:156} INFO - Started process (PID=18529) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:14:36.238+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:14:36.239+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:14:36.239+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:14:36.269+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:14:36.297+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:14:36.297+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:14:36.310+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:14:36.310+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:14:36.343+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.109 seconds
+[2022-10-12T13:15:52.089+0600] {processor.py:156} INFO - Started process (PID=18599) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:15:52.090+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:15:52.090+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:15:52.090+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:15:52.127+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:15:52.163+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:15:52.163+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:15:52.182+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:15:52.182+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:15:52.218+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.133 seconds
+[2022-10-12T13:17:06.334+0600] {processor.py:156} INFO - Started process (PID=18668) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:17:06.336+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:17:06.338+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:06.337+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:17:06.378+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:17:06.406+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:06.406+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:17:06.419+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:06.419+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:17:06.451+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.126 seconds
+[2022-10-12T13:18:29.367+0600] {processor.py:156} INFO - Started process (PID=18740) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:18:29.368+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:18:29.369+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:18:29.369+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:18:29.402+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:18:29.429+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:18:29.429+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:18:29.442+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:18:29.442+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:18:29.473+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.111 seconds
+[2022-10-12T13:19:46.927+0600] {processor.py:156} INFO - Started process (PID=18810) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:19:46.928+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T13:19:46.929+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:46.929+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:19:46.965+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T13:19:46.993+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:46.993+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:19:47.006+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:47.006+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T13:19:47.038+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.118 seconds
+[2022-10-12T15:08:34.019+0600] {processor.py:156} INFO - Started process (PID=18901) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:08:34.021+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:08:34.021+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:34.021+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:08:34.063+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:08:34.102+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:34.101+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:08:34.123+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:34.122+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:08:34.165+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.150 seconds
+[2022-10-12T15:09:48.577+0600] {processor.py:156} INFO - Started process (PID=18970) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:09:48.577+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:09:48.578+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:48.578+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:09:48.610+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:09:48.636+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:48.636+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:09:48.648+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:48.648+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:09:48.678+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-10-12T15:11:08.438+0600] {processor.py:156} INFO - Started process (PID=19040) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:11:08.439+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:11:08.439+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:11:08.439+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:11:08.469+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:11:08.496+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:11:08.495+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:11:08.508+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:11:08.508+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:11:08.536+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2022-10-12T15:12:33.025+0600] {processor.py:156} INFO - Started process (PID=19113) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:12:33.026+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:12:33.027+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:33.026+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:12:33.056+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:12:33.108+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:33.108+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:12:33.123+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:33.122+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:12:33.240+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.218 seconds
+[2022-10-12T15:13:53.744+0600] {processor.py:156} INFO - Started process (PID=19185) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:13:53.746+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:13:53.746+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:13:53.746+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:13:53.778+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:13:53.804+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:13:53.804+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:13:53.816+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:13:53.816+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:13:53.846+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2022-10-12T15:15:13.139+0600] {processor.py:156} INFO - Started process (PID=19256) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:15:13.140+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:15:13.140+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:13.140+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:15:13.171+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:15:13.197+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:13.197+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:15:13.209+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:13.209+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:15:13.239+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-10-12T15:16:34.929+0600] {processor.py:156} INFO - Started process (PID=19328) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:16:34.931+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:16:34.933+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:16:34.932+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:16:34.973+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:16:35.001+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:16:35.001+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:16:35.013+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:16:35.013+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:16:35.042+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.120 seconds
+[2022-10-12T15:17:52.621+0600] {processor.py:156} INFO - Started process (PID=19399) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:17:52.622+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:17:52.622+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:17:52.622+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:17:52.654+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:17:52.679+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:17:52.679+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:17:52.692+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:17:52.692+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:17:52.720+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2022-10-12T15:19:11.704+0600] {processor.py:156} INFO - Started process (PID=19470) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:19:11.705+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:19:11.705+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:11.705+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:19:11.739+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:19:11.769+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:11.769+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:19:11.784+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:11.784+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:19:11.814+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.113 seconds
+[2022-10-12T15:20:32.084+0600] {processor.py:156} INFO - Started process (PID=19541) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:20:32.085+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:20:32.085+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:20:32.085+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:20:32.118+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:20:32.144+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:20:32.144+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:20:32.156+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:20:32.156+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:20:32.221+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.142 seconds
+[2022-10-12T15:21:49.881+0600] {processor.py:156} INFO - Started process (PID=19612) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:21:49.883+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:21:49.884+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:49.884+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:21:49.925+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:21:49.950+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:49.950+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:21:49.962+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:49.962+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:21:49.992+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.119 seconds
+[2022-10-12T15:23:06.557+0600] {processor.py:156} INFO - Started process (PID=19682) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:23:06.558+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:23:06.558+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:06.558+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:23:06.589+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:23:06.615+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:06.615+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:23:06.628+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:06.628+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:23:06.657+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2022-10-12T15:24:23.929+0600] {processor.py:156} INFO - Started process (PID=19751) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:24:23.930+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:24:23.931+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:24:23.931+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:24:23.960+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:24:23.986+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:24:23.986+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:24:23.998+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:24:23.998+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:24:24.028+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2022-10-12T15:25:41.826+0600] {processor.py:156} INFO - Started process (PID=19822) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:25:41.828+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:25:41.829+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:41.828+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:25:41.862+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:25:41.888+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:41.888+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:25:41.900+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:41.900+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:25:41.930+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.110 seconds
+[2022-10-12T15:27:08.537+0600] {processor.py:156} INFO - Started process (PID=19896) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:27:08.538+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:27:08.539+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:08.539+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:27:08.570+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:27:08.596+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:08.595+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:27:08.608+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:08.608+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:27:08.715+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.184 seconds
+[2022-10-12T15:28:28.029+0600] {processor.py:156} INFO - Started process (PID=19967) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:28:28.030+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:28:28.031+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:28:28.031+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:28:28.066+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:28:28.097+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:28:28.097+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:28:28.112+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:28:28.112+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:28:28.141+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.116 seconds
+[2022-10-12T15:29:51.104+0600] {processor.py:156} INFO - Started process (PID=20040) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:29:51.105+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:29:51.105+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:29:51.105+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:29:51.138+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:29:51.164+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:29:51.164+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:29:51.176+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:29:51.176+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:29:51.218+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.119 seconds
+[2022-10-12T15:31:10.432+0600] {processor.py:156} INFO - Started process (PID=20111) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:31:10.434+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:31:10.435+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:10.434+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:31:10.470+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:31:10.496+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:10.496+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:31:10.509+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:10.509+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:31:10.539+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2022-10-12T15:32:37.852+0600] {processor.py:156} INFO - Started process (PID=20185) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:32:37.854+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:32:37.855+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:32:37.855+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:32:37.901+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:32:37.926+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:32:37.926+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:32:37.939+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:32:37.939+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:32:38.049+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.205 seconds
+[2022-10-12T15:33:58.965+0600] {processor.py:156} INFO - Started process (PID=20258) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:33:58.966+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:33:58.967+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:33:58.967+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:33:58.998+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:33:59.025+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:33:59.025+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:33:59.038+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:33:59.038+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:33:59.068+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2022-10-12T15:35:13.024+0600] {processor.py:156} INFO - Started process (PID=20326) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:35:13.025+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:35:13.025+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:13.025+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:35:13.058+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:35:13.091+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:13.091+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:35:13.105+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:13.105+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:35:13.132+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.112 seconds
+[2022-10-12T15:36:35.645+0600] {processor.py:156} INFO - Started process (PID=20398) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:36:35.646+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:36:35.646+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:36:35.646+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:36:35.676+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:36:35.702+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:36:35.702+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:36:35.714+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:36:35.714+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:36:35.744+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2022-10-12T15:37:52.640+0600] {processor.py:156} INFO - Started process (PID=20469) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:37:52.641+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:37:52.642+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:37:52.642+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:37:52.675+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:37:52.702+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:37:52.702+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:37:52.793+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:37:52.793+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:37:52.832+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.198 seconds
+[2022-10-12T15:39:15.794+0600] {processor.py:156} INFO - Started process (PID=20541) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:39:15.796+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:39:15.797+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:15.797+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:39:15.843+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:39:15.870+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:15.870+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:39:15.882+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:15.882+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:39:15.912+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.126 seconds
+[2022-10-12T15:40:39.893+0600] {processor.py:156} INFO - Started process (PID=20614) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:40:39.893+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:40:39.894+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:40:39.894+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:40:39.923+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:40:39.949+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:40:39.949+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:40:39.961+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:40:39.961+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:40:39.991+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2022-10-12T15:42:00.279+0600] {processor.py:156} INFO - Started process (PID=20686) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:42:00.280+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:42:00.280+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:00.280+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:42:00.314+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:42:00.339+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:00.339+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:42:00.352+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:00.352+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:42:00.383+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.110 seconds
+[2022-10-12T15:43:22.283+0600] {processor.py:156} INFO - Started process (PID=20758) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:43:22.285+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:43:22.287+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:43:22.286+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:43:22.330+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:43:22.357+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:43:22.357+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:43:22.446+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:43:22.446+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:43:22.488+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.214 seconds
+[2022-10-12T15:44:39.059+0600] {processor.py:156} INFO - Started process (PID=20828) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:44:39.060+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:44:39.061+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:39.061+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:44:39.093+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:44:39.120+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:39.119+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:44:39.132+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:39.132+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:44:39.163+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.110 seconds
+[2022-10-12T15:46:01.973+0600] {processor.py:156} INFO - Started process (PID=20901) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:46:01.973+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:46:01.974+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:01.974+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:46:02.003+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:46:02.029+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:02.029+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:46:02.042+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:02.042+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:46:02.072+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2022-10-12T15:47:27.978+0600] {processor.py:156} INFO - Started process (PID=20975) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:47:27.979+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:47:27.980+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:47:27.980+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:47:28.012+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:47:28.037+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:47:28.037+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:47:28.049+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:47:28.049+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:47:28.157+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.184 seconds
+[2022-10-12T15:48:51.224+0600] {processor.py:156} INFO - Started process (PID=21047) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:48:51.226+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:48:51.227+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:51.226+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:48:51.259+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:48:51.285+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:51.285+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:48:51.374+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:51.374+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:48:51.404+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.193 seconds
+[2022-10-12T15:50:09.955+0600] {processor.py:156} INFO - Started process (PID=21118) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:50:09.955+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:50:09.956+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:09.956+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:50:09.989+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:50:10.019+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:10.019+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:50:10.033+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:10.033+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:50:10.063+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.111 seconds
+[2022-10-12T15:51:36.638+0600] {processor.py:156} INFO - Started process (PID=21191) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:51:36.639+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:51:36.640+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:51:36.640+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:51:36.673+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:51:36.699+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:51:36.699+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:51:36.712+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:51:36.711+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:51:36.742+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.109 seconds
+[2022-10-12T15:52:59.503+0600] {processor.py:156} INFO - Started process (PID=21263) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:52:59.504+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:52:59.505+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:52:59.505+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:52:59.538+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:52:59.565+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:52:59.565+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:52:59.654+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:52:59.654+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:52:59.684+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.186 seconds
+[2022-10-12T15:54:24.064+0600] {processor.py:156} INFO - Started process (PID=21336) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:54:24.065+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:54:24.065+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:54:24.065+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:54:24.099+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:54:24.129+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:54:24.129+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:54:24.145+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:54:24.145+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:54:24.182+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.123 seconds
+[2022-10-12T15:55:54.901+0600] {processor.py:156} INFO - Started process (PID=21412) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:55:54.902+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:55:54.902+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:55:54.902+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:55:54.932+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:55:54.959+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:55:54.959+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:55:54.972+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:55:54.972+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:55:55.001+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2022-10-12T15:57:17.868+0600] {processor.py:156} INFO - Started process (PID=21484) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:57:17.869+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:57:17.870+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:17.870+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:57:17.905+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:57:17.932+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:17.932+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:57:17.945+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:17.945+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:57:17.980+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.116 seconds
+[2022-10-12T15:58:44.905+0600] {processor.py:156} INFO - Started process (PID=21558) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:58:44.906+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T15:58:44.907+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:58:44.907+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:58:44.947+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T15:58:44.974+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:58:44.974+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:58:45.062+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:58:45.062+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T15:58:45.091+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.192 seconds
+[2022-10-12T16:00:07.934+0600] {processor.py:156} INFO - Started process (PID=21630) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:00:07.935+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T16:00:07.935+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:07.935+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:00:07.968+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:00:07.998+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:07.998+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:00:08.011+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:08.011+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T16:00:08.059+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.129 seconds
+[2022-10-12T16:01:32.118+0600] {processor.py:156} INFO - Started process (PID=21703) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:01:32.119+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T16:01:32.120+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:01:32.119+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:01:32.150+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:01:32.178+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:01:32.178+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:01:32.191+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:01:32.191+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T16:01:32.221+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2022-10-12T16:02:47.241+0600] {processor.py:156} INFO - Started process (PID=21773) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:02:47.242+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T16:02:47.243+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:47.242+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:02:47.274+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:02:47.302+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:47.301+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:02:47.398+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:47.398+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T16:02:47.431+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.195 seconds
+[2022-10-12T16:04:08.359+0600] {processor.py:156} INFO - Started process (PID=21846) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:04:08.360+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T16:04:08.360+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:08.360+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:04:08.403+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:04:08.432+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:08.432+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:04:08.523+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:08.523+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T16:04:08.552+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.197 seconds
+[2022-10-12T16:05:24.376+0600] {processor.py:156} INFO - Started process (PID=21915) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:05:24.378+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T16:05:24.379+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:24.379+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:05:24.412+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:05:24.439+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:24.439+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:05:24.451+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:24.451+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T16:05:24.480+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.109 seconds
+[2022-10-12T16:06:39.684+0600] {processor.py:156} INFO - Started process (PID=21984) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:06:39.685+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T16:06:39.685+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:06:39.685+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:06:39.710+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:06:39.736+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:06:39.736+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:06:39.750+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:06:39.750+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T16:06:39.779+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2022-10-12T16:08:01.727+0600] {processor.py:156} INFO - Started process (PID=22055) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:08:01.728+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T16:08:01.728+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:01.728+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:08:01.758+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:08:01.785+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:01.785+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:08:01.880+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:01.880+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T16:08:01.911+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.187 seconds
+[2022-10-12T16:09:22.831+0600] {processor.py:156} INFO - Started process (PID=22125) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:09:22.832+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T16:09:22.833+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:09:22.833+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:09:22.866+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:09:22.894+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:09:22.893+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:09:22.985+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:09:22.985+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T16:09:23.014+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.189 seconds
+[2022-10-12T16:10:43.942+0600] {processor.py:156} INFO - Started process (PID=22197) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:10:43.942+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-10-12T16:10:43.943+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:43.943+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:10:43.971+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2022-10-12T16:10:43.998+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:43.998+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:10:44.011+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:44.011+0600] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-10-12T16:10:44.042+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds

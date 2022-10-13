@@ -1,0 +1,875 @@
+[2022-10-12T11:17:43.339+0600] {processor.py:156} INFO - Started process (PID=13117) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:17:43.340+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:17:43.341+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:17:43.341+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:17:43.393+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:17:43.443+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:17:43.443+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:17:43.472+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:17:43.472+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:17:43.506+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.173 seconds
+[2022-10-12T11:30:33.180+0600] {processor.py:156} INFO - Started process (PID=13418) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:30:33.181+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:30:33.182+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:33.182+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:30:33.222+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:30:33.248+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:33.248+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:30:33.263+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:33.263+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:30:33.318+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.143 seconds
+[2022-10-12T11:31:43.338+0600] {processor.py:156} INFO - Started process (PID=13479) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:31:43.341+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:31:43.342+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:43.342+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:31:43.382+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:31:43.409+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:43.409+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:31:43.425+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:43.425+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:31:43.455+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.127 seconds
+[2022-10-12T11:33:01.692+0600] {processor.py:156} INFO - Started process (PID=13550) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:33:01.694+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:33:01.695+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:33:01.694+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:33:01.730+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:33:01.753+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:33:01.753+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:33:01.767+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:33:01.767+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:33:01.797+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.112 seconds
+[2022-10-12T11:34:19.058+0600] {processor.py:156} INFO - Started process (PID=13618) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:34:19.059+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:34:19.059+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:19.059+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:34:19.089+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:34:19.113+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:19.113+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:34:19.126+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:19.126+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:34:19.157+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-10-12T11:35:37.387+0600] {processor.py:156} INFO - Started process (PID=13690) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:35:37.388+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:35:37.389+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:37.389+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:35:37.416+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:35:37.440+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:37.440+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:35:37.454+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:37.454+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:35:37.485+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.101 seconds
+[2022-10-12T11:36:55.034+0600] {processor.py:156} INFO - Started process (PID=13759) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:36:55.035+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:36:55.035+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:36:55.035+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:36:55.065+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:36:55.089+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:36:55.089+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:36:55.103+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:36:55.102+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:36:55.133+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-10-12T11:38:13.217+0600] {processor.py:156} INFO - Started process (PID=13830) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:38:13.218+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:38:13.219+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:38:13.218+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:38:13.250+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:38:13.274+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:38:13.274+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:38:13.287+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:38:13.287+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:38:13.318+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-10-12T11:39:35.442+0600] {processor.py:156} INFO - Started process (PID=13902) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:39:35.443+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:39:35.444+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:35.444+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:39:35.472+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:39:35.496+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:35.496+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:39:35.509+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:35.509+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:39:35.540+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.100 seconds
+[2022-10-12T11:40:51.152+0600] {processor.py:156} INFO - Started process (PID=13972) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:40:51.153+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:40:51.154+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:40:51.154+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:40:51.187+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:40:51.214+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:40:51.214+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:40:51.230+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:40:51.230+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:40:51.371+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.223 seconds
+[2022-10-12T11:42:11.115+0600] {processor.py:156} INFO - Started process (PID=14044) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:42:11.118+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:42:11.120+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:42:11.120+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:42:11.154+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:42:11.178+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:42:11.178+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:42:11.192+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:42:11.191+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:42:11.226+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.127 seconds
+[2022-10-12T11:43:27.302+0600] {processor.py:156} INFO - Started process (PID=14114) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:43:27.303+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:43:27.304+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:27.304+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:43:27.331+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:43:27.357+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:27.356+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:43:27.370+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:27.370+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:43:27.400+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.101 seconds
+[2022-10-12T11:44:47.578+0600] {processor.py:156} INFO - Started process (PID=14185) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:44:47.579+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:44:47.580+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:44:47.580+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:44:47.606+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:44:47.629+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:44:47.629+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:44:47.643+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:44:47.642+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:44:47.685+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.110 seconds
+[2022-10-12T11:46:04.509+0600] {processor.py:156} INFO - Started process (PID=14257) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:46:04.511+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:46:04.511+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:46:04.511+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:46:04.541+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:46:04.565+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:46:04.565+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:46:04.578+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:46:04.578+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:46:04.610+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.107 seconds
+[2022-10-12T11:47:24.016+0600] {processor.py:156} INFO - Started process (PID=14328) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:47:24.017+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:47:24.018+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:24.017+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:47:24.048+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:47:24.072+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:24.072+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:47:24.086+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:24.086+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:47:24.114+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-10-12T11:48:40.607+0600] {processor.py:156} INFO - Started process (PID=14398) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:48:40.608+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:48:40.608+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:40.608+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:48:40.636+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:48:40.659+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:40.659+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:48:40.672+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:40.672+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:48:40.703+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.099 seconds
+[2022-10-12T11:49:59.020+0600] {processor.py:156} INFO - Started process (PID=14469) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:49:59.022+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:49:59.022+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:49:59.022+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:49:59.060+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:49:59.087+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:49:59.087+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:49:59.100+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:49:59.100+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:49:59.135+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.123 seconds
+[2022-10-12T11:51:17.011+0600] {processor.py:156} INFO - Started process (PID=14539) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:51:17.013+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:51:17.015+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:17.014+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:51:17.053+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:51:17.076+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:17.076+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:51:17.090+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:17.090+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:51:17.118+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.117 seconds
+[2022-10-12T11:52:36.018+0600] {processor.py:156} INFO - Started process (PID=14610) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:52:36.020+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:52:36.021+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:36.021+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:52:36.063+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:52:36.091+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:36.091+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:52:36.105+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:36.105+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:52:36.136+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.126 seconds
+[2022-10-12T11:53:54.335+0600] {processor.py:156} INFO - Started process (PID=14681) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:53:54.336+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:53:54.337+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:53:54.337+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:53:54.369+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:53:54.403+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:53:54.402+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:53:54.425+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:53:54.425+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:53:54.462+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.131 seconds
+[2022-10-12T11:55:11.100+0600] {processor.py:156} INFO - Started process (PID=14751) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:55:11.102+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:55:11.103+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:55:11.103+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:55:11.158+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:55:11.193+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:55:11.192+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:55:11.207+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:55:11.206+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:55:11.237+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.145 seconds
+[2022-10-12T11:56:32.313+0600] {processor.py:156} INFO - Started process (PID=14822) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:56:32.314+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:56:32.315+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:32.314+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:56:32.341+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:56:32.365+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:32.365+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:56:32.379+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:32.379+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:56:32.409+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.099 seconds
+[2022-10-12T11:57:55.916+0600] {processor.py:156} INFO - Started process (PID=14895) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:57:55.917+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:57:55.918+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:57:55.918+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:57:55.949+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:57:55.973+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:57:55.973+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:57:55.987+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:57:55.987+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:57:56.015+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-10-12T11:59:17.235+0600] {processor.py:156} INFO - Started process (PID=14967) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:59:17.238+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T11:59:17.239+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:17.239+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:59:17.275+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T11:59:17.299+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:17.299+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:59:17.312+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:17.312+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T11:59:17.343+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.117 seconds
+[2022-10-12T12:00:31.813+0600] {processor.py:156} INFO - Started process (PID=15036) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:00:31.814+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:00:31.815+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:31.815+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:00:31.847+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:00:31.871+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:31.870+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:00:31.883+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:31.883+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:00:31.912+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-10-12T12:01:52.636+0600] {processor.py:156} INFO - Started process (PID=15106) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:01:52.637+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:01:52.638+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:01:52.637+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:01:52.668+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:01:52.692+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:01:52.692+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:01:52.706+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:01:52.706+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:01:52.736+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-10-12T12:03:08.606+0600] {processor.py:156} INFO - Started process (PID=15175) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:03:08.608+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:03:08.609+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:03:08.609+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:03:08.641+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:03:08.665+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:03:08.665+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:03:08.678+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:03:08.678+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:03:08.708+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.107 seconds
+[2022-10-12T12:04:29.390+0600] {processor.py:156} INFO - Started process (PID=15247) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:04:29.390+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:04:29.391+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:29.391+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:04:29.418+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:04:29.442+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:29.442+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:04:29.455+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:29.455+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:04:29.486+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.099 seconds
+[2022-10-12T12:05:48.591+0600] {processor.py:156} INFO - Started process (PID=15317) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:05:48.592+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:05:48.592+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:05:48.592+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:05:48.619+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:05:48.644+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:05:48.643+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:05:48.657+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:05:48.656+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:05:48.688+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.100 seconds
+[2022-10-12T12:07:11.373+0600] {processor.py:156} INFO - Started process (PID=15390) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:07:11.376+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:07:11.377+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:07:11.377+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:07:11.412+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:07:11.436+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:07:11.436+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:07:11.449+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:07:11.449+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:07:11.484+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.126 seconds
+[2022-10-12T12:08:33.774+0600] {processor.py:156} INFO - Started process (PID=15463) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:08:33.775+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:08:33.776+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:33.776+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:08:33.808+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:08:33.833+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:33.833+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:08:33.846+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:33.846+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:08:33.895+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.126 seconds
+[2022-10-12T12:09:54.105+0600] {processor.py:156} INFO - Started process (PID=15535) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:09:54.106+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:09:54.107+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:09:54.107+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:09:54.135+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:09:54.159+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:09:54.159+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:09:54.172+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:09:54.172+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:09:54.226+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.125 seconds
+[2022-10-12T12:11:12.845+0600] {processor.py:156} INFO - Started process (PID=15606) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:11:12.847+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:11:12.848+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:11:12.848+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:11:12.889+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:11:12.914+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:11:12.914+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:11:12.927+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:11:12.927+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:11:12.958+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.121 seconds
+[2022-10-12T12:12:32.093+0600] {processor.py:156} INFO - Started process (PID=15677) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:12:32.094+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:12:32.094+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:32.094+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:12:32.121+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:12:32.145+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:32.145+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:12:32.159+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:32.159+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:12:32.190+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.100 seconds
+[2022-10-12T12:13:47.746+0600] {processor.py:156} INFO - Started process (PID=15747) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:13:47.747+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:13:47.748+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:13:47.748+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:13:47.775+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:13:47.799+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:13:47.799+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:13:47.813+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:13:47.813+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:13:47.843+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.100 seconds
+[2022-10-12T12:15:07.189+0600] {processor.py:156} INFO - Started process (PID=15818) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:15:07.190+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:15:07.191+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:15:07.190+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:15:07.219+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:15:07.243+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:15:07.243+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:15:07.257+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:15:07.257+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:15:07.289+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-10-12T12:16:24.194+0600] {processor.py:156} INFO - Started process (PID=15889) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:16:24.195+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:16:24.195+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:24.195+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:16:24.224+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:16:24.248+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:24.248+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:16:24.263+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:24.262+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:16:24.293+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-10-12T12:17:47.692+0600] {processor.py:156} INFO - Started process (PID=15959) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:17:47.693+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:17:47.694+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:17:47.694+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:17:47.723+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:17:47.746+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:17:47.746+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:17:47.761+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:17:47.761+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:17:47.788+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.101 seconds
+[2022-10-12T12:19:05.662+0600] {processor.py:156} INFO - Started process (PID=16030) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:19:05.664+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:19:05.665+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:19:05.665+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:19:05.704+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:19:05.729+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:19:05.729+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:19:05.742+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:19:05.742+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:19:05.772+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.119 seconds
+[2022-10-12T12:20:23.150+0600] {processor.py:156} INFO - Started process (PID=16099) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:20:23.151+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:20:23.152+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:23.151+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:20:23.180+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:20:23.205+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:23.205+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:20:23.218+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:23.218+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:20:23.249+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-10-12T12:21:43.003+0600] {processor.py:156} INFO - Started process (PID=16170) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:21:43.004+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:21:43.004+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:43.004+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:21:43.036+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:21:43.061+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:43.061+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:21:43.074+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:43.074+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:21:43.105+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-10-12T12:23:03.827+0600] {processor.py:156} INFO - Started process (PID=16242) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:23:03.828+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:23:03.829+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:23:03.829+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:23:03.859+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:23:03.884+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:23:03.884+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:23:03.900+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:23:03.900+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:23:03.933+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.111 seconds
+[2022-10-12T12:24:22.192+0600] {processor.py:156} INFO - Started process (PID=16314) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:24:22.193+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:24:22.194+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:22.194+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:24:22.224+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:24:22.250+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:22.250+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:24:22.263+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:22.263+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:24:22.292+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.105 seconds
+[2022-10-12T12:25:41.546+0600] {processor.py:156} INFO - Started process (PID=16384) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:25:41.546+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:25:41.547+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:41.547+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:25:41.574+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:25:41.598+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:41.598+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:25:41.611+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:41.611+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:25:41.643+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.100 seconds
+[2022-10-12T12:27:02.284+0600] {processor.py:156} INFO - Started process (PID=16456) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:27:02.286+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:27:02.287+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:27:02.287+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:27:02.330+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:27:02.356+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:27:02.356+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:27:02.370+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:27:02.370+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:27:02.399+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.124 seconds
+[2022-10-12T12:37:15.641+0600] {processor.py:156} INFO - Started process (PID=16538) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:37:15.642+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:37:15.642+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:15.642+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:37:15.673+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:37:15.696+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:15.696+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:37:15.710+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:15.709+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:37:15.740+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.101 seconds
+[2022-10-12T12:38:37.425+0600] {processor.py:156} INFO - Started process (PID=16610) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:38:37.426+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:38:37.426+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:37.426+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:38:37.457+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:38:37.481+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:37.481+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:38:37.494+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:37.494+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:38:37.525+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-10-12T12:39:56.032+0600] {processor.py:156} INFO - Started process (PID=16682) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:39:56.034+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:39:56.035+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:39:56.035+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:39:56.073+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:39:56.097+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:39:56.097+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:39:56.110+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:39:56.110+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:39:56.141+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.118 seconds
+[2022-10-12T12:41:14.952+0600] {processor.py:156} INFO - Started process (PID=16752) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:41:14.954+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:41:14.955+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:14.955+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:41:14.993+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:41:15.020+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:15.020+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:41:15.034+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:15.033+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:41:15.062+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.120 seconds
+[2022-10-12T12:42:32.670+0600] {processor.py:156} INFO - Started process (PID=16822) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:42:32.671+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:42:32.671+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:42:32.671+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:42:32.700+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:42:32.725+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:42:32.724+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:42:32.738+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:42:32.738+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:42:32.767+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-10-12T12:43:54.452+0600] {processor.py:156} INFO - Started process (PID=16894) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:43:54.453+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:43:54.454+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:54.454+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:43:54.481+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:43:54.505+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:54.505+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:43:54.519+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:54.519+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:43:54.548+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.098 seconds
+[2022-10-12T12:45:20.962+0600] {processor.py:156} INFO - Started process (PID=16965) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:45:20.963+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:45:20.964+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:20.964+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:45:20.984+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:45:21.006+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:21.006+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:45:21.020+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:21.020+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:45:21.049+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.090 seconds
+[2022-10-12T12:46:39.842+0600] {processor.py:156} INFO - Started process (PID=17037) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:46:39.843+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:46:39.844+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:46:39.844+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:46:39.872+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:46:39.898+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:46:39.898+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:46:39.919+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:46:39.918+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:46:39.949+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.110 seconds
+[2022-10-12T12:47:56.312+0600] {processor.py:156} INFO - Started process (PID=17108) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:47:56.314+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:47:56.315+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:47:56.315+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:47:56.355+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:47:56.381+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:47:56.380+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:47:56.394+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:47:56.394+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:47:56.570+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.268 seconds
+[2022-10-12T12:49:16.144+0600] {processor.py:156} INFO - Started process (PID=17178) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:49:16.146+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:49:16.147+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:16.146+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:49:16.182+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:49:16.211+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:16.211+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:49:16.225+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:16.225+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:49:16.259+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.125 seconds
+[2022-10-12T12:50:36.612+0600] {processor.py:156} INFO - Started process (PID=17249) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:50:36.614+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:50:36.615+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:50:36.615+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:50:36.658+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:50:36.685+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:50:36.685+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:50:36.699+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:50:36.699+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:50:36.729+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.125 seconds
+[2022-10-12T12:51:55.707+0600] {processor.py:156} INFO - Started process (PID=17320) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:51:55.708+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:51:55.709+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:51:55.709+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:51:55.738+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:51:55.763+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:51:55.763+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:51:55.776+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:51:55.776+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:51:55.824+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.120 seconds
+[2022-10-12T12:53:15.612+0600] {processor.py:156} INFO - Started process (PID=17391) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:53:15.614+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:53:15.615+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:15.614+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:53:15.651+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:53:15.679+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:15.678+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:53:15.692+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:15.692+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:53:15.722+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.121 seconds
+[2022-10-12T12:54:36.413+0600] {processor.py:156} INFO - Started process (PID=17462) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:54:36.415+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:54:36.416+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:54:36.416+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:54:36.461+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:54:36.486+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:54:36.486+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:54:36.500+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:54:36.500+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:54:36.532+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.127 seconds
+[2022-10-12T12:55:51.957+0600] {processor.py:156} INFO - Started process (PID=17531) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:55:51.958+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:55:51.959+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:51.959+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:55:51.997+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:55:52.027+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:52.027+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:55:52.041+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:52.041+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:55:52.072+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.120 seconds
+[2022-10-12T12:57:16.258+0600] {processor.py:156} INFO - Started process (PID=17604) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:57:16.260+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:57:16.261+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:16.261+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:57:16.297+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:57:16.324+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:16.323+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:57:16.337+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:16.337+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:57:16.370+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.122 seconds
+[2022-10-12T12:58:38.607+0600] {processor.py:156} INFO - Started process (PID=17677) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:58:38.608+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:58:38.609+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:58:38.608+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:58:38.641+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:58:38.666+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:58:38.666+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:58:38.679+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:58:38.679+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:58:38.711+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.110 seconds
+[2022-10-12T12:59:56.642+0600] {processor.py:156} INFO - Started process (PID=17747) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:59:56.643+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T12:59:56.643+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:59:56.643+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:59:56.671+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T12:59:56.696+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:59:56.696+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:59:56.710+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:59:56.710+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T12:59:56.740+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.101 seconds
+[2022-10-12T13:01:14.339+0600] {processor.py:156} INFO - Started process (PID=17818) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:01:14.340+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:01:14.340+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:14.340+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:01:14.371+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:01:14.397+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:14.396+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:01:14.413+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:14.413+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:01:14.442+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-10-12T13:02:33.136+0600] {processor.py:156} INFO - Started process (PID=17888) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:02:33.137+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:02:33.138+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:02:33.138+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:02:33.166+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:02:33.192+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:02:33.192+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:02:33.206+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:02:33.206+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:02:33.237+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-10-12T13:03:58.940+0600] {processor.py:156} INFO - Started process (PID=17962) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:03:58.941+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:03:58.941+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:03:58.941+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:03:58.970+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:03:58.996+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:03:58.996+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:03:59.012+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:03:59.012+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:03:59.044+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.107 seconds
+[2022-10-12T13:05:23.587+0600] {processor.py:156} INFO - Started process (PID=18035) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:05:23.588+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:05:23.588+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:05:23.588+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:05:23.618+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:05:23.643+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:05:23.643+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:05:23.657+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:05:23.657+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:05:23.688+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.105 seconds
+[2022-10-12T13:06:44.627+0600] {processor.py:156} INFO - Started process (PID=18108) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:06:44.630+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:06:44.631+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:44.630+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:06:44.667+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:06:44.692+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:44.692+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:06:44.706+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:44.706+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:06:44.737+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.120 seconds
+[2022-10-12T13:07:59.338+0600] {processor.py:156} INFO - Started process (PID=18177) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:07:59.338+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:07:59.339+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:07:59.339+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:07:59.368+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:07:59.394+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:07:59.394+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:07:59.407+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:07:59.407+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:07:59.438+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-10-12T13:09:18.942+0600] {processor.py:156} INFO - Started process (PID=18248) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:09:18.943+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:09:18.943+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:18.943+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:09:18.972+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:09:18.997+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:18.997+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:09:19.010+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:19.010+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:09:19.051+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.112 seconds
+[2022-10-12T13:10:40.675+0600] {processor.py:156} INFO - Started process (PID=18319) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:10:40.678+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:10:40.679+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:10:40.679+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:10:40.724+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:10:40.749+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:10:40.749+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:10:40.763+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:10:40.763+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:10:40.796+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.130 seconds
+[2022-10-12T13:11:58.476+0600] {processor.py:156} INFO - Started process (PID=18389) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:11:58.476+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:11:58.477+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:11:58.477+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:11:58.505+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:11:58.531+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:11:58.531+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:11:58.544+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:11:58.544+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:11:58.575+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-10-12T13:13:20.222+0600] {processor.py:156} INFO - Started process (PID=18461) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:13:20.223+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:13:20.224+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:20.224+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:13:20.253+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:13:20.277+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:20.277+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:13:20.291+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:20.291+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:13:20.323+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-10-12T13:14:40.304+0600] {processor.py:156} INFO - Started process (PID=18532) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:14:40.305+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:14:40.305+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:14:40.305+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:14:40.336+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:14:40.361+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:14:40.361+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:14:40.374+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:14:40.374+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:14:40.405+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-10-12T13:15:55.178+0600] {processor.py:156} INFO - Started process (PID=18602) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:15:55.179+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:15:55.180+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:15:55.180+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:15:55.213+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:15:55.246+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:15:55.246+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:15:55.266+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:15:55.266+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:15:55.304+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.129 seconds
+[2022-10-12T13:17:10.239+0600] {processor.py:156} INFO - Started process (PID=18671) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:17:10.240+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:17:10.240+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:10.240+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:17:10.270+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:17:10.298+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:10.297+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:17:10.312+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:10.312+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:17:10.345+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.110 seconds
+[2022-10-12T13:18:32.348+0600] {processor.py:156} INFO - Started process (PID=18743) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:18:32.349+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:18:32.349+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:18:32.349+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:18:32.379+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:18:32.405+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:18:32.405+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:18:32.418+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:18:32.418+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:18:32.449+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-10-12T13:19:51.026+0600] {processor.py:156} INFO - Started process (PID=18813) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:19:51.027+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T13:19:51.028+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:51.028+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:19:51.059+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T13:19:51.084+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:51.084+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:19:51.097+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:51.097+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T13:19:51.130+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.110 seconds
+[2022-10-12T15:08:37.301+0600] {processor.py:156} INFO - Started process (PID=18904) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:08:37.302+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:08:37.302+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:37.302+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:08:37.334+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:08:37.358+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:37.358+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:08:37.372+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:37.372+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:08:37.402+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.104 seconds
+[2022-10-12T15:09:52.535+0600] {processor.py:156} INFO - Started process (PID=18973) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:09:52.535+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:09:52.536+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:52.536+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:09:52.569+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:09:52.597+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:52.597+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:09:52.613+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:52.612+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:09:52.644+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.112 seconds
+[2022-10-12T15:11:12.330+0600] {processor.py:156} INFO - Started process (PID=19043) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:11:12.331+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:11:12.331+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:11:12.331+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:11:12.359+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:11:12.385+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:11:12.384+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:11:12.398+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:11:12.398+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:11:12.429+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-10-12T15:12:37.183+0600] {processor.py:156} INFO - Started process (PID=19116) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:12:37.185+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:12:37.186+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:37.186+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:12:37.220+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:12:37.244+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:37.244+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:12:37.258+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:37.258+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:12:37.364+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.190 seconds
+[2022-10-12T15:13:57.705+0600] {processor.py:156} INFO - Started process (PID=19188) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:13:57.706+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:13:57.707+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:13:57.707+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:13:57.738+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:13:57.763+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:13:57.763+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:13:57.778+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:13:57.778+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:13:57.808+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-10-12T15:15:17.085+0600] {processor.py:156} INFO - Started process (PID=19259) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:15:17.087+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:15:17.087+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:17.087+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:15:17.118+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:15:17.143+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:17.143+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:15:17.156+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:17.156+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:15:17.186+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-10-12T15:16:38.133+0600] {processor.py:156} INFO - Started process (PID=19331) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:16:38.134+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:16:38.135+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:16:38.134+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:16:38.163+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:16:38.187+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:16:38.187+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:16:38.200+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:16:38.200+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:16:38.230+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.100 seconds
+[2022-10-12T15:17:56.141+0600] {processor.py:156} INFO - Started process (PID=19402) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:17:56.142+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:17:56.142+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:17:56.142+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:17:56.172+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:17:56.195+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:17:56.195+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:17:56.209+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:17:56.209+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:17:56.252+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.116 seconds
+[2022-10-12T15:19:15.525+0600] {processor.py:156} INFO - Started process (PID=19473) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:19:15.526+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:19:15.527+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:15.527+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:19:15.559+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:19:15.591+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:15.590+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:19:15.609+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:15.609+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:19:15.638+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.117 seconds
+[2022-10-12T15:20:34.973+0600] {processor.py:156} INFO - Started process (PID=19544) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:20:34.974+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:20:34.974+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:20:34.974+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:20:35.002+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:20:35.026+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:20:35.026+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:20:35.039+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:20:35.039+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:20:35.068+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.098 seconds
+[2022-10-12T15:21:53.780+0600] {processor.py:156} INFO - Started process (PID=19615) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:21:53.782+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:21:53.784+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:53.784+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:21:53.823+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:21:53.849+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:53.849+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:21:53.862+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:53.862+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:21:54.056+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.285 seconds
+[2022-10-12T15:23:10.482+0600] {processor.py:156} INFO - Started process (PID=19685) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:23:10.482+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:23:10.483+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:10.483+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:23:10.511+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:23:10.534+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:10.534+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:23:10.548+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:10.548+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:23:10.579+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.100 seconds
+[2022-10-12T15:24:26.510+0600] {processor.py:156} INFO - Started process (PID=19754) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:24:26.511+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:24:26.511+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:24:26.511+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:24:26.539+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:24:26.563+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:24:26.563+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:24:26.577+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:24:26.576+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:24:26.606+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.099 seconds
+[2022-10-12T15:25:45.747+0600] {processor.py:156} INFO - Started process (PID=19825) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:25:45.748+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:25:45.748+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:45.748+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:25:45.776+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:25:45.800+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:45.800+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:25:45.813+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:45.813+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:25:45.843+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.099 seconds
+[2022-10-12T15:27:12.473+0600] {processor.py:156} INFO - Started process (PID=19899) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:27:12.474+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:27:12.474+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:12.474+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:27:12.503+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:27:12.528+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:12.528+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:27:12.541+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:12.541+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:27:12.650+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.180 seconds
+[2022-10-12T15:28:30.929+0600] {processor.py:156} INFO - Started process (PID=19970) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:28:30.929+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:28:30.930+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:28:30.930+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:28:30.957+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:28:30.981+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:28:30.981+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:28:30.996+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:28:30.995+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:28:31.028+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-10-12T15:29:55.086+0600] {processor.py:156} INFO - Started process (PID=20043) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:29:55.088+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:29:55.088+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:29:55.088+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:29:55.120+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:29:55.144+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:29:55.144+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:29:55.157+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:29:55.157+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:29:55.186+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.106 seconds
+[2022-10-12T15:31:14.397+0600] {processor.py:156} INFO - Started process (PID=20114) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:31:14.398+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:31:14.398+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:14.398+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:31:14.425+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:31:14.448+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:14.448+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:31:14.462+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:14.462+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:31:14.492+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.100 seconds
+[2022-10-12T15:32:42.204+0600] {processor.py:156} INFO - Started process (PID=20188) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:32:42.205+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:32:42.205+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:32:42.205+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:32:42.231+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:32:42.254+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:32:42.254+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:32:42.268+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:32:42.268+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:32:42.375+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.174 seconds
+[2022-10-12T15:34:02.202+0600] {processor.py:156} INFO - Started process (PID=20261) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:34:02.203+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:34:02.204+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:34:02.204+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:34:02.235+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:34:02.260+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:34:02.260+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:34:02.276+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:34:02.276+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:34:02.307+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.110 seconds
+[2022-10-12T15:35:17.033+0600] {processor.py:156} INFO - Started process (PID=20329) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:35:17.034+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:35:17.034+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:17.034+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:35:17.068+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:35:17.094+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:17.094+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:35:17.112+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:17.112+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:35:17.143+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.117 seconds
+[2022-10-12T15:36:38.849+0600] {processor.py:156} INFO - Started process (PID=20401) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:36:38.851+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:36:38.852+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:36:38.852+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:36:38.887+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:36:38.913+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:36:38.913+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:36:38.930+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:36:38.930+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:36:38.968+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.128 seconds
+[2022-10-12T15:37:55.436+0600] {processor.py:156} INFO - Started process (PID=20472) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:37:55.437+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:37:55.437+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:37:55.437+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:37:55.466+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:37:55.490+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:37:55.490+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:37:55.580+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:37:55.580+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:37:55.611+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.179 seconds
+[2022-10-12T15:39:19.599+0600] {processor.py:156} INFO - Started process (PID=20544) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:39:19.599+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:39:19.600+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:19.600+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:39:19.629+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:39:19.653+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:19.653+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:39:19.666+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:19.666+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:39:19.695+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.099 seconds
+[2022-10-12T15:40:43.810+0600] {processor.py:156} INFO - Started process (PID=20617) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:40:43.810+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:40:43.811+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:40:43.811+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:40:43.839+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:40:43.863+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:40:43.862+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:40:43.876+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:40:43.876+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:40:43.905+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.099 seconds
+[2022-10-12T15:42:04.294+0600] {processor.py:156} INFO - Started process (PID=20689) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:42:04.295+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:42:04.296+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:04.295+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:42:04.326+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:42:04.351+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:04.351+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:42:04.365+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:04.365+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:42:04.393+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.105 seconds
+[2022-10-12T15:43:25.537+0600] {processor.py:156} INFO - Started process (PID=20761) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:43:25.538+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:43:25.539+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:43:25.539+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:43:25.576+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:43:25.602+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:43:25.602+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:43:25.697+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:43:25.697+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:43:25.727+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.198 seconds
+[2022-10-12T15:44:42.884+0600] {processor.py:156} INFO - Started process (PID=20831) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:44:42.885+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:44:42.886+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:42.886+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:44:42.916+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:44:42.943+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:42.943+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:44:42.959+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:42.959+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:44:42.990+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.110 seconds
+[2022-10-12T15:46:05.800+0600] {processor.py:156} INFO - Started process (PID=20904) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:46:05.801+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:46:05.802+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:05.802+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:46:05.834+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:46:05.858+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:05.857+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:46:05.871+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:05.871+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:46:05.901+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.108 seconds
+[2022-10-12T15:47:32.242+0600] {processor.py:156} INFO - Started process (PID=20978) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:47:32.243+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:47:32.243+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:47:32.243+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:47:32.271+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:47:32.294+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:47:32.294+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:47:32.308+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:47:32.308+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:47:32.418+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.181 seconds
+[2022-10-12T15:48:54.719+0600] {processor.py:156} INFO - Started process (PID=21050) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:48:54.720+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:48:54.721+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:54.721+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:48:54.761+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:48:54.786+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:54.786+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:48:54.877+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:54.876+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:48:55.006+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.294 seconds
+[2022-10-12T15:50:13.784+0600] {processor.py:156} INFO - Started process (PID=21121) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:50:13.785+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:50:13.786+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:13.786+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:50:13.821+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:50:13.892+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:13.891+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:50:13.907+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:13.907+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:50:13.941+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.160 seconds
+[2022-10-12T15:51:40.230+0600] {processor.py:156} INFO - Started process (PID=21194) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:51:40.231+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:51:40.231+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:51:40.231+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:51:40.262+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:51:40.285+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:51:40.285+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:51:40.298+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:51:40.298+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:51:40.329+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.103 seconds
+[2022-10-12T15:53:03.505+0600] {processor.py:156} INFO - Started process (PID=21266) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:53:03.508+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:53:03.509+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:53:03.509+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:53:03.555+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:53:03.584+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:53:03.584+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:53:03.673+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:53:03.672+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:53:03.704+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.208 seconds
+[2022-10-12T15:54:27.967+0600] {processor.py:156} INFO - Started process (PID=21339) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:54:27.968+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:54:27.969+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:54:27.969+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:54:27.999+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:54:28.024+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:54:28.023+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:54:28.037+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:54:28.037+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:54:28.068+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.105 seconds
+[2022-10-12T15:55:58.883+0600] {processor.py:156} INFO - Started process (PID=21415) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:55:58.885+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:55:58.887+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:55:58.887+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:55:58.928+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:55:58.953+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:55:58.953+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:55:58.968+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:55:58.967+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:55:58.997+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.123 seconds
+[2022-10-12T15:57:21.838+0600] {processor.py:156} INFO - Started process (PID=21487) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:57:21.839+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:57:21.839+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:21.839+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:57:21.867+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:57:21.893+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:21.893+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:57:21.907+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:21.907+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:57:21.937+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.102 seconds
+[2022-10-12T15:58:47.231+0600] {processor.py:156} INFO - Started process (PID=21561) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:58:47.232+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T15:58:47.233+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:58:47.233+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:58:47.261+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T15:58:47.285+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:58:47.284+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:58:47.376+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:58:47.376+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T15:58:47.406+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.179 seconds
+[2022-10-12T16:00:11.831+0600] {processor.py:156} INFO - Started process (PID=21633) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:00:11.833+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T16:00:11.834+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:11.834+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:00:11.891+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:00:11.919+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:11.918+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:00:11.932+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:11.932+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:00:11.963+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.139 seconds
+[2022-10-12T16:01:35.738+0600] {processor.py:156} INFO - Started process (PID=21706) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:01:35.739+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T16:01:35.740+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:01:35.740+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:01:35.772+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:01:35.799+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:01:35.798+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:01:35.812+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:01:35.812+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:01:35.845+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.112 seconds
+[2022-10-12T16:02:50.896+0600] {processor.py:156} INFO - Started process (PID=21776) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:02:50.897+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T16:02:50.897+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:50.897+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:02:50.928+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:02:50.954+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:50.954+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:02:50.969+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:50.969+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:02:51.083+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.191 seconds
+[2022-10-12T16:04:11.641+0600] {processor.py:156} INFO - Started process (PID=21849) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:04:11.642+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T16:04:11.643+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:11.643+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:04:11.671+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:04:11.695+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:11.695+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:04:11.785+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:11.784+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:04:11.811+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.175 seconds
+[2022-10-12T16:05:27.602+0600] {processor.py:156} INFO - Started process (PID=21918) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:05:27.602+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T16:05:27.603+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:27.603+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:05:27.631+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:05:27.657+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:27.657+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:05:27.670+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:27.670+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:05:27.700+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.101 seconds
+[2022-10-12T16:06:43.051+0600] {processor.py:156} INFO - Started process (PID=21987) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:06:43.052+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T16:06:43.052+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:06:43.052+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:06:43.084+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:06:43.113+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:06:43.113+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:06:43.128+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:06:43.127+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:06:43.162+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.115 seconds
+[2022-10-12T16:08:04.838+0600] {processor.py:156} INFO - Started process (PID=22058) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:08:04.839+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T16:08:04.840+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:04.840+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:08:04.870+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:08:04.894+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:04.894+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:08:04.988+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:04.988+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:08:05.020+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.187 seconds
+[2022-10-12T16:09:26.440+0600] {processor.py:156} INFO - Started process (PID=22128) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:09:26.441+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T16:09:26.442+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:09:26.442+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:09:26.471+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:09:26.496+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:09:26.496+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:09:26.590+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:09:26.589+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:09:26.616+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.182 seconds
+[2022-10-12T16:10:47.024+0600] {processor.py:156} INFO - Started process (PID=22200) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:10:47.025+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-10-12T16:10:47.027+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:47.026+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:10:47.061+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-10-12T16:10:47.085+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:47.085+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:10:47.098+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:47.098+0600] {dag.py:3324} INFO - Setting next_dagrun for example_branch_operator to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-12T16:10:47.144+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.128 seconds

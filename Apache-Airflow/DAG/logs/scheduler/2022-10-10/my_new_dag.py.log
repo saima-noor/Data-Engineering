@@ -1,0 +1,98 @@
+[2022-10-10T15:55:37.896+0600] {processor.py:156} INFO - Started process (PID=428) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:55:37.897+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py for tasks to queue
+[2022-10-10T15:55:37.897+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:55:37.897+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:55:37.917+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:55:37.911+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py", line 26, in <module>
+    training_model_A = PythonOperator(
+NameError: name 'PythonOperator' is not defined
+[2022-10-10T15:55:37.919+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:55:37.941+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py took 0.048 seconds
+[2022-10-10T15:56:08.962+0600] {processor.py:156} INFO - Started process (PID=452) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:56:08.963+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py for tasks to queue
+[2022-10-10T15:56:08.964+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:08.964+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:56:08.974+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:08.972+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py", line 26, in <module>
+    training_model_A = PythonOperator(
+NameError: name 'PythonOperator' is not defined
+[2022-10-10T15:56:08.974+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:56:08.999+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py took 0.042 seconds
+[2022-10-10T15:56:39.361+0600] {processor.py:156} INFO - Started process (PID=476) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:56:39.361+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py for tasks to queue
+[2022-10-10T15:56:39.362+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:39.362+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:56:39.370+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:56:39.369+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py", line 26, in <module>
+    training_model_A = PythonOperator(
+NameError: name 'PythonOperator' is not defined
+[2022-10-10T15:56:39.370+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:56:39.393+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py took 0.035 seconds
+[2022-10-10T15:57:10.036+0600] {processor.py:156} INFO - Started process (PID=500) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:57:10.037+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py for tasks to queue
+[2022-10-10T15:57:10.037+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:10.037+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:57:10.047+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:10.045+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py", line 26, in <module>
+    training_model_A = PythonOperator(
+NameError: name 'PythonOperator' is not defined
+[2022-10-10T15:57:10.047+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:57:10.069+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py took 0.037 seconds
+[2022-10-10T15:57:40.665+0600] {processor.py:156} INFO - Started process (PID=524) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:57:40.666+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py for tasks to queue
+[2022-10-10T15:57:40.666+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:40.666+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:57:40.674+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:57:40.673+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py", line 26, in <module>
+    training_model_A = PythonOperator(
+NameError: name 'PythonOperator' is not defined
+[2022-10-10T15:57:40.674+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:57:40.697+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py took 0.035 seconds
+[2022-10-10T15:58:11.508+0600] {processor.py:156} INFO - Started process (PID=548) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:58:11.509+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py for tasks to queue
+[2022-10-10T15:58:11.510+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:11.510+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:58:11.517+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:11.516+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py", line 26, in <module>
+    training_model_A = PythonOperator(
+NameError: name 'PythonOperator' is not defined
+[2022-10-10T15:58:11.518+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:58:11.542+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py took 0.037 seconds
+[2022-10-10T15:58:42.105+0600] {processor.py:156} INFO - Started process (PID=572) to work on /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:58:42.107+0600] {processor.py:758} INFO - Processing file /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py for tasks to queue
+[2022-10-10T15:58:42.108+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:42.107+0600] {dagbag.py:525} INFO - Filling up the DagBag from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:58:42.120+0600] {logging_mixin.py:117} INFO - [2022-10-10T15:58:42.118+0600] {dagbag.py:330} ERROR - Failed to import: /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+Traceback (most recent call last):
+  File "/home/saima/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py", line 26, in <module>
+    training_model_A = PythonOperator(
+NameError: name 'PythonOperator' is not defined
+[2022-10-10T15:58:42.120+0600] {processor.py:770} WARNING - No viable dags retrieved from /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py
+[2022-10-10T15:58:42.145+0600] {processor.py:178} INFO - Processing /d/Saima/Data-Engineering/Apache-Airflow/DAG/dags/my_new_dag.py took 0.047 seconds

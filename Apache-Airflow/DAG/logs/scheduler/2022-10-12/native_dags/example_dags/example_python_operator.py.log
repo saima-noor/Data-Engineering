@@ -1,0 +1,1024 @@
+[2022-10-12T11:16:49.690+0600] {processor.py:156} INFO - Started process (PID=13087) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:16:49.694+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:16:49.696+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:16:49.695+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:16:49.889+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:16:49.888+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:16:50.017+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:16:50.111+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:16:50.111+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:16:50.179+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:16:50.178+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:16:50.309+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.632 seconds
+[2022-10-12T11:18:18.904+0600] {processor.py:156} INFO - Started process (PID=13146) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:18:18.904+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:18:18.905+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:18:18.905+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:18:18.938+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:18:18.938+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:18:18.951+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:18:18.974+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:18:18.974+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:18:18.988+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:18:18.987+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:18:19.018+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.118 seconds
+[2022-10-12T11:30:17.266+0600] {processor.py:156} INFO - Started process (PID=13405) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:30:17.267+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:30:17.267+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:17.267+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:30:17.301+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:17.301+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:30:17.314+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:30:17.337+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:17.336+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:30:17.348+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:30:17.348+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:30:17.389+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.127 seconds
+[2022-10-12T11:31:26.484+0600] {processor.py:156} INFO - Started process (PID=13466) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:31:26.484+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:31:26.485+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:26.485+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:31:26.518+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:26.518+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:31:26.539+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:31:26.615+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:26.614+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:31:26.638+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:31:26.637+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:31:26.702+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.222 seconds
+[2022-10-12T11:32:47.704+0600] {processor.py:156} INFO - Started process (PID=13537) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:32:47.705+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:32:47.706+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:32:47.706+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:32:47.738+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:32:47.738+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:32:47.753+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:32:47.775+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:32:47.775+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:32:47.788+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:32:47.788+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:32:47.816+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2022-10-12T11:34:03.316+0600] {processor.py:156} INFO - Started process (PID=13605) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:34:03.318+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:34:03.319+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:03.319+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:34:03.361+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:03.361+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:34:03.375+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:34:03.398+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:03.398+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:34:03.410+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:34:03.409+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:34:03.440+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.131 seconds
+[2022-10-12T11:35:23.149+0600] {processor.py:156} INFO - Started process (PID=13676) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:35:23.151+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:35:23.153+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:23.152+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:35:23.198+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:23.198+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:35:23.214+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:35:23.237+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:23.236+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:35:23.249+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:35:23.248+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:35:23.284+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.144 seconds
+[2022-10-12T11:36:39.665+0600] {processor.py:156} INFO - Started process (PID=13746) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:36:39.666+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:36:39.667+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:36:39.667+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:36:39.697+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:36:39.697+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:36:39.710+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:36:39.733+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:36:39.733+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:36:39.746+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:36:39.746+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:36:39.774+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2022-10-12T11:37:57.678+0600] {processor.py:156} INFO - Started process (PID=13817) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:37:57.679+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:37:57.680+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:37:57.680+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:37:57.710+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:37:57.710+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:37:57.724+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:37:57.748+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:37:57.747+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:37:57.760+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:37:57.760+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:37:57.954+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.278 seconds
+[2022-10-12T11:39:19.807+0600] {processor.py:156} INFO - Started process (PID=13889) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:39:19.808+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:39:19.809+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:19.809+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:39:19.840+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:19.840+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:39:19.853+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:39:19.877+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:19.877+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:39:19.890+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:39:19.889+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:39:19.920+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2022-10-12T11:40:36.234+0600] {processor.py:156} INFO - Started process (PID=13959) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:40:36.235+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:40:36.236+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:40:36.236+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:40:36.271+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:40:36.271+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:40:36.285+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:40:36.310+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:40:36.309+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:40:36.322+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:40:36.322+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:40:36.352+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.124 seconds
+[2022-10-12T11:41:57.380+0600] {processor.py:156} INFO - Started process (PID=14031) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:41:57.381+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:41:57.381+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:41:57.381+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:41:57.411+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:41:57.411+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:41:57.425+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:41:57.447+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:41:57.447+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:41:57.461+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:41:57.461+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:41:57.491+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2022-10-12T11:43:12.659+0600] {processor.py:156} INFO - Started process (PID=14101) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:43:12.660+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:43:12.661+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:12.661+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:43:12.691+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:12.691+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:43:12.705+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:43:12.728+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:12.728+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:43:12.740+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:43:12.740+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:43:12.770+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2022-10-12T11:44:32.279+0600] {processor.py:156} INFO - Started process (PID=14172) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:44:32.280+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:44:32.280+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:44:32.280+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:44:32.312+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:44:32.312+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:44:32.327+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:44:32.349+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:44:32.349+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:44:32.361+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:44:32.361+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:44:32.391+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2022-10-12T11:45:48.842+0600] {processor.py:156} INFO - Started process (PID=14244) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:45:48.843+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:45:48.843+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:45:48.843+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:45:48.873+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:45:48.873+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:45:48.887+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:45:48.910+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:45:48.910+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:45:48.922+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:45:48.922+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:45:48.954+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2022-10-12T11:47:08.683+0600] {processor.py:156} INFO - Started process (PID=14315) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:47:08.684+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:47:08.685+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:08.685+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:47:08.716+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:08.716+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:47:08.730+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:47:08.754+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:08.754+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:47:08.768+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:47:08.767+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:47:08.799+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.121 seconds
+[2022-10-12T11:48:25.538+0600] {processor.py:156} INFO - Started process (PID=14385) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:48:25.541+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:48:25.543+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:25.542+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:48:25.584+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:25.584+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:48:25.598+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:48:25.624+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:25.624+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:48:25.637+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:48:25.637+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:48:25.667+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.140 seconds
+[2022-10-12T11:49:43.749+0600] {processor.py:156} INFO - Started process (PID=14456) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:49:43.750+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:49:43.751+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:49:43.751+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:49:43.786+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:49:43.786+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:49:43.800+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:49:43.826+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:49:43.825+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:49:43.838+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:49:43.838+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:49:43.869+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.134 seconds
+[2022-10-12T11:51:02.387+0600] {processor.py:156} INFO - Started process (PID=14526) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:51:02.388+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:51:02.389+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:02.389+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:51:02.421+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:02.421+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:51:02.435+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:51:02.458+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:02.458+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:51:02.470+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:51:02.470+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:51:02.500+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.118 seconds
+[2022-10-12T11:52:21.092+0600] {processor.py:156} INFO - Started process (PID=14597) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:52:21.094+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:52:21.095+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:21.095+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:52:21.133+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:21.133+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:52:21.150+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:52:21.178+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:21.177+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:52:21.191+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:52:21.191+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:52:21.222+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.136 seconds
+[2022-10-12T11:53:40.578+0600] {processor.py:156} INFO - Started process (PID=14668) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:53:40.579+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:53:40.579+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:53:40.579+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:53:40.610+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:53:40.610+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:53:40.628+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:53:40.663+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:53:40.663+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:53:40.682+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:53:40.682+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:53:40.716+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.141 seconds
+[2022-10-12T11:54:56.325+0600] {processor.py:156} INFO - Started process (PID=14738) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:54:56.326+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:54:56.326+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:54:56.326+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:54:56.354+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:54:56.354+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:54:56.367+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:54:56.391+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:54:56.391+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:54:56.405+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:54:56.405+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:54:56.435+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.112 seconds
+[2022-10-12T11:56:16.723+0600] {processor.py:156} INFO - Started process (PID=14809) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:56:16.724+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:56:16.725+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:16.725+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:56:16.754+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:16.754+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:56:16.768+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:56:16.792+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:16.792+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:56:16.805+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:56:16.805+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:56:16.835+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.116 seconds
+[2022-10-12T11:57:40.258+0600] {processor.py:156} INFO - Started process (PID=14882) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:57:40.258+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:57:40.259+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:57:40.259+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:57:40.288+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:57:40.288+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:57:40.302+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:57:40.327+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:57:40.326+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:57:40.339+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:57:40.339+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:57:40.369+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2022-10-12T11:59:02.572+0600] {processor.py:156} INFO - Started process (PID=14954) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:59:02.575+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T11:59:02.577+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:02.576+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:59:02.620+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:02.620+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T11:59:02.634+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T11:59:02.657+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:02.657+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T11:59:02.669+0600] {logging_mixin.py:117} INFO - [2022-10-12T11:59:02.669+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T11:59:02.718+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.157 seconds
+[2022-10-12T12:00:17.156+0600] {processor.py:156} INFO - Started process (PID=15023) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:00:17.157+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:00:17.157+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:17.157+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:00:17.186+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:17.186+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:00:17.200+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:00:17.222+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:17.222+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:00:17.235+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:00:17.235+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:00:17.266+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2022-10-12T12:01:37.145+0600] {processor.py:156} INFO - Started process (PID=15093) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:01:37.147+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:01:37.149+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:01:37.149+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:01:37.195+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:01:37.195+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:01:37.209+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:01:37.233+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:01:37.233+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:01:37.245+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:01:37.245+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:01:37.276+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.141 seconds
+[2022-10-12T12:02:53.251+0600] {processor.py:156} INFO - Started process (PID=15162) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:02:53.252+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:02:53.252+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:02:53.252+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:02:53.283+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:02:53.283+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:02:53.297+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:02:53.322+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:02:53.322+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:02:53.334+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:02:53.334+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:02:53.365+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.119 seconds
+[2022-10-12T12:04:13.803+0600] {processor.py:156} INFO - Started process (PID=15234) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:04:13.804+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:04:13.805+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:13.804+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:04:13.834+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:13.834+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:04:13.848+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:04:13.871+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:13.871+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:04:13.883+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:04:13.883+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:04:13.912+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.113 seconds
+[2022-10-12T12:05:31.901+0600] {processor.py:156} INFO - Started process (PID=15304) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:05:31.902+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:05:31.903+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:05:31.903+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:05:31.934+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:05:31.934+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:05:31.948+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:05:31.971+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:05:31.971+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:05:31.983+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:05:31.983+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:05:32.013+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.116 seconds
+[2022-10-12T12:06:54.654+0600] {processor.py:156} INFO - Started process (PID=15377) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:06:54.655+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:06:54.656+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:06:54.656+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:06:54.685+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:06:54.685+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:06:54.699+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:06:54.722+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:06:54.721+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:06:54.735+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:06:54.735+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:06:54.766+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2022-10-12T12:08:18.593+0600] {processor.py:156} INFO - Started process (PID=15450) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:08:18.595+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:08:18.596+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:18.595+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:08:18.629+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:18.629+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:08:18.643+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:08:18.666+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:18.666+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:08:18.678+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:08:18.678+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:08:18.706+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.128 seconds
+[2022-10-12T12:09:38.303+0600] {processor.py:156} INFO - Started process (PID=15522) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:09:38.306+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:09:38.307+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:09:38.307+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:09:38.343+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:09:38.343+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:09:38.357+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:09:38.383+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:09:38.383+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:09:38.396+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:09:38.396+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:09:38.431+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.138 seconds
+[2022-10-12T12:10:55.839+0600] {processor.py:156} INFO - Started process (PID=15593) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:10:55.840+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:10:55.841+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:10:55.841+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:10:55.883+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:10:55.882+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:10:55.897+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:10:55.928+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:10:55.928+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:10:55.948+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:10:55.948+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:10:55.986+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.150 seconds
+[2022-10-12T12:12:17.037+0600] {processor.py:156} INFO - Started process (PID=15664) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:12:17.038+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:12:17.039+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:17.039+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:12:17.073+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:17.073+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:12:17.088+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:12:17.111+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:17.111+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:12:17.124+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:12:17.124+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:12:17.157+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.124 seconds
+[2022-10-12T12:13:31.967+0600] {processor.py:156} INFO - Started process (PID=15734) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:13:31.969+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:13:31.970+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:13:31.970+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:13:32.018+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:13:32.018+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:13:32.032+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:13:32.056+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:13:32.056+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:13:32.069+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:13:32.069+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:13:32.100+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.141 seconds
+[2022-10-12T12:14:52.038+0600] {processor.py:156} INFO - Started process (PID=15805) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:14:52.038+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:14:52.039+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:14:52.039+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:14:52.069+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:14:52.069+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:14:52.083+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:14:52.106+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:14:52.106+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:14:52.119+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:14:52.119+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:14:52.150+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2022-10-12T12:16:09.664+0600] {processor.py:156} INFO - Started process (PID=15876) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:16:09.666+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:16:09.667+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:09.667+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:16:09.712+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:09.712+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:16:09.727+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:16:09.751+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:09.751+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:16:09.765+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:16:09.765+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:16:09.803+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.147 seconds
+[2022-10-12T12:17:33.680+0600] {processor.py:156} INFO - Started process (PID=15946) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:17:33.681+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:17:33.682+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:17:33.682+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:17:33.714+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:17:33.714+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:17:33.727+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:17:33.751+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:17:33.751+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:17:33.764+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:17:33.763+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:17:33.795+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.120 seconds
+[2022-10-12T12:18:51.925+0600] {processor.py:156} INFO - Started process (PID=16017) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:18:51.926+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:18:51.927+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:18:51.926+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:18:51.958+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:18:51.958+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:18:51.971+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:18:51.994+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:18:51.994+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:18:52.007+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:18:52.007+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:18:52.037+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2022-10-12T12:20:08.422+0600] {processor.py:156} INFO - Started process (PID=16086) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:20:08.423+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:20:08.423+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:08.423+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:20:08.453+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:08.453+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:20:08.468+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:20:08.491+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:08.491+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:20:08.503+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:20:08.503+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:20:08.534+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2022-10-12T12:21:28.184+0600] {processor.py:156} INFO - Started process (PID=16157) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:21:28.185+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:21:28.186+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:28.186+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:21:28.216+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:28.216+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:21:28.230+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:21:28.253+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:28.253+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:21:28.265+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:21:28.265+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:21:28.296+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.116 seconds
+[2022-10-12T12:22:48.295+0600] {processor.py:156} INFO - Started process (PID=16229) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:22:48.295+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:22:48.296+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:22:48.296+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:22:48.325+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:22:48.325+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:22:48.340+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:22:48.363+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:22:48.363+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:22:48.375+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:22:48.375+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:22:48.628+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.336 seconds
+[2022-10-12T12:24:06.924+0600] {processor.py:156} INFO - Started process (PID=16301) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:24:06.925+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:24:06.925+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:06.925+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:24:06.955+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:06.955+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:24:06.969+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:24:06.994+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:06.993+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:24:07.006+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:24:07.006+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:24:07.036+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.116 seconds
+[2022-10-12T12:25:26.103+0600] {processor.py:156} INFO - Started process (PID=16371) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:25:26.104+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:25:26.105+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:26.105+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:25:26.135+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:26.135+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:25:26.149+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:25:26.172+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:26.172+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:25:26.184+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:25:26.184+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:25:26.215+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.116 seconds
+[2022-10-12T12:26:46.315+0600] {processor.py:156} INFO - Started process (PID=16443) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:26:46.316+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:26:46.316+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:26:46.316+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:26:46.345+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:26:46.345+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:26:46.359+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:26:46.381+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:26:46.381+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:26:46.394+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:26:46.394+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:26:46.425+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.113 seconds
+[2022-10-12T12:37:00.848+0600] {processor.py:156} INFO - Started process (PID=16525) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:37:00.849+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:37:00.849+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:00.849+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:37:00.883+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:00.883+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:37:00.900+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:37:00.926+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:00.926+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:37:00.938+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:37:00.938+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:37:00.977+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.131 seconds
+[2022-10-12T12:38:21.582+0600] {processor.py:156} INFO - Started process (PID=16597) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:38:21.584+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:38:21.585+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:21.584+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:38:21.628+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:21.628+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:38:21.642+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:38:21.665+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:21.664+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:38:21.677+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:38:21.676+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:38:21.707+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.132 seconds
+[2022-10-12T12:39:14.567+0600] {processor.py:156} INFO - Started process (PID=16644) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:39:14.567+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:39:14.568+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:39:14.568+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:39:14.596+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:39:14.596+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:39:14.610+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:39:14.633+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:39:14.633+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:39:14.645+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:39:14.645+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:39:14.677+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2022-10-12T12:40:32.783+0600] {processor.py:156} INFO - Started process (PID=16714) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:40:32.784+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:40:32.784+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:40:32.784+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:40:32.813+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:40:32.813+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:40:32.827+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:40:32.849+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:40:32.849+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:40:32.862+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:40:32.862+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:40:32.891+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.111 seconds
+[2022-10-12T12:41:50.339+0600] {processor.py:156} INFO - Started process (PID=16784) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:41:50.340+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:41:50.341+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:50.341+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:41:50.371+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:50.371+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:41:50.385+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:41:50.408+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:50.408+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:41:50.420+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:41:50.420+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:41:50.450+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2022-10-12T12:43:10.828+0600] {processor.py:156} INFO - Started process (PID=16855) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:43:10.829+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:43:10.830+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:10.829+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:43:10.859+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:10.859+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:43:10.873+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:43:10.897+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:10.897+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:43:10.909+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:43:10.909+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:43:10.939+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2022-10-12T12:44:30.432+0600] {processor.py:156} INFO - Started process (PID=16927) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:44:30.433+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:44:30.434+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:44:30.434+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:44:30.463+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:44:30.463+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:44:30.476+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:44:30.499+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:44:30.499+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:44:30.511+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:44:30.511+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:44:30.546+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2022-10-12T12:45:57.424+0600] {processor.py:156} INFO - Started process (PID=16998) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:45:57.425+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:45:57.426+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:57.425+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:45:57.460+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:57.459+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:45:57.474+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:45:57.497+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:57.497+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:45:57.510+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:45:57.510+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:45:57.541+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.120 seconds
+[2022-10-12T12:47:16.132+0600] {processor.py:156} INFO - Started process (PID=17070) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:47:16.133+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:47:16.134+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:47:16.134+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:47:16.174+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:47:16.174+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:47:16.188+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:47:16.212+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:47:16.212+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:47:16.225+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:47:16.225+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:47:16.256+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.130 seconds
+[2022-10-12T12:48:32.581+0600] {processor.py:156} INFO - Started process (PID=17140) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:48:32.581+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:48:32.582+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:48:32.582+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:48:32.613+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:48:32.613+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:48:32.628+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:48:32.651+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:48:32.651+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:48:32.664+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:48:32.664+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:48:32.696+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.118 seconds
+[2022-10-12T12:49:52.007+0600] {processor.py:156} INFO - Started process (PID=17210) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:49:52.009+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:49:52.010+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:52.009+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:49:52.044+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:52.044+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:49:52.059+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:49:52.083+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:52.083+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:49:52.097+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:49:52.096+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:49:52.128+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.128 seconds
+[2022-10-12T12:51:13.692+0600] {processor.py:156} INFO - Started process (PID=17282) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:51:13.693+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:51:13.694+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:51:13.694+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:51:13.726+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:51:13.726+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:51:13.739+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:51:13.762+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:51:13.762+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:51:13.774+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:51:13.774+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:51:13.807+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.119 seconds
+[2022-10-12T12:52:32.315+0600] {processor.py:156} INFO - Started process (PID=17353) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:52:32.316+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:52:32.317+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:52:32.317+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:52:32.349+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:52:32.349+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:52:32.363+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:52:32.389+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:52:32.389+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:52:32.401+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:52:32.401+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:52:32.432+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.122 seconds
+[2022-10-12T12:53:53.109+0600] {processor.py:156} INFO - Started process (PID=17424) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:53:53.110+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:53:53.110+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:53.110+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:53:53.138+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:53.138+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:53:53.150+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:53:53.174+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:53.174+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:53:53.189+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:53:53.189+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:53:53.218+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.112 seconds
+[2022-10-12T12:55:11.530+0600] {processor.py:156} INFO - Started process (PID=17494) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:55:11.531+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:55:11.532+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:11.531+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:55:11.565+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:11.565+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:55:11.579+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:55:11.603+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:11.603+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:55:11.617+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:55:11.617+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:55:11.649+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.124 seconds
+[2022-10-12T12:56:32.649+0600] {processor.py:156} INFO - Started process (PID=17565) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:56:32.651+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:56:32.653+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:56:32.653+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:56:32.695+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:56:32.695+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:56:32.709+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:56:32.734+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:56:32.733+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:56:32.746+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:56:32.746+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:56:32.778+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.138 seconds
+[2022-10-12T12:57:54.128+0600] {processor.py:156} INFO - Started process (PID=17637) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:57:54.129+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:57:54.130+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:54.130+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:57:54.165+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:54.165+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:57:54.180+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:57:54.204+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:54.204+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:57:54.216+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:57:54.216+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:57:54.247+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.126 seconds
+[2022-10-12T12:59:13.592+0600] {processor.py:156} INFO - Started process (PID=17708) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:59:13.595+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T12:59:13.596+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:59:13.596+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:59:13.636+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:59:13.635+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T12:59:13.650+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T12:59:13.675+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:59:13.674+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T12:59:13.687+0600] {logging_mixin.py:117} INFO - [2022-10-12T12:59:13.687+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T12:59:13.838+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.256 seconds
+[2022-10-12T13:00:32.796+0600] {processor.py:156} INFO - Started process (PID=17780) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:00:32.797+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:00:32.798+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:00:32.797+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:00:32.827+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:00:32.827+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:00:32.841+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:00:32.866+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:00:32.866+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:00:32.879+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:00:32.879+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:00:32.910+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.118 seconds
+[2022-10-12T13:01:48.481+0600] {processor.py:156} INFO - Started process (PID=17849) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:01:48.482+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:01:48.482+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:48.482+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:01:48.513+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:48.513+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:01:48.528+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:01:48.554+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:48.553+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:01:48.566+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:01:48.566+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:01:48.596+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.118 seconds
+[2022-10-12T13:03:13.981+0600] {processor.py:156} INFO - Started process (PID=17922) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:03:13.982+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:03:13.983+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:03:13.983+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:03:14.019+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:03:14.019+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:03:14.035+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:03:14.059+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:03:14.059+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:03:14.071+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:03:14.071+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:03:14.136+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.162 seconds
+[2022-10-12T13:04:35.922+0600] {processor.py:156} INFO - Started process (PID=17994) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:04:35.923+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:04:35.924+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:04:35.924+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:04:35.955+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:04:35.955+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:04:35.971+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:04:35.996+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:04:35.996+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:04:36.009+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:04:36.008+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:04:36.122+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.203 seconds
+[2022-10-12T13:06:00.907+0600] {processor.py:156} INFO - Started process (PID=18068) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:06:00.908+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:06:00.908+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:00.908+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:06:00.939+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:00.939+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:06:00.952+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:06:00.976+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:00.976+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:06:00.990+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:06:00.990+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:06:01.021+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2022-10-12T13:07:19.914+0600] {processor.py:156} INFO - Started process (PID=18139) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:07:19.916+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:07:19.917+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:07:19.917+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:07:19.953+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:07:19.953+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:07:19.967+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:07:19.992+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:07:19.992+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:07:20.004+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:07:20.004+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:07:20.036+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.136 seconds
+[2022-10-12T13:08:35.827+0600] {processor.py:156} INFO - Started process (PID=18209) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:08:35.829+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:08:35.830+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:08:35.830+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:08:35.870+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:08:35.870+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:08:35.885+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:08:35.909+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:08:35.909+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:08:35.922+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:08:35.922+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:08:35.953+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.133 seconds
+[2022-10-12T13:09:55.312+0600] {processor.py:156} INFO - Started process (PID=18279) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:09:55.314+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:09:55.315+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:55.315+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:09:55.350+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:55.350+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:09:55.365+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:09:55.388+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:55.388+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:09:55.402+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:09:55.401+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:09:55.510+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.210 seconds
+[2022-10-12T13:11:16.173+0600] {processor.py:156} INFO - Started process (PID=18350) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:11:16.174+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:11:16.175+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:11:16.175+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:11:16.207+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:11:16.207+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:11:16.222+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:11:16.246+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:11:16.246+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:11:16.259+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:11:16.259+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:11:16.290+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.122 seconds
+[2022-10-12T13:12:35.464+0600] {processor.py:156} INFO - Started process (PID=18421) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:12:35.465+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:12:35.466+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:12:35.466+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:12:35.498+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:12:35.498+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:12:35.513+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:12:35.537+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:12:35.537+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:12:35.550+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:12:35.550+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:12:35.581+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.121 seconds
+[2022-10-12T13:13:56.225+0600] {processor.py:156} INFO - Started process (PID=18493) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:13:56.226+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:13:56.227+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:56.226+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:13:56.257+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:56.257+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:13:56.272+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:13:56.295+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:56.295+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:13:56.308+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:13:56.308+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:13:56.355+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.133 seconds
+[2022-10-12T13:15:13.098+0600] {processor.py:156} INFO - Started process (PID=18563) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:15:13.099+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:15:13.100+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:15:13.100+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:15:13.139+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:15:13.139+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:15:13.158+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:15:13.194+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:15:13.194+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:15:13.215+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:15:13.215+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:15:13.256+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.162 seconds
+[2022-10-12T13:16:29.136+0600] {processor.py:156} INFO - Started process (PID=18634) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:16:29.136+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:16:29.137+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:16:29.137+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:16:29.168+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:16:29.167+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:16:29.182+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:16:29.206+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:16:29.206+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:16:29.219+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:16:29.219+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:16:29.251+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.118 seconds
+[2022-10-12T13:17:46.543+0600] {processor.py:156} INFO - Started process (PID=18703) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:17:46.544+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:17:46.545+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:46.545+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:17:46.586+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:46.586+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:17:46.599+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:17:46.622+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:46.622+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:17:46.635+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:17:46.635+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:17:46.665+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.128 seconds
+[2022-10-12T13:19:05.643+0600] {processor.py:156} INFO - Started process (PID=18774) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:19:05.643+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:19:05.644+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:05.644+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:19:05.675+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:05.674+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:19:05.689+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:19:05.714+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:05.714+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:19:05.726+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:19:05.726+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:19:05.759+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.119 seconds
+[2022-10-12T13:20:29.202+0600] {processor.py:156} INFO - Started process (PID=18846) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:20:29.203+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T13:20:29.203+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:20:29.203+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:20:29.231+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:20:29.231+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T13:20:29.242+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T13:20:29.267+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:20:29.267+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T13:20:29.284+0600] {logging_mixin.py:117} INFO - [2022-10-12T13:20:29.284+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T13:20:29.316+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2022-10-12T15:08:23.757+0600] {processor.py:156} INFO - Started process (PID=18892) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:08:23.758+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:08:23.759+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:23.759+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:08:23.810+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:23.810+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:08:23.831+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:08:23.869+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:23.869+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:08:23.892+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:08:23.891+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:08:23.934+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.181 seconds
+[2022-10-12T15:09:39.043+0600] {processor.py:156} INFO - Started process (PID=18961) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:09:39.044+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:09:39.044+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:39.044+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:09:39.077+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:39.077+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:09:39.090+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:09:39.113+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:39.113+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:09:39.126+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:09:39.125+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:09:39.154+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2022-10-12T15:10:58.022+0600] {processor.py:156} INFO - Started process (PID=19031) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:10:58.024+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:10:58.025+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:10:58.025+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:10:58.060+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:10:58.060+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:10:58.075+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:10:58.097+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:10:58.097+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:10:58.112+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:10:58.112+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:10:58.143+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.127 seconds
+[2022-10-12T15:12:21.536+0600] {processor.py:156} INFO - Started process (PID=19104) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:12:21.537+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:12:21.538+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:21.538+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:12:21.565+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:21.565+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:12:21.579+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:12:21.602+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:21.601+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:12:21.614+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:12:21.614+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:12:21.725+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.192 seconds
+[2022-10-12T15:13:43.089+0600] {processor.py:156} INFO - Started process (PID=19176) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:13:43.090+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:13:43.091+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:13:43.090+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:13:43.118+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:13:43.118+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:13:43.133+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:13:43.155+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:13:43.155+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:13:43.167+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:13:43.167+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:13:43.195+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.109 seconds
+[2022-10-12T15:15:01.654+0600] {processor.py:156} INFO - Started process (PID=19247) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:15:01.655+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:15:01.656+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:01.656+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:15:01.692+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:01.692+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:15:01.706+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:15:01.729+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:01.729+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:15:01.741+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:01.741+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:15:01.771+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.123 seconds
+[2022-10-12T15:15:54.860+0600] {processor.py:156} INFO - Started process (PID=19293) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:15:54.861+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:15:54.862+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:54.862+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:15:54.895+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:54.895+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:15:54.910+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:15:54.934+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:54.934+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:15:54.946+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:15:54.946+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:15:54.979+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.124 seconds
+[2022-10-12T15:17:15.077+0600] {processor.py:156} INFO - Started process (PID=19364) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:17:15.078+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:17:15.079+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:17:15.079+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:17:15.110+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:17:15.110+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:17:15.123+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:17:15.146+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:17:15.146+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:17:15.159+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:17:15.159+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:17:15.266+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.194 seconds
+[2022-10-12T15:18:34.571+0600] {processor.py:156} INFO - Started process (PID=19435) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:18:34.572+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:18:34.573+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:18:34.572+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:18:34.603+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:18:34.603+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:18:34.616+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:18:34.642+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:18:34.642+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:18:34.657+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:18:34.657+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:18:34.688+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.120 seconds
+[2022-10-12T15:19:52.500+0600] {processor.py:156} INFO - Started process (PID=19506) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:19:52.501+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:19:52.502+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:52.502+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:19:52.532+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:52.532+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:19:52.546+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:19:52.569+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:52.569+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:19:52.581+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:19:52.581+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:19:52.610+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.113 seconds
+[2022-10-12T15:21:11.627+0600] {processor.py:156} INFO - Started process (PID=19576) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:21:11.628+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:21:11.629+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:11.629+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:21:11.657+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:11.657+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:21:11.671+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:21:11.693+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:11.693+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:21:11.706+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:21:11.706+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:21:11.740+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2022-10-12T15:22:29.868+0600] {processor.py:156} INFO - Started process (PID=19647) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:22:29.870+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:22:29.871+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:22:29.871+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:22:29.914+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:22:29.914+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:22:29.927+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:22:29.950+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:22:29.950+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:22:30.041+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:22:30.040+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:22:30.087+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.225 seconds
+[2022-10-12T15:23:44.039+0600] {processor.py:156} INFO - Started process (PID=19716) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:23:44.041+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:23:44.041+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:44.041+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:23:44.076+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:44.076+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:23:44.089+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:23:44.112+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:44.112+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:23:44.125+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:23:44.125+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:23:44.154+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.121 seconds
+[2022-10-12T15:25:01.757+0600] {processor.py:156} INFO - Started process (PID=19786) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:25:01.758+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:25:01.758+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:01.758+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:25:01.788+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:01.788+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:25:01.802+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:25:01.825+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:01.825+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:25:01.837+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:25:01.836+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:25:01.867+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2022-10-12T15:26:26.575+0600] {processor.py:156} INFO - Started process (PID=19859) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:26:26.576+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:26:26.577+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:26:26.577+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:26:26.609+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:26:26.609+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:26:26.622+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:26:26.645+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:26:26.645+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:26:26.657+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:26:26.657+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:26:26.687+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2022-10-12T15:27:49.650+0600] {processor.py:156} INFO - Started process (PID=19932) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:27:49.652+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:27:49.652+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:49.652+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:27:49.685+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:49.685+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:27:49.699+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:27:49.722+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:49.722+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:27:49.813+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:27:49.813+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:27:49.842+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.197 seconds
+[2022-10-12T15:29:11.479+0600] {processor.py:156} INFO - Started process (PID=20004) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:29:11.481+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:29:11.482+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:29:11.482+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:29:11.529+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:29:11.529+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:29:11.542+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:29:11.565+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:29:11.565+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:29:11.577+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:29:11.577+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:29:11.611+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.139 seconds
+[2022-10-12T15:30:32.831+0600] {processor.py:156} INFO - Started process (PID=20076) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:30:32.834+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:30:32.835+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:30:32.835+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:30:32.874+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:30:32.874+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:30:32.889+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:30:32.911+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:30:32.911+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:30:32.924+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:30:32.923+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:30:32.954+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.132 seconds
+[2022-10-12T15:31:55.376+0600] {processor.py:156} INFO - Started process (PID=20148) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:31:55.378+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:31:55.380+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:55.379+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:31:55.420+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:55.420+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:31:55.433+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:31:55.456+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:55.455+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:31:55.468+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:31:55.468+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:31:55.575+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.211 seconds
+[2022-10-12T15:33:19.244+0600] {processor.py:156} INFO - Started process (PID=20221) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:33:19.245+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:33:19.246+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:33:19.246+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:33:19.275+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:33:19.275+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:33:19.289+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:33:19.311+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:33:19.311+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:33:19.324+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:33:19.324+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:33:19.353+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.113 seconds
+[2022-10-12T15:34:36.302+0600] {processor.py:156} INFO - Started process (PID=20291) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:34:36.303+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:34:36.303+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:34:36.303+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:34:36.334+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:34:36.334+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:34:36.349+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:34:36.375+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:34:36.375+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:34:36.389+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:34:36.389+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:34:36.420+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.121 seconds
+[2022-10-12T15:35:52.765+0600] {processor.py:156} INFO - Started process (PID=20361) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:35:52.766+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:35:52.767+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:52.767+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:35:52.797+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:52.797+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:35:52.811+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:35:52.834+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:52.834+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:35:52.846+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:35:52.846+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:35:52.884+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.124 seconds
+[2022-10-12T15:37:14.275+0600] {processor.py:156} INFO - Started process (PID=20434) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:37:14.276+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:37:14.277+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:37:14.277+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:37:14.306+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:37:14.306+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:37:14.321+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:37:14.345+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:37:14.345+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:37:14.359+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:37:14.358+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:37:14.468+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.196 seconds
+[2022-10-12T15:38:35.158+0600] {processor.py:156} INFO - Started process (PID=20505) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:38:35.159+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:38:35.159+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:38:35.159+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:38:35.188+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:38:35.188+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:38:35.202+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:38:35.225+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:38:35.225+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:38:35.238+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:38:35.238+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:38:35.268+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.113 seconds
+[2022-10-12T15:39:58.032+0600] {processor.py:156} INFO - Started process (PID=20578) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:39:58.033+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:39:58.034+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:58.034+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:39:58.063+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:58.063+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:39:58.078+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:39:58.102+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:58.102+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:39:58.114+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:39:58.114+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:39:58.144+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.114 seconds
+[2022-10-12T15:41:21.020+0600] {processor.py:156} INFO - Started process (PID=20651) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:41:21.022+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:41:21.023+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:41:21.023+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:41:21.070+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:41:21.070+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:41:21.084+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:41:21.107+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:41:21.107+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:41:21.119+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:41:21.119+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:41:21.150+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.139 seconds
+[2022-10-12T15:42:43.930+0600] {processor.py:156} INFO - Started process (PID=20723) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:42:43.930+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:42:43.931+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:43.931+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:42:43.968+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:43.968+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:42:43.980+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:42:44.010+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:44.010+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:42:44.105+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:42:44.105+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:42:44.133+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.207 seconds
+[2022-10-12T15:44:02.471+0600] {processor.py:156} INFO - Started process (PID=20794) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:44:02.473+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:44:02.473+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:02.473+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:44:02.503+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:02.503+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:44:02.514+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:44:02.538+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:02.538+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:44:02.551+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:44:02.551+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:44:02.580+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2022-10-12T15:45:21.311+0600] {processor.py:156} INFO - Started process (PID=20864) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:45:21.312+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:45:21.313+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:45:21.313+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:45:21.345+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:45:21.345+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:45:21.356+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:45:21.381+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:45:21.381+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:45:21.395+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:45:21.395+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:45:21.426+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2022-10-12T15:46:46.902+0600] {processor.py:156} INFO - Started process (PID=20938) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:46:46.903+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:46:46.904+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:46.904+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:46:46.941+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:46.941+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:46:46.955+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:46:46.979+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:46.979+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:46:46.991+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:46:46.991+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:46:47.101+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.203 seconds
+[2022-10-12T15:48:08.246+0600] {processor.py:156} INFO - Started process (PID=21010) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:48:08.247+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:48:08.248+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:08.248+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:48:08.284+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:08.283+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:48:08.300+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:48:08.332+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:08.332+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:48:08.466+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:48:08.466+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:48:08.512+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.269 seconds
+[2022-10-12T15:49:30.812+0600] {processor.py:156} INFO - Started process (PID=21082) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:49:30.813+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:49:30.814+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:49:30.813+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:49:30.843+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:49:30.843+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:49:30.858+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:49:30.883+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:49:30.883+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:49:30.896+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:49:30.896+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:49:30.928+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.118 seconds
+[2022-10-12T15:50:53.007+0600] {processor.py:156} INFO - Started process (PID=21154) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:50:53.009+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:50:53.009+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:53.009+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:50:53.042+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:53.042+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:50:53.057+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:50:53.088+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:53.087+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:50:53.103+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:50:53.103+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:50:53.133+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.130 seconds
+[2022-10-12T15:52:15.940+0600] {processor.py:156} INFO - Started process (PID=21226) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:52:15.940+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:52:15.941+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:52:15.941+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:52:15.973+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:52:15.973+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:52:15.986+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:52:16.010+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:52:16.010+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:52:16.023+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:52:16.022+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:52:16.130+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.193 seconds
+[2022-10-12T15:53:40.678+0600] {processor.py:156} INFO - Started process (PID=21299) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:53:40.680+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:53:40.681+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:53:40.681+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:53:40.723+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:53:40.723+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:53:40.736+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:53:40.760+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:53:40.760+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:53:40.851+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:53:40.851+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:53:40.987+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.319 seconds
+[2022-10-12T15:55:04.939+0600] {processor.py:156} INFO - Started process (PID=21372) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:55:04.940+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:55:04.941+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:55:04.941+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:55:04.973+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:55:04.973+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:55:04.987+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:55:05.011+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:55:05.011+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:55:05.025+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:55:05.025+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:55:05.055+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.120 seconds
+[2022-10-12T15:56:35.618+0600] {processor.py:156} INFO - Started process (PID=21448) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:56:35.619+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:56:35.620+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:56:35.620+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:56:35.652+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:56:35.652+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:56:35.666+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:56:35.689+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:56:35.689+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:56:35.701+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:56:35.701+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:56:35.734+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.121 seconds
+[2022-10-12T15:57:59.642+0600] {processor.py:156} INFO - Started process (PID=21520) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:57:59.643+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:57:59.644+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:59.644+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:57:59.676+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:59.676+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:57:59.690+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:57:59.713+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:59.713+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:57:59.803+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:57:59.803+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:57:59.830+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.193 seconds
+[2022-10-12T15:59:24.839+0600] {processor.py:156} INFO - Started process (PID=21593) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:59:24.840+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T15:59:24.840+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:59:24.840+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:59:24.871+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:59:24.871+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T15:59:24.884+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T15:59:24.987+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:59:24.987+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T15:59:25.000+0600] {logging_mixin.py:117} INFO - [2022-10-12T15:59:25.000+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T15:59:25.028+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.192 seconds
+[2022-10-12T16:00:49.118+0600] {processor.py:156} INFO - Started process (PID=21666) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:00:49.119+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T16:00:49.120+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:49.119+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:00:49.148+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:49.148+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T16:00:49.163+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:00:49.188+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:49.187+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:00:49.200+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:00:49.200+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T16:00:49.230+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.115 seconds
+[2022-10-12T16:02:08.402+0600] {processor.py:156} INFO - Started process (PID=21738) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:02:08.403+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T16:02:08.404+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:08.404+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:02:08.439+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:08.439+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T16:02:08.453+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:02:08.476+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:08.476+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:02:08.490+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:02:08.490+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T16:02:08.597+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.207 seconds
+[2022-10-12T16:03:29.392+0600] {processor.py:156} INFO - Started process (PID=21809) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:03:29.393+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T16:03:29.394+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:03:29.394+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:03:29.423+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:03:29.423+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T16:03:29.437+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:03:29.460+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:03:29.460+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:03:29.551+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:03:29.551+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T16:03:29.580+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.190 seconds
+[2022-10-12T16:04:47.395+0600] {processor.py:156} INFO - Started process (PID=21880) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:04:47.396+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T16:04:47.397+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:47.397+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:04:47.427+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:47.427+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T16:04:47.441+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:04:47.464+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:47.464+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:04:47.476+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:04:47.476+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T16:04:47.509+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.118 seconds
+[2022-10-12T16:05:58.464+0600] {processor.py:156} INFO - Started process (PID=21948) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:05:58.465+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T16:05:58.466+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:58.466+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:05:58.497+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:58.497+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T16:05:58.510+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:05:58.533+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:58.533+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:05:58.546+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:05:58.545+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T16:05:58.574+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.116 seconds
+[2022-10-12T16:07:22.421+0600] {processor.py:156} INFO - Started process (PID=22019) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:07:22.422+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T16:07:22.423+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:07:22.423+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:07:22.456+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:07:22.456+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T16:07:22.470+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:07:22.493+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:07:22.493+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:07:22.583+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:07:22.583+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T16:07:22.615+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.198 seconds
+[2022-10-12T16:08:41.731+0600] {processor.py:156} INFO - Started process (PID=22089) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:08:41.732+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T16:08:41.732+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:41.732+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:08:41.762+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:41.762+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T16:08:41.776+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:08:41.800+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:41.800+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:08:41.893+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:08:41.892+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T16:08:41.922+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.194 seconds
+[2022-10-12T16:10:03.951+0600] {processor.py:156} INFO - Started process (PID=22161) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:10:03.953+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T16:10:03.955+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:03.954+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:10:03.994+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:03.994+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T16:10:04.008+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:10:04.031+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:04.031+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:10:04.044+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:10:04.044+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T16:10:04.073+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.132 seconds
+[2022-10-12T16:11:22.423+0600] {processor.py:156} INFO - Started process (PID=22231) to work on /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:11:22.424+0600] {processor.py:758} INFO - Processing file /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-10-12T16:11:22.424+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:11:22.424+0600] {dagbag.py:525} INFO - Filling up the DagBag from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:11:22.455+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:11:22.455+0600] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2022-10-12T16:11:22.469+0600] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-10-12T16:11:22.492+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:11:22.492+0600] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-12T16:11:22.505+0600] {logging_mixin.py:117} INFO - [2022-10-12T16:11:22.505+0600] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-10-12T16:11:22.571+0600] {processor.py:178} INFO - Processing /home/saima/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.151 seconds
