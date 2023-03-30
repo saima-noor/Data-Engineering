@@ -18,3 +18,49 @@ Services:
     Azure Active directory (AD)
         - its an identity provider and access management service
         -  to access services like microsoft 365 or office 365 services or skype or outlook account etc then at first its logs in azure AD first to log in the services 
+
+
+    Azure Event Hubs
+
+
+    Azure IOT Hubs
+
+
+    Azure Cosmos DB
+
+
+    Azure Synapse Analytics
+
+
+    Azure Data Lake Gen2
+
+
+    Azure Stream Analytics
+
+
+    Azure Cognitive Services
+
+
+
+    Azure machine eLearning
+
+
+    Azure Data Share
+
+
+    Azure Key Vault
+
+
+    Azure Monitor
+
+
+    Security Center
+
+
+    Azure Devops and Github
+
+
+    Azure Policy
+
+
+    
