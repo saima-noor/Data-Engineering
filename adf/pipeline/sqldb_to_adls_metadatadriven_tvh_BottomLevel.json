@@ -441,6 +441,38 @@
 									}
 								]
 							}
+						},
+						{
+							"name": "Notebook1",
+							"type": "DatabricksNotebook",
+							"dependsOn": [
+								{
+									"activity": "RouteJobsBasedOnLoadingBehavior",
+									"dependencyConditions": [
+										"Succeeded"
+									]
+								}
+							],
+							"policy": {
+								"timeout": "0.12:00:00",
+								"retry": 0,
+								"retryIntervalInSeconds": 30,
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [],
+							"typeProperties": {
+								"notebookPath": "/Users/snoor@relisource.com/test2",
+								"baseParameters": {
+									"input": "@{json(item().SinkObjectSettings).fileName}-@{json(item().DataLoadingBehaviorSettings).watermarkColumnStartValue}-@{activity('GetMaxWatermarkValue').output.firstRow.CurrentMaxWaterMarkColumnValue}",
+									"input2": "@json(item().SinkObjectSettings).folderPath",
+									"input3": "@json(item().SinkObjectSettings).fileSystem"
+								}
+							},
+							"linkedServiceName": {
+								"referenceName": "ls_adb",
+								"type": "LinkedServiceReference"
+							}
 						}
 					]
 				}
