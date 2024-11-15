@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Create delta tables",
+				"name": "Createdeltatables",
 				"type": "DatabricksNotebook",
 				"dependsOn": [],
 				"policy": {
@@ -15,12 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/snoor@relisource.com/Test",
-					"baseParameters": {
-						"input": "@{json(item().SinkObjectSettings).fileName}-@{json(item().DataLoadingBehaviorSettings).watermarkColumnStartValue}-@{activity('GetMaxWatermarkValue').output.firstRow.CurrentMaxWaterMarkColumnValue}",
-						"input2": "@json(item().SinkObjectSettings).folderPath",
-						"input3": "@json(item().SinkObjectSettings).fileSystem"
-					}
+					"notebookPath": "/Users/snoor@relisource.com/Test"
 				},
 				"linkedServiceName": {
 					"referenceName": "ls_adb",
