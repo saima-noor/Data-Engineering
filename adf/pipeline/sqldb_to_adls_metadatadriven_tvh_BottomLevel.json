@@ -444,6 +444,48 @@
 						}
 					]
 				}
+			},
+			{
+				"name": "Lookup1",
+				"type": "Lookup",
+				"dependsOn": [
+					{
+						"activity": "ListObjectsFromOneGroup",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"typeProperties": {
+					"source": {
+						"type": "DelimitedTextSource",
+						"storeSettings": {
+							"type": "AzureBlobFSReadSettings",
+							"fileListPath": "newcontainer/newsqldata/dbo.data_Account.csv-2024-07-09T18:32:01.647-2024-07-09T18:32:01.647",
+							"enablePartitionDiscovery": false
+						},
+						"formatSettings": {
+							"type": "DelimitedTextReadSettings"
+						}
+					},
+					"dataset": {
+						"referenceName": "sqldb_to_adls_metadatadriven_tvh_DestinationDS",
+						"type": "DatasetReference",
+						"parameters": {
+							"cw_fileName": "@{json(item().SinkObjectSettings).fileName}-@{json(item().DataLoadingBehaviorSettings).watermarkColumnStartValue}-@{activity('GetMaxWatermarkValue').output.firstRow.CurrentMaxWaterMarkColumnValue}",
+							"cw_folderPath": "@json(item().SinkObjectSettings).folderPath",
+							"cw_fileSystem": "@json(item().SinkObjectSettings).fileSystem"
+						}
+					},
+					"firstRowOnly": false
+				}
 			}
 		],
 		"parameters": {
