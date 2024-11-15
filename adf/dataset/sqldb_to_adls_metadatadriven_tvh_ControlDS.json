@@ -1,0 +1,19 @@
+{
+	"name": "sqldb_to_adls_metadatadriven_tvh_ControlDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_sqldb_metadata",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "sqldb_to_adls_metadatadriven_tvh_20241115"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "sqltoadls_metadata"
+		}
+	}
+}
