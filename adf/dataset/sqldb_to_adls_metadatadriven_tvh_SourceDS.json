@@ -1,0 +1,33 @@
+{
+	"name": "sqldb_to_adls_metadatadriven_tvh_SourceDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_sqldb_source",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"cw_schema": {
+				"type": "String"
+			},
+			"cw_table": {
+				"type": "String"
+			}
+		},
+		"folder": {
+			"name": "sqldb_to_adls_metadatadriven_tvh_20241115"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": {
+				"value": "@dataset().cw_schema",
+				"type": "Expression"
+			},
+			"table": {
+				"value": "@dataset().cw_table",
+				"type": "Expression"
+			}
+		}
+	}
+}
