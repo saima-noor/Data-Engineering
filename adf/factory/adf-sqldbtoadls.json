@@ -1,0 +1,9 @@
+{
+	"name": "adf-sqldbtoadls",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "919c32fe-3770-4a3c-98ac-583c56db4efd",
+		"tenantId": "d34759d7-14bc-480c-a507-34c955a67c1a"
+	}
+}
