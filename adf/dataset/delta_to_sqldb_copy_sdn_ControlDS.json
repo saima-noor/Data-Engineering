@@ -1,0 +1,19 @@
+{
+	"name": "delta_to_sqldb_copy_sdn_ControlDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_sqldb_metadata",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "delta_to_sqldb_copy_sdn_20241117"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "delta_to_sqldb_metadata"
+		}
+	}
+}
