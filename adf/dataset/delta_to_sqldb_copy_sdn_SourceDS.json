@@ -1,0 +1,33 @@
+{
+	"name": "delta_to_sqldb_copy_sdn_SourceDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_adb_delta_lake",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"cw_database": {
+				"type": "String"
+			},
+			"cw_table": {
+				"type": "String"
+			}
+		},
+		"folder": {
+			"name": "delta_to_sqldb_copy_sdn_20241117"
+		},
+		"annotations": [],
+		"type": "AzureDatabricksDeltaLakeDataset",
+		"typeProperties": {
+			"database": {
+				"value": "@dataset().cw_database",
+				"type": "Expression"
+			},
+			"table": {
+				"value": "@dataset().cw_table",
+				"type": "Expression"
+			}
+		},
+		"schema": []
+	}
+}
