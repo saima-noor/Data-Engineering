@@ -21,6 +21,29 @@
 					"referenceName": "ls_adb",
 					"type": "LinkedServiceReference"
 				}
+			},
+			{
+				"name": "ExecutePipeline2",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "Createdeltatables",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"policy": {
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "delta_to_sqldb_copy_sdn_TopLevel",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true
+				}
 			}
 		],
 		"annotations": []
