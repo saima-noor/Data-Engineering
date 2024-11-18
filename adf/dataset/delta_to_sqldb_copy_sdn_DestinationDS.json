@@ -1,0 +1,33 @@
+{
+	"name": "delta_to_sqldb_copy_sdn_DestinationDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_sqldb_destination",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"cw_schema": {
+				"type": "String"
+			},
+			"cw_table": {
+				"type": "String"
+			}
+		},
+		"folder": {
+			"name": "delta_to_sqldb_copy_sdn_20241117"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": {
+				"value": "@dataset().cw_schema",
+				"type": "Expression"
+			},
+			"table": {
+				"value": "@dataset().cw_table",
+				"type": "Expression"
+			}
+		}
+	}
+}
