@@ -1,0 +1,9 @@
+version: 2
+models:
+  - name: stg_sales_transactions
+    columns:
+      - name: cost
+        tests:
+          - dbt_expectations.expect_column_values_to_be_positive:
+              config:
+                severity: warn

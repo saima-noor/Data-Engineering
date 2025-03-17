@@ -1,0 +1,9 @@
+version: 2
+models:
+  - name: marketing_sales_report
+    columns:
+      - name: total_revenue
+        tests:
+          - dbt_expectations.expect_column_values_to_be_positive:
+              config:
+                severity: warn

@@ -1,0 +1,22 @@
+version: 2
+models:
+  - name: stg_sales_transactions
+    columns:
+      - name: transaction_id
+        tests:
+          - not_null
+      - name: product_id
+        tests:
+          - not_null
+      - name: user_id
+        tests:
+          - not_null
+      - name: transaction_timestamp
+        tests:
+          - not_null
+      - name: revenue
+        tests:
+          - not_null
+      - name: cost
+        tests:
+          - not_null

@@ -1,0 +1,144 @@
+#this is the Documentation of the models with the purpose and structure of each model
+
+version: 2
+
+models:
+  - name: stg_marketing_events
+    description: "Staging model for marketing events data. Loads raw marketing events and performs minimal transformations."
+    columns:
+      - name: event_id
+        description: "Unique identifier for each marketing event. Primary key. Assumed to be unique."
+      - name: user_id
+        description: "User identifier associated with the event. Links to sales transactions."
+      - name: event_timestamp
+        description: "Timestamp of the marketing event. Used for time-based analysis."
+      - name: channel
+        description: "Marketing channel used (e.g., email, social). No assumptions about allowed values."
+      - name: campaign
+        description: "Marketing campaign name. No assumptions about uniqueness or allowed values."
+      - name: cost
+        description: "Cost of the marketing event. Assumed to be in a consistent currency."
+    tests:
+      - unique:
+          column_name: event_id
+    config:
+      materialized: view # Staging models are typically views for efficiency.
+
+  - name: stg_sales_transactions
+    description: "Staging model for sales transaction data. Loads raw sales data and performs minimal transformations."
+    columns:
+      - name: transaction_id
+        description: "Unique identifier for each sales transaction. Primary key. Assumed to be unique."
+      - name: product_id
+        description: "Product identifier. Links to product catalog."
+      - name: user_id
+        description: "User identifier associated with the transaction. Links to marketing events."
+      - name: transaction_timestamp
+        description: "Timestamp of the sales transaction. Used for time-based analysis."
+      - name: revenue
+        description: "Revenue generated from the transaction. Assumed to be in a consistent currency."
+      - name: cost
+        description: "Cost associated with the transaction. Assumed to be in a consistent currency."
+    tests:
+      - unique:
+          column_name: transaction_id
+    config:
+      materialized: view # Staging models are typically views for efficiency.
+
+  - name: stg_product_catalog
+    description: "Staging model for product catalog data. Loads raw product data and performs minimal transformations."
+    columns:
+      - name: product_id
+        description: "Unique identifier for each product. Primary key. Assumed to be unique."
+      - name: product_name
+        description: "Name of the product."
+      - name: category
+        description: "Category of the product. No assumptions about allowed values."
+    tests:
+      - unique:
+          column_name: product_id
+    config:
+      materialized: view # Staging models are typically views for efficiency.
+
+  - name: int_marketing_costs
+    description: "Intermediate model aggregating marketing costs by year and month. Pre-aggregates for performance."
+    columns:
+      - name: year
+        description: "Year of the marketing event. Extracted from event_timestamp."
+      - name: month
+        description: "Month of the marketing event. Extracted from event_timestamp."
+      - name: total_marketing_cost
+        description: "Total marketing cost for the year and month. Aggregated from cost. Assumed to be in a consistent currency."
+    config:
+      materialized: view # Intermediate models are usually views for flexibility.
+
+  - name: marketing_sales_report
+    description: "Final model reporting marketing and sales metrics, aggregated by year, month, and category. Designed for reporting and analysis."
+    columns:
+      - name: year
+        description: "Year of the sales transaction. Extracted from transaction_timestamp."
+      - name: month
+        description: "Month of the sales transaction. Extracted from transaction_timestamp."
+      - name: category
+        description: "Category of the product sold. From product_catalog."
+      - name: unique_customers
+        description: "Count of unique customers making purchases in the given year and month."
+      - name: total_revenue
+        description: "Total revenue for the year and month. Aggregated from sales_transactions. Assumed to be in a consistent currency."
+      - name: total_cost
+        description: "Total cost of sales for the year and month. Aggregated from sales_transactions. Assumed to be in a consistent currency."
+      - name: total_marketing_cost
+        description: "Total marketing cost for the year and month. From int_marketing_costs. Assumed to be in a consistent currency."
+      - name: total_marketing_events
+        description: "Total marketing events associated with sales in the year and month."
+      - name: revenue_to_cost_ratio
+        description: "Ratio of revenue to cost. Calculated from total_revenue and total_cost."
+    config:
+      materialized: view # Final reporting models can be views or tables depending on performance needs.
+
+tests:
+  - dbt_expectations.expect_column_values_to_be_positive: # Checks for positive revenue
+      column_name: revenue
+      model: stg_sales_transactions
+      config:
+        severity: warn # Warning level for non-positive revenue
+  - dbt_expectations.expect_column_values_to_be_positive: # Checks for positive costs
+      column_name: cost
+      model: stg_sales_transactions
+      config:
+        severity: warn # Warning level for non-positive costs
+  - dbt_expectations.expect_column_values_to_be_positive: # Checks for positive marketing costs
+      column_name: cost
+      model: stg_marketing_events
+      config:
+        severity: warn # Warning level for non-positive marketing costs
+  - dbt_expectations.expect_column_values_to_be_positive: # Checks for positive aggregated marketing costs
+      column_name: total_marketing_cost
+      model: int_marketing_costs
+      config:
+        severity: warn # Warning level for non-positive aggregated costs
+  - dbt_expectations.expect_column_values_to_be_positive: # Checks for positive unique customers
+      column_name: unique_customers
+      model: marketing_sales_report
+      config:
+        severity: warn # Warning level for non-positive customer counts
+  - dbt_expectations.expect_column_values_to_be_positive: # Checks for positive total revenue
+      column_name: total_revenue
+      model: marketing_sales_report
+      config:
+        severity: warn # Warning level for non-positive revenue
+  - dbt_expectations.expect_column_values_to_be_positive: # Checks for positive total costs
+      column_name: total_cost
+      model: marketing_sales_report
+      config:
+        severity: warn # Warning level for non-positive costs
+  - dbt_expectations.expect_column_values_to_be_positive: # Checks for positive aggregated marketing costs
+      column_name: total_marketing_cost
+      model: marketing_sales_report
+      config:
+        severity: warn # Warning level for non-positive aggregated costs
+  - dbt_expectations.expect_column_values_to_be_positive: # Checks for positive marketing event counts
+      column_name: total_marketing_events
+      model: marketing_sales_report
+      config:
+        severity: warn # Warning level for non-positive marketing event counts

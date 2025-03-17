@@ -1,0 +1,7 @@
+version: 2
+models:
+  - name: stg_sales_transactions
+    columns:
+      - name: transaction_id
+        tests:
+          - unique
